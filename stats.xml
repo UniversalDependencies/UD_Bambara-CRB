@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>6</sentences><tokens>85</tokens><words>85</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="58" /><!-- ,, ., à, tùn, b', kàn, kɛ́nɛ, Bàmakɔ, Mahamadu, misiriba, òlú, 1976, 8, Aharati, Ámadù -->
+  <forms unique="58" /><!-- ,, ., a, tun, b', kan, kɛnɛ, Bamakɔ, Mahamudu, misiriba, olu, 1976, 8, Aharati, Amadu -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="11">
+    <tag name="ADJ">1</tag><!-- cáman -->
+    <tag name="ADP">6</tag><!-- kàn, bólo, ká, yé -->
+    <tag name="AUX">4</tag><!-- b', bɛ́ -->
+    <tag name="CCONJ">2</tag><!-- àni, ní -->
+    <tag name="NOUN">25</tag><!-- kɛ́nɛ, misiriba, àlimami, áwirilikalo, bàto, diinɛɲɛmɔgɔw, díinɛko, jumamisiriba, jɔli, lasigidenw -->
+    <tag name="NUM">3</tag><!-- 1976, 8, fɔlɔw -->
+    <tag name="PART">5</tag><!-- tùn, dè -->
+    <tag name="PRON">6</tag><!-- à, òlú -->
+    <tag name="PROPN">18</tag><!-- Bàmakɔ, Mahamadu, Aharati, Ámadù, Bili, Cɛrino, Dikko, Fayisali, Hasi, Jàlo -->
+    <tag name="PUNCT">13</tag><!-- ,, . -->
+    <tag name="VERB">2</tag><!-- dára, kɛ́ra -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="12">
+    <feat name="AdjType" value="Attr" upos="ADJ">1</feat><!-- caman -->
+    <feat name="ASpect" value="Perf" upos="VERB">1</feat><!-- kɛra -->
+    <feat name="Aspectpect" value="Perf" upos="VERB">1</feat><!-- dara -->
+    <feat name="Number" value="Plur" upos="NOUN,NUM,PRON">6</feat><!-- olu, Silamɛjamanaw, diinɛɲɛmɔgɔw, fɔlɔw, lasigidenw -->
+    <feat name="Number" value="Sing" upos="PRON">4</feat><!-- a -->
+    <feat name="NumType" value="Card" upos="NUM">1</feat><!-- 8 -->
+    <feat name="Person" value="3" upos="PRON">4</feat><!-- a -->
+    <feat name="Polarity" value="Pos" upos="AUX,VERB">5</feat><!-- b', bɛ, dara -->
+    <feat name="PronType" value="Prs" upos="PRON">6</feat><!-- a, olu -->
+    <feat name="Tense" value="Past" upos="PART">8</feat><!-- tun -->
+    <feat name="Valency" value="1" upos="VERB">2</feat><!-- dara, kɛra -->
+    <feat name="Voice" value="Cau" upos="NOUN">2</feat><!-- lasigiden, lasigidenw -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="19">
+    <dep name="_">7</dep>
+    <dep name="advmod">1</dep>
+    <dep name="amod">2</dep>
+    <dep name="appos">4</dep>
+    <dep name="aux">4</dep>
+    <dep name="case">6</dep>
+    <dep name="cc">2</dep>
+    <dep name="conj">4</dep>
+    <dep name="cop">2</dep>
+    <dep name="dislocated">2</dep>
+    <dep name="flat">4</dep>
+    <dep name="flat:name">5</dep>
+    <dep name="nmod">1</dep>
+    <dep name="nmod:poss">17</dep>
+    <dep name="nsubj">6</dep>
+    <dep name="nummod">1</dep>
+    <dep name="obl">3</dep>
+    <dep name="punct">13</dep>
+    <dep name="root">1</dep>
+  </deps>
+</treebank>
