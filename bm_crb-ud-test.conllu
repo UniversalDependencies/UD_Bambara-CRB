@@ -1,17 +1,17 @@
-# sent_id = html/03dennyuman_ni_kononin.dis.html:1
+# sent_id = 03dennyuman_ni_kononin.dis.html:1
 # text = <>NSIIRI SABANAN</>
-1	<>	_	X	_	_	0	root	_	Gloss=_
+1	<>	_	X	_	_	0	root	_	Gloss=_|SpaceAfter=No
 2	NSIIRI	nsíiri	NOUN	n	_	3	nsubj	_	Gloss=conte
-3	SABANAN	sábanan	ADJ	adj	NumType=Ord	1	amod	_	Gloss=troisième|Morf=troisième,trois,ORD
+3	SABANAN	sábanan	ADJ	adj	NumType=Ord	1	amod	_	Gloss=troisième|Morf=troisième,trois,ORD|SpaceAfter=No
 4	</>	_	X	_	_	1	punct	_	Gloss=_
 
-# sent_id = html/03dennyuman_ni_kononin.dis.html:2
+# sent_id = 03dennyuman_ni_kononin.dis.html:2
 # text = <>Den ɲuman ni Kɔnɔnin</>
-1	<>	_	X	_	_	2	discourse	_	Gloss=_
+1	<>	_	X	_	_	2	discourse	_	Gloss=_|SpaceAfter=No
 2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
 3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
 4	ni	ni	X	conj	_	5	cc	_	Gloss=et
-5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	2	conj	_	Gloss=oiseau|Morf=oiseau,DIM
+5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	2	conj	_	Gloss=oiseau|Morf=oiseau,DIM|SpaceAfter=No
 6	</>	_	X	_	_	2	punct	_	Gloss=_
 
 # sent_id = ko.1
@@ -16932,3 +16932,4 @@
 11	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
 12	yen	yèn	ADV	adv	_	11	obl	_	Gloss=là-bas|SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
