@@ -1,41 +1,38 @@
-Sun Feb 11 20:30:45 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Bambara
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
-Evaluating the following revision of UD_Bambara:
-commit ab9d3be7b508007bf05fd4a9b5b9a888acdf3325
+Date:   Sat Apr 21 19:02:58 2018 +0200
+Evaluating the following revision of UD_Bambara-CRB:
+commit 2b8db357b8e13fb3ff78b6ba7da58aa7338b5ecc
+Merge: 362bbff d7471d3
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 11 13:46:57 2017 +0100
-Size: counted 85 of 85 words (nodes).
-Size: min(0, log((N/1000)**2)) = 0.
+Size: counted 13823 of 13823 words (nodes).
+Size: min(0, log((N/1000)**2)) = 5.25266774296444.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
-Split: Did not find at least 10000 test words.
+Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
-Universal POS tags: 11 out of 17 found in the corpus.
+Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 23 out of 85 total words have one or more features.
+Features: 3984 out of 13823 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 17 out of 37 found in the corpus.
+Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 0 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 85 words.
-Genres: found 2 out of 14 known.
+Udapi: found 3292 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 13823 words.
+Genres: found 2 out of 17 known.
+validate.py --lang bm --max-err=10 UD_Bambara-CRB/bm_crb-ud-test.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
-(weight=0.0769230769230769) * (score{genres}=0.142857142857143) = 0.010989010989011
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0) = 0
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.517647058823529) = 0.0398190045248869
-(weight=0.307692307692308) * (score{udapi}=1) = 0.307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.367567567567568) = 0.0282744282744283
-(TOTAL score=0.467287571993454) * (availability=1) * (validity=0.01) = 0.00467287571993454
-STARS = 0
-UD_Bambara	0.00467287571993454	0
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
+(weight=0.256410256410256) * (score{size}=0.380200769340111) = 0.0974873767538746
+(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
+(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.67027027027027) = 0.0515592515592516
+(TOTAL score=0.316527774617802) * (availability=1) * (validity=1) = 0.316527774617802
+STARS = 1.5
+UD_Bambara-CRB	0.316527774617802	1.5
