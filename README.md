@@ -2,6 +2,7 @@
 
 The UD Bambara treebank is a section of the Corpus Référence du Bambara annotated natively with Universal Dependencies.
 
+
 # Introduction
 
 Bambara (also known as Bamana) is the most widely-spoken language of the Manding language group (Niger-Congo > Mande > Western Mande). It is spoken mainly in Mali by 13-14 million people;
@@ -23,6 +24,14 @@ to base this on their work.
 * Maslinsky, K. (2014). Daba: a model and tools for Manding corpora. In Proceedings of TALAf 2014 : Traitement Automatique des Langues Africaines, pages 114-122.
 * Tyers, F. M., Sheyanova, M., and Washington, J. N. (2018). UD Annotatrix: An annotation tool for Universal Dependencies. In Proceedings of the 16th International Workshop on Treebanks and Linguistic Theories.
 * Vydrin, V. (2013). Bamana reference corpus (BRC). Procedia - Social and Behavioral Sciences, 95, pages 75–80.
+
+
+# Changelog
+
+* 2019-05-15 v2.4
+  * Normalized Unicode.
+* 2018-11-15 v2.3
+  * Initial release in Universal Dependencies.
 
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
