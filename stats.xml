@@ -6,60 +6,63 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1026</sentences><tokens>13823</tokens><words>13823</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1026</sentences><tokens>13823</tokens><words>13823</words><fused>0</fused></test>
   </size>
-  <lemmas unique="964" /><!-- à, ,, ., kó, yé, kà, ò, ń, !, bɛ́, í, nìn, ù, ye, ní -->
-  <forms unique="981" /><!-- a, ,, ., ko, ka, ye, o, bè, n, !, na, i, ma, nin, u -->
+  <lemmas unique="964" /><!-- à, ,, ., kó, yé, kà, ò, ń, !, bɛ́, í, nìn, ù, ye, ní -->
+  <forms unique="981" /><!-- a, ,, ., ko, ka, ye, o, bè, n, !, na, i, ma, nin, u -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">69</tag><!-- kɛ́nɛ, _, cá.man, ɲumannin, camanba, jàlan, ɲùman, júgu, kúra, sɛ̀bɛ -->
-    <tag name="ADP">1034</tag><!-- yé, ná, lá, mà, fɛ̀, ká, ka, bólo, kàn, _ -->
-    <tag name="ADV">176</tag><!-- yèn, dɔ́rɔn, yàn, tèn, tí, _, sísan, túgun, túguni, fɔ́lɔ -->
-    <tag name="AUX">1363</tag><!-- kà, yé, ye, bɛ́, bɛ, tɛ́, ka, _, ká, má -->
-    <tag name="CCONJ">66</tag><!-- ní, àni, ni, ô, _, ó, mè, n', aprɛ, epi -->
-    <tag name="DET">504</tag><!-- nìn, ò, dɔ́, bɛ́ɛ, mín, yɛ̀rɛ, ninw, sí, mîn, _ -->
-    <tag name="INTJ">224</tag><!-- ée, áyiwa, wiyan, ta, dɛ́rɛn, jàa, kusa, fɔ̀nhɔn, wewu, bòn -->
-    <tag name="NOUN">2145</tag><!-- _, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ -->
-    <tag name="NUM">92</tag><!-- kélen, fìla, kɔ̀nɔntɔn, ségin, sàba, _, 6, nan, wólonfìla, wɔ́ɔrɔ -->
-    <tag name="PART">702</tag><!-- kó, dè, fána, tùn, _, dɛ́, dún, sá, wà, bìlen -->
-    <tag name="PRON">2512</tag><!-- à, ń, ò, í, ù, _, né, é, nìn, nê -->
-    <tag name="PROPN">292</tag><!-- Tara, Ámadù, Namaramatu, Ámàdu, Jasun, Dáwuda, Bilali, Kusuba, Mamadu, Tàrawéle -->
+    <tag name="ADJ">69</tag><!-- kɛ́nɛ, _, cá.man, ɲumannin, camanba, jàlan, ɲùman, júgu, kúra, sɛ̀bɛ -->
+    <tag name="ADP">1034</tag><!-- yé, ná, lá, mà, fɛ̀, ká, ka, bólo, kàn, _ -->
+    <tag name="ADV">176</tag><!-- yèn, dɔ́rɔn, yàn, tèn, tí, _, sísan, túgun, túguni, fɔ́lɔ -->
+    <tag name="AUX">1363</tag><!-- kà, yé, ye, bɛ́, bɛ, tɛ́, ka, _, ká, má -->
+    <tag name="CCONJ">66</tag><!-- ní, àni, ni, ô, _, ó, mè, n', aprɛ, epi -->
+    <tag name="DET">504</tag><!-- nìn, ò, dɔ́, bɛ́ɛ, mín, yɛ̀rɛ, ninw, sí, mîn, _ -->
+    <tag name="INTJ">224</tag><!-- ée, áyiwa, wiyan, ta, dɛ́rɛn, jàa, kusa, fɔ̀nhɔn, wewu, bòn -->
+    <tag name="NOUN">2145</tag><!-- _, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ -->
+    <tag name="NUM">92</tag><!-- kélen, fìla, kɔ̀nɔntɔn, ségin, sàba, _, 6, nan, wólonfìla, wɔ́ɔrɔ -->
+    <tag name="PART">702</tag><!-- kó, dè, fána, tùn, _, dɛ́, dún, sá, wà, bìlen -->
+    <tag name="PRON">2512</tag><!-- à, ń, ò, í, ù, _, né, é, nìn, nê -->
+    <tag name="PROPN">292</tag><!-- Tara, Namaramatu, Ámadù, Ámàdu, Jasun, Dáwuda, Bilali, Kusuba, Mamadu, Tàrawéle -->
     <tag name="PUNCT">1944</tag><!-- ,, ., !, ?, :, _, “, ”, -, ‐ -->
-    <tag name="SCONJ">183</tag><!-- ní, fó, kó, mínkɛ, kàbini, sá.ni, _, kómi, bárisa, n' -->
-    <tag name="VERB">2511</tag><!-- kó, tagara, tága, bɛ́, kɛ́, _, dí, fɔ́, nà, yé -->
-    <tag name="X">6</tag><!-- _, báwò, ni -->
+    <tag name="SCONJ">183</tag><!-- ní, fó, kó, mínkɛ, kàbini, sá.ni, _, kómi, bárisa, n' -->
+    <tag name="VERB">2511</tag><!-- kó, tagara, tága, bɛ́, kɛ́, _, dí, fɔ́, nà, yé -->
+    <tag name="X">6</tag><!-- _, báwò, ni -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="29">
     <feat name="AdjType" value="Attr" upos="ADJ">10</feat><!-- caman, camanba, KEGUNMAN -->
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">323</feat><!-- bè, tè, be, te, bɛ, b', tɛ -->
-    <feat name="Aspect" value="Perf" upos="ADJ,AUX,VERB">884</feat><!-- ye, tagara, nana, bòra, ma, sera, kèra, tora, cira, banna -->
-    <feat name="Aspect" value="Prog" upos="VERB">5</feat><!-- kotò, bintò, natò -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">323</feat><!-- bè, tè, be, te, bɛ, b', tɛ -->
+    <feat name="Aspect" value="Perf" upos="ADJ,AUX,VERB">884</feat><!-- ye, tagara, nana, bòra, ma, sera, kèra, tora, cira, banna -->
+    <feat name="Aspect" value="Prog" upos="VERB">5</feat><!-- kotò, bintò, natò -->
     <feat name="Definite" value="Def" upos="DET,PRON">200</feat><!-- nin, ninw, in -->
     <feat name="Mood" value="Cnd" upos="AUX">8</feat><!-- mana -->
     <feat name="Mood" value="Imp" upos="AUX">12</feat><!-- kana, ye -->
     <feat name="Mood" value="Sub" upos="AUX">50</feat><!-- ka -->
-    <feat name="Number" value="Plur" upos="DET,NOUN,PRON,PROPN">375</feat><!-- u, olu, an, aw, ninw, kòròkèw, denw, dòw, minw, misiw -->
-    <feat name="Number" value="Sing" upos="PRON">1519</feat><!-- a, n, ne, e, i, ale, ele, à -->
+    <feat name="Number" value="Plur" upos="DET,NOUN,PRON,PROPN">375</feat><!-- u, olu, an, aw, ninw, kòròkèw, denw, dòw, minw, misiw -->
+    <feat name="Number" value="Sing" upos="PRON">1519</feat><!-- a, n, ne, e, i, ale, ele, à -->
     <feat name="NumType" value="Card" upos="NUM">1</feat><!-- 6 -->
     <feat name="NumType" value="Ord" upos="ADJ,NUM">4</feat><!-- NAN, SABANAN, filanan, tannan -->
     <feat name="Person" value="1" upos="PRON">236</feat><!-- n, ne, an -->
     <feat name="Person" value="2" upos="PRON">145</feat><!-- e, i, aw, a -->
-    <feat name="Person" value="3" upos="PRON">1372</feat><!-- a, u, ale, ele, e, à -->
-    <feat name="Polarity" value="Neg" upos="AUX,VERB">166</feat><!-- tè, ma, kana, te, tɛ, man, tèna -->
-    <feat name="Polarity" value="Pos" upos="AUX,VERB">1229</feat><!-- ye, bè, tagara, nana, ka, bòra, sera, kèra, be, tora -->
+    <feat name="Person" value="3" upos="PRON">1372</feat><!-- a, u, ale, ele, e, à -->
+    <feat name="Polarity" value="Neg" upos="AUX,VERB">166</feat><!-- tè, ma, kana, te, tɛ, man, tèna -->
+    <feat name="Polarity" value="Pos" upos="AUX,VERB">1229</feat><!-- ye, bè, tagara, nana, ka, bòra, sera, kèra, be, tora -->
     <feat name="PronType" value="Dem" upos="DET,PRON">198</feat><!-- nin, ninw -->
     <feat name="PronType" value="Emp" upos="PRON">218</feat><!-- ne, e, ale, aw, ele -->
-    <feat name="PronType" value="Prs" upos="PRON">1864</feat><!-- a, n, i, u, olu, an, à -->
-    <feat name="PronType" value="Rcp" upos="PRON">17</feat><!-- nyògòn, nyògon -->
+    <feat name="PronType" value="Prs" upos="PRON">1864</feat><!-- a, n, i, u, olu, an, à -->
+    <feat name="PronType" value="Rcp" upos="PRON">17</feat><!-- nyògòn, nyògon -->
     <feat name="PronType" value="Rel" upos="DET,PRON">80</feat><!-- min, minw, mun -->
-    <feat name="Tense" value="Fut" upos="AUX">10</feat><!-- bèna, na, n', tèna -->
+    <feat name="Tense" value="Fut" upos="AUX">10</feat><!-- bèna, na, n', tèna -->
     <feat name="Tense" value="Past" upos="PART">38</feat><!-- tun -->
-    <feat name="Valency" value="1" upos="VERB">448</feat><!-- tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna -->
+    <feat name="Valency" value="1" upos="VERB">448</feat><!-- tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna -->
     <feat name="Valency" value="2" upos="AUX">370</feat><!-- ye, y' -->
-    <feat name="VerbForm" value="Part" upos="ADJ,VERB">40</feat><!-- sigilen, nalen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen -->
-    <feat name="VerbForm" value="Vnoun" upos="NOUN">20</feat><!-- kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini -->
-    <feat name="Voice" value="Cau" upos="VERB">15</feat><!-- labò, lajigin, lajè, dalajè, laminè, latila -->
+    <feat name="VerbForm" value="Part" upos="ADJ,VERB">40</feat><!-- sigilen, nalen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen -->
+    <feat name="VerbForm" value="Vnoun" upos="NOUN">20</feat><!-- kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini -->
+    <feat name="Voice" value="Cau" upos="VERB">15</feat><!-- labò, lajigin, lajè, dalajè, laminè, latila -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="35">
