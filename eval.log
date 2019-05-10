@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Bambara-CRB:
-commit 2b8db357b8e13fb3ff78b6ba7da58aa7338b5ecc
-Merge: 362bbff d7471d3
+commit b6f5ac4f19c1c45677e0d2870a3df019dadd31c0
+Merge: e2497ec 484c8ca
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 13823 of 13823 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.25266774296444.
