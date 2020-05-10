@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Bambara-CRB:
-commit b54a86a539cbe7de551b16db847319eaa803b5f7
+commit e3a1fac62284297aac77186e135f6807e25a45ec
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 20:55:53 2019 +0200
+Date:   Tue Nov 12 16:42:40 2019 +0100
 Size: counted 13823 of 13823 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.25266774296444.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,16 +25,27 @@ Genres: found 2 out of 17 known.
 validate.py --lang bm --max-err=10 UD_Bambara-CRB/bm_crb-ud-test.conllu
 [Line 6 Sent 03dennyuman_ni_kononin.dis.html:1 Node 4]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'X'
 [Line 15 Sent 03dennyuman_ni_kononin.dis.html:2 Node 6]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'X'
+[Line 589 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:4 Node 2]: [L5 Morpho aux-lemma] 'y'' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
+[Line 592 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:4 Node 5]: [L5 Morpho aux-lemma] 'k'' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
+[Line 614 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:5 Node 9]: [L5 Morpho aux-lemma] 'bɛ' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
+[Line 618 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:5 Node 13]: [L5 Morpho aux-lemma] 'kà' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
 [Line 645 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:7 Node 10]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [9]
+[Line 641 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:7 Node 6]: [L5 Morpho aux-lemma] 'y'' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
 [Line 659 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:8 Node 3]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
 [Line 702 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:8 Node 46]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [45]
+[Line 714 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:9 Node 6]: [L5 Morpho aux-lemma] 'ka' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
+[Line 738 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:10 Node 8]: [L5 Morpho aux-lemma] 'ma' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
+[Line 752 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:10 Node 22]: [L5 Morpho aux-lemma] 'bɛ' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
+[Line 756 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:10 Node 26]: [L5 Morpho aux-lemma] 'kà' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
 [Line 787 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:12 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
 [Line 796 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:12 Node 21]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
 [Line 807 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:13 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
 [Line 833 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:13 Node 28]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+...suppressing further errors regarding Morpho
 ...suppressing further errors regarding Syntax
+Morpho errors: 1313
 Syntax errors: 111
-*** FAILED *** with 111 errors
+*** FAILED *** with 1424 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
