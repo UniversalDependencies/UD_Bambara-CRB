@@ -545,8 +545,8 @@
 16	.	_	PUNCT	_	_	10	punct	_	_
 
 # sent_id = ko.26
-# label = second_pred
 # text = n ka foro fana fililen tɛ to ko kunbɛnni.
+# label = second_pred
 1	n	_	PRON	_	_	3	nmod:poss	_	_
 2	ka	_	ADP	_	_	1	case	_	_
 3	foro	_	NOUN	_	_	7	nsubj	_	_
@@ -4767,7 +4767,7 @@
 4	na	ná	ADP	pp	_	3	case	_	Gloss=dans|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 6	cèkòròbaw	cɛkɔrɔbaw	NOUN	n	Number=Plur	8	nsubj	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM,PL
-7	caman	cá.man	ADJ	adj	AdjType=Attr	6	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+7	caman	cá.man	ADJ	adj	_	6	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
 8	sigilen	sigilen	VERB	ptcp	Aspect=Perf|VerbForm=Part	2	parataxis	_	Gloss=asseoir|Morf=asseoir,PTCP.RES
 9	bè	bɛ́	AUX	cop	Polarity=Pos	8	aux	_	Gloss=BE|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -6462,7 +6462,7 @@
 10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
 11	ani	àni	CCONJ	conj	_	12	cc	_	Gloss=ainsi.que
 12	fèn	fɛ́n	NOUN	n	_	9	conj	_	Gloss=chose
-13	caman	cá.man	ADJ	adj	AdjType=Attr	12	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+13	caman	cá.man	ADJ	adj	_	12	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
 14	ye	yé	ADP	pp	_	12	case	_	Gloss=PP|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -8215,7 +8215,7 @@
 1	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	5	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
 2	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.Pos
 3	tulu	túlu	NOUN	n	_	5	obj	_	Gloss=huile
-4	camanba	camanba	ADJ	adj	AdjType=Attr	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ,AUG
+4	camanba	camanba	ADJ	adj	_	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ,AUG
 5	bò	bɔ́	VERB	v	_	0	root	_	Gloss=sortir
 6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
 7	di	dí	VERB	v	_	5	xcomp	_	Gloss=donner
@@ -8412,7 +8412,7 @@
 1	o	ò	PRON	prn	_	5	nsubj	_	Gloss=ce
 2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	dògò	dɔ́gɔ	NOUN	n	_	5	obj	_	Gloss=fagot
-4	caman	cá.man	ADJ	adj	AdjType=Attr	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+4	caman	cá.man	ADJ	adj	_	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
 5	di	dí	VERB	v	_	0	root	_	Gloss=donner
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obl	_	Gloss=3SG
 7	ma	mà	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
@@ -8656,7 +8656,7 @@
 1	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	5	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
 2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	kògò	kɔ̀gɔ	NOUN	n	_	5	obj	_	Gloss=sel
-4	camanba	camanba	ADJ	adj	AdjType=Attr	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ,AUG
+4	camanba	camanba	ADJ	adj	_	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ,AUG
 5	di	dí	VERB	v	_	0	root	_	Gloss=donner
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obl	_	Gloss=3SG
 7	ma	mà	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
@@ -8917,7 +8917,7 @@
 1	kògòji	kɔ̀gɔ.ji	NOUN	n	_	5	nsubj	_	Gloss=mer|Morf=mer,sel,eau
 2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	jègè	jɛ́gɛ	NOUN	n	_	5	obj	_	Gloss=poisson
-4	camanba	camanba	ADJ	adj	AdjType=Attr	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ,AUG
+4	camanba	camanba	ADJ	adj	_	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ,AUG
 5	di	dí	VERB	v	_	0	root	_	Gloss=donner
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obl	_	Gloss=3SG
 7	ma	mà	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
@@ -9344,7 +9344,7 @@
 # sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:1
 # text = CÈNIN KEGUNMAN
 1	CÈNIN	cɛ̀nin	NOUN	n	_	0	root	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
-2	KEGUNMAN	kègunman	ADJ	adj	AdjType=Attr	1	amod	_	Gloss=malin|Morf=malin,malin,ADJ
+2	KEGUNMAN	kègunman	ADJ	adj	_	1	amod	_	Gloss=malin|Morf=malin,malin,ADJ
 
 # sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:2
 # text = nsiirinin, nsiirinin
@@ -9373,7 +9373,7 @@
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
 7	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
 8	lògò	dɔ́gɔ	NOUN	n	_	10	obj	_	Gloss=fagot
-9	caman	cá.man	ADJ	adj	AdjType=Attr	8	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+9	caman	cá.man	ADJ	adj	_	8	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
 10	nyini	ɲíni	VERB	v	_	4	parataxis	_	Gloss=chercher
 11	ka	kà	AUX	pm	_	13	aux	_	Gloss=INF
 12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	obj	_	Gloss=3SG
@@ -11214,7 +11214,7 @@
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
 2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	san	sàn	NOUN	n	_	5	obj	_	Gloss=année
-4	caman	cá.man	ADJ	adj	AdjType=Attr	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+4	caman	cá.man	ADJ	adj	_	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
 5	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
@@ -11915,7 +11915,7 @@
 7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=3SG
 8	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
 9	tile	tìle	NOUN	n	_	11	obj	_	Gloss=soleil
-10	caman	cá.man	ADJ	adj	AdjType=Attr	9	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+10	caman	cá.man	ADJ	adj	_	9	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
 11	taama	táama	VERB	v	_	5	parataxis	_	Gloss=marcher|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
 13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=3SG
