@@ -1,13 +1,13 @@
 # sent_id = 03dennyuman_ni_kononin.dis.html:1
 # text = <>NSIIRI SABANAN</>
-1	<>	_	PUNCT	_	_	0	root	_	Gloss=_|SpaceAfter=No
-2	NSIIRI	nsíiri	NOUN	n	_	3	nsubj	_	Gloss=conte
-3	SABANAN	sábanan	ADJ	adj	NumType=Ord	1	amod	_	Gloss=troisième|Morf=troisième,trois,ORD|SpaceAfter=No
-4	</>	_	PUNCT	_	_	1	punct	_	Gloss=_
+1	<>	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	NSIIRI	nsíiri	NOUN	n	_	0	root	_	Gloss=conte
+3	SABANAN	sábanan	ADJ	adj	NumType=Ord	2	amod	_	Gloss=troisième|Morf=troisième,trois,ORD|SpaceAfter=No
+4	</>	_	PUNCT	_	_	2	punct	_	Gloss=_
 
 # sent_id = 03dennyuman_ni_kononin.dis.html:2
 # text = <>Den ɲuman ni Kɔnɔnin</>
-1	<>	_	PUNCT	_	_	2	discourse	_	Gloss=_|SpaceAfter=No
+1	<>	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No
 2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
 3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
 4	ni	ni	CCONJ	conj	_	5	cc	_	Gloss=et
