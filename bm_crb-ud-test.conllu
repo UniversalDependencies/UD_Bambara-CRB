@@ -656,7 +656,7 @@
 # label = ccomp
 1	Mun	mùn	PRON	prn	_	4	nsubj	_	Gloss=quoi
 2	de	dè	PART	prt	_	1	discourse	_	Gloss=FOC
-3	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
+3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
 4	bɛ	bɛ́	VERB	cop	_	0	root	_	Gloss=être
 5	yen	yèn	ADV	adv	_	4	obl	_	Gloss=là-bas|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	_	Gloss=?|SpaceAfter=No
@@ -784,7 +784,7 @@
 9	:	:	PUNCT	_	_	6	punct	_	Gloss=:
 10	“	“	PUNCT	_	_	13	punct	_	Gloss=“|SpaceAfter=No
 11	E	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	13	nsubj	_	Gloss=2SG.EMPH
-12	tun	tùn	PART	prt	Tense=Past	13	aux	_	Gloss=PST
+12	tun	tùn	AUX	prt	Tense=Past	13	aux	_	Gloss=PST
 13	bɛ	bɛ́	VERB	cop	_	6	parataxis:obj	_	Gloss=être
 14	mun	mùn	PRON	prn	_	13	obl	_	Gloss=quoi
 15	na	ná	ADP	pp	_	14	case	_	Gloss=à
@@ -793,7 +793,7 @@
 18	e	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	19	nmod:poss	_	Gloss=2SG.EMPH
 19	ta	tá	NOUN	n	_	20	nmod:poss	_	Gloss=propriété
 20	tɔ	tɔ̀	NOUN	n	_	22	nsubj	_	Gloss=le.reste
-21	tun	tùn	PART	prt	Tense=Past	22	aux	_	Gloss=PST
+21	tun	tùn	AUX	prt	Tense=Past	22	aux	_	Gloss=PST
 22	tɛ	tɛ́	VERB	cop	Polarity=Neg	13	parataxis	_	Gloss=COP.NEG
 23	bo	bò	NOUN	n	_	24	nmod:poss	_	Gloss=excrément
 24	kɛ	kɛ́	NOUN	v	_	22	obl	_	Gloss=faire
@@ -804,7 +804,7 @@
 # sent_id = konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:13
 # text = Mun tun bɛ yen?” Denkɛ ko: “Baa, kabini ne taara, ka ne sigilen to n bo kunna, kɔnɔ dɔ de tun b'a la ka tɛmɛ, fo sisan de, n'a banna tɛmɛ na.
 1	Mun	mùn	PRON	prn	_	3	nsubj	_	Gloss=quoi
-2	tun	tùn	PART	prt	Tense=Past	3	aux	_	Gloss=PST
+2	tun	tùn	AUX	prt	Tense=Past	3	aux	_	Gloss=PST
 3	bɛ	bɛ́	VERB	cop	_	0	root	_	Gloss=être
 4	yen	yèn	ADV	adv	_	3	obl	_	Gloss=là-bas|SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	Gloss=?|SpaceAfter=No
@@ -830,7 +830,7 @@
 25	kɔnɔ	kɔ̀nɔ	NOUN	n	_	29	nsubj	_	Gloss=oiseau
 26	dɔ	dɔ́	DET	dtm	_	25	det	_	Gloss=certain
 27	de	dè	PART	prt	_	25	discourse	_	Gloss=FOC
-28	tun	tùn	PART	prt	Tense=Past	29	aux	_	Gloss=PST
+28	tun	tùn	AUX	prt	Tense=Past	29	aux	_	Gloss=PST
 29	b'	b'	VERB	cop	_	8	parataxis:obj	_	Gloss=être|SpaceAfter=No
 30	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	29	obl	_	Gloss=3SG
 31	la	lá	ADP	pp	_	30	case	_	Gloss=à
@@ -894,7 +894,7 @@
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	“	“	PUNCT	_	_	7	punct	_	Gloss=“|SpaceAfter=No
 5	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
-6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+6	tun	tùn	AUX	prt	Tense=Past	7	aux	_	Gloss=PST
 7	bɛ	bɛ́	VERB	cop	_	2	parataxis:obj	_	Gloss=être
 8	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=2SG
 9	ka	ka	ADP	pp	_	8	case	_	Gloss=POSS
@@ -961,7 +961,7 @@
 2	ani	àni	CCONJ	conj	_	3	cc	_	Gloss=ainsi.que
 3	syèdennin	syɛdennin	NOUN	n	_	1	conj	_	Gloss=poussin|Morf=poussin,poule,enfant,DIM
 4	o	ò	PRON	prn	_	6	nsubj	_	Gloss=ce
-5	tun	tùn	PART	prt	Tense=Past	6	aux	_	Gloss=PST
+5	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 6	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 7	lenburukariyòrò	lenburukariyɔrɔ	NOUN	n	_	6	obl	_	Gloss=agrume.en.général|Morf=agrume.en.général,casser,lieu|SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -5278,7 +5278,7 @@
 # sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:9
 # text = a bè kan ka ba sinamuso ka filen ko.
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
-2	bè	bɛ́	VERB	cop	Polarity=Pos	9	aux	_	Gloss=BE
+2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
 4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
@@ -5397,7 +5397,7 @@
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=
 3	i	í	PRON	pers	PronType=Prs	4	nmod:poss	_	Gloss=2.SG
-4	ba	bá	NOUN	n	_	5	aux	_	Gloss=mère
+4	ba	bá	AUX	n	_	5	aux	_	Gloss=mère
 5	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
 6	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	5	obl	_	Gloss=1SG.EMPH
 7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP|SpaceAfter=No
@@ -5455,7 +5455,7 @@
 # sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:20
 # text = surukuw bè kan ka nyògòn kin.
 1	surukuw	surukuw	NOUN	n	Number=Plur	6	nsubj	_	Gloss=hyène|Morf=hyène,PL
-2	bè	bɛ́	VERB	cop	Polarity=Pos	6	aux	_	Gloss=BE
+2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
 4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
 5	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	6	obj	_	Gloss=RECP
@@ -5567,7 +5567,7 @@
 1	warakalan	wára.nin.kalan	NOUN	n	_	8	dislocated	_	Gloss=panthère|Morf=panthère,fauve,DIM,bariolé
 2	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	8	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
 3	fana	fána	PART	prt	_	2	discourse	_	Gloss=aussi
-4	bè	bɛ́	VERB	cop	Polarity=Pos	8	aux	_	Gloss=BE
+4	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
 5	kan	kàn	ADP	pp	_	4	fixed	_	Gloss=sur
 6	ka	ka	AUX	pm	_	5	fixed	_	Gloss=INF
 7	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	8	obj	_	Gloss=RECP
@@ -5680,7 +5680,7 @@
 # text = a bè kan ka yèrè sogo tigè ka a dun.
 # label = k_a_yɛrɛ
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
-2	bè	bɛ́	VERB	cop	Polarity=Pos	7	aux	_	Gloss=BE
+2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
 4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
 5	yèrè	yɛ̀rɛ	DET	dtm	_	4	dep	_	Gloss=même
@@ -5833,7 +5833,7 @@
 4	sòrò	sɔ̀rɔ	VERB	v	_	2	xcomp	_	Gloss=obtenir
 5	gòòtè	gɔ̀tɛ	NOUN	n	_	12	dislocated	_	Gloss=lutin
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
-7	bè	bɛ́	VERB	cop	Polarity=Pos	12	aux	_	Gloss=BE
+7	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
 8	kan	kàn	ADP	pp	_	7	fixed	_	Gloss=sur
 9	ka	ka	AUX	pm	_	8	fixed	_	Gloss=INF
 10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3SG
@@ -6013,7 +6013,7 @@
 # sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:62
 # text = a bè kan ka o kè kolon na ka a bò ka a kè daga la.
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
-2	bè	bɛ́	VERB	cop	Polarity=Pos	6	aux	_	Gloss=BE
+2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
 4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
 5	o	ò	PRON	prn	_	6	obj	_	Gloss=ce
@@ -6184,15 +6184,15 @@
 1	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
 2	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	3	nmod:poss	_	Gloss=1SG.EMPH
 3	ba	bá	NOUN	n	_	4	nmod:poss	_	Gloss=mère
-4	kò	kɔ́	NOUN	n	_	6	aux	_	Gloss=dos
-5	tun	tùn	PART	prt	Tense=Past	6	aux	_	Gloss=PST
+4	kò	kɔ́	AUX	n	_	6	aux	_	Gloss=dos
+5	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 6	bè	bɛ́	VERB	cop	Polarity=Pos	14	advcl	_	Gloss=BE
 7	komi	kómi	ADP	conj	_	9	case	_	Gloss=comme
 8	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	9	nmod:poss	_	Gloss=2SG.EMPH
 9	kò	kɔ́	NOUN	n	_	6	obl	_	Gloss=dos|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 11	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	14	nsubj	_	Gloss=1SG.EMPH
-12	tun	tùn	PART	prt	Tense=Past	13	aux	_	Gloss=PST
+12	tun	tùn	AUX	prt	Tense=Past	13	aux	_	Gloss=PST
 13	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	14	aux	_	Gloss=IPFV.NEG
 14	se	sé	VERB	v	_	0	root	_	Gloss=arriver
 15	i	í	PRON	pers	PronType=Prs	14	obl	_	Gloss=2.SG
@@ -6495,7 +6495,7 @@
 # sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:96
 # text = o bè kan ka sagaw ani misiw gèngèn ka na dugukònòyòrò bèè.
 1	o	ò	PRON	prn	_	8	nsubj	_	Gloss=ce
-2	bè	bɛ́	VERB	cop	Polarity=Pos	8	aux	_	Gloss=BE
+2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
 4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
 5	sagaw	sagaw	NOUN	n	Number=Plur	8	obj	_	Gloss=ovin|Morf=ovin,PL
@@ -6665,7 +6665,7 @@
 3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	sòrò	sɔ̀rɔ	VERB	v	_	2	xcomp	_	Gloss=obtenir
 5	surukuw	surukuw	NOUN	n	Number=Plur	10	nsubj	_	Gloss=hyène|Morf=hyène,PL
-6	bè	bɛ́	VERB	cop	Polarity=Pos	10	aux	_	Gloss=BE
+6	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
 7	kan	kàn	ADP	pp	_	6	fixed	_	Gloss=sur
 8	ka	ka	AUX	pm	_	7	fixed	_	Gloss=INF
 9	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	10	obj	_	Gloss=RECP
@@ -6748,7 +6748,7 @@
 4	sòrò	sɔ̀rɔ	VERB	v	_	2	xcomp	_	Gloss=obtenir
 5	warakalan	wára.nin.kalan	NOUN	n	_	11	nsubj	_	Gloss=panthère|Morf=panthère,fauve,DIM,bariolé
 6	fana	fána	PART	prt	_	5	discourse	_	Gloss=aussi
-7	bè	bɛ́	VERB	cop	Polarity=Pos	11	aux	_	Gloss=BE
+7	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
 8	kan	kàn	ADP	pp	_	7	fixed	_	Gloss=sur
 9	ka	ka	AUX	pm	_	8	fixed	_	Gloss=INF
 10	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	11	obj	_	Gloss=RECP
@@ -6833,7 +6833,7 @@
 2	fana	fána	PART	prt	_	1	discourse	_	Gloss=aussi
 3	nyaji	ɲaji	NOUN	n	_	8	nsubj	_	Gloss=oeil|Morf=oeil,eau
 4	kelen	kélen	NUM	num	_	3	nummod	_	Gloss=un
-5	bè	bɛ́	VERB	cop	Polarity=Pos	8	aux	_	Gloss=BE
+5	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
 6	kan	kàn	ADP	pp	_	5	fixed	_	Gloss=sur
 7	ka	ka	AUX	pm	_	6	fixed	_	Gloss=INF
 8	bò	bɔ́	VERB	v	_	0	root	_	Gloss=sortir|SpaceAfter=No
@@ -7471,7 +7471,7 @@
 12	ni	ni	CCONJ	conj	_	13	cc	_	Gloss=et
 13	dògò	dɔ́gɔ	NOUN	n	_	11	conj	_	Gloss=cadet
 14	dò	dɔ́	DET	dtm	_	11	det	_	Gloss=certain
-15	tun	tùn	PART	prt	Tense=Past	16	aux	_	Gloss=PST
+15	tun	tùn	AUX	prt	Tense=Past	16	aux	_	Gloss=PST
 16	don	dòn	VERB	cop	_	4	parataxis	_	Gloss=ID|SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
@@ -7819,7 +7819,7 @@
 # sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:28
 # text = olu bè ka bò kari ni u nyin ye, fo dòw da bèè tigètigèra.
 1	olu	òlû	PRON	pers	Number=Plur|PronType=Prs	5	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
-2	bè	bɛ́	VERB	cop	_	5	aux	_	Gloss=être
+2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
 3	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 4	bò	bɔ̀	NOUN	n	_	2	fixed	_	Gloss=bambou
 5	kari	kári	VERB	v	_	0	root	_	Gloss=casser
@@ -8011,7 +8011,7 @@
 # sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:40
 # text = segi tun tè olu bolo.
 1	segi	sègi	NOUN	n	_	3	nsubj	_	Gloss=corbeille
-2	tun	tùn	PART	prt	Tense=Past	3	aux	_	Gloss=PST
+2	tun	tùn	AUX	prt	Tense=Past	3	aux	_	Gloss=PST
 3	tè	tɛ́	VERB	cop	Polarity=Neg	0	root	_	Gloss=COP.NEG
 4	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	3	obl	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
 5	bolo	bólo	ADP	pp	_	4	case	_	Gloss=POSS|SpaceAfter=No
@@ -8203,7 +8203,7 @@
 # sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:53
 # text = n ma bòra kalakari wo kalakari.
 1	n	ń	PRON	pers	PronType=Prs	2	nmod:poss	_	Gloss=je
-2	ma	má	NOUN	n	_	3	aux	_	Gloss=maman
+2	ma	ma	AUX	n	Aspect=Perf|Polarity=Neg	3	aux	_	Gloss=PFV.NEG
 3	bòra	bɔra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=sortir|Morf=sortir,PFV.INTR
 4	kalakari	kàlakari	NOUN	n	_	3	obl	_	Gloss=tige|Morf=tige,casser
 5	wo	ó	CCONJ	conj	_	6	cc	_	Gloss=DISTR
@@ -8430,7 +8430,7 @@
 # sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:68
 # text = olu bè ka u senkala don daga kòrò, ka tobili kè ni o ye.
 1	olu	òlû	PRON	pers	Number=Plur|PronType=Prs	6	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
-2	bè	bɛ́	VERB	cop	_	6	aux	_	Gloss=être
+2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 3	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 4	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=3PL
 5	senkala	sènkala	NOUN	n	_	6	obj	_	Gloss=jambe|Morf=jambe,jambe,tige
@@ -9358,7 +9358,7 @@
 2	muso	mùso	NOUN	n	_	6	nsubj	_	Gloss=femme
 3	kònòma	kɔ́nɔma	ADJ	adj	_	2	amod	_	Gloss=enceinte|Morf=enceinte,ventre,COM
 4	dò	dɔ́	DET	dtm	_	2	det	_	Gloss=certain
-5	tun	tùn	PART	prt	Tense=Past	6	aux	_	Gloss=PST
+5	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 6	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 7	lògònyiniyòrò	dɔ́gɔɲiniyɔrɔ	NOUN	n	_	6	obl	_	Gloss=fagot|Morf=fagot,chercher,lieu|SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -9661,13 +9661,13 @@
 14	dògònin	dɔ́gɔ.nin	NOUN	n	_	15	nmod:poss	_	Gloss=cadet|Morf=cadet,cadet,DIM
 15	Dawuda	Dáwuda	PROPN	n.prop	_	18	nsubj	_	Gloss=NOM.M
 16	yèrè	yɛ̀rɛ	DET	dtm	_	15	det	_	Gloss=même
-17	tun	tùn	PART	prt	Tense=Past	18	aux	_	Gloss=PST
+17	tun	tùn	AUX	prt	Tense=Past	18	aux	_	Gloss=PST
 18	bè	bɛ́	VERB	cop	Polarity=Pos	3	parataxis:obj	_	Gloss=BE
 19	yan	yàn	ADV	adv/n	_	18	obl	_	Gloss=ici|SpaceAfter=No
 20	,	,	PUNCT	_	_	18	punct	_	Gloss=,
 21	ko	kó	PART	cop	_	26	discourse	_	Gloss=
 22	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	26	nsubj	_	Gloss=1PL
-23	tun	tùn	PART	prt	Tense=Past	24	aux	_	Gloss=PST
+23	tun	tùn	AUX	prt	Tense=Past	24	aux	_	Gloss=PST
 24	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	26	aux	_	Gloss=IPFV.AFF
 25	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	26	obj	_	Gloss=DEM
 26	di	dí	VERB	v	_	18	parataxis:obj	_	Gloss=donner
@@ -9727,13 +9727,13 @@
 9	dògònin	dɔ́gɔ.nin	NOUN	n	_	10	nmod:poss	_	Gloss=cadet|Morf=cadet,cadet,DIM
 10	Dawuda	Dáwuda	PROPN	n.prop	_	13	nsubj	_	Gloss=NOM.M
 11	yèrè	yɛ̀rɛ	DET	dtm	_	10	det	_	Gloss=même
-12	tun	tún	PART	adv	_	13	aux	_	Gloss=encore
+12	tun	tùn	AUX	adv	Tense=Past	13	aux	_	Gloss=PST
 13	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 14	yan	yàn	ADV	adv/n	_	13	obl	_	Gloss=ici|SpaceAfter=No
 15	,	,	PUNCT	_	_	13	punct	_	Gloss=,
 16	ko	kó	PART	cop	_	21	discourse	_	Gloss=
 17	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=1PL
-18	tun	tùn	PART	prt	Tense=Past	19	aux	_	Gloss=PST
+18	tun	tùn	AUX	prt	Tense=Past	19	aux	_	Gloss=PST
 19	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	21	aux	_	Gloss=IPFV.AFF
 20	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	21	obj	_	Gloss=DEM
 21	di	dí	VERB	v	_	13	parataxis	_	Gloss=donner
@@ -9860,7 +9860,7 @@
 13	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 14	ko	kó	PART	cop	_	19	discourse	_	Gloss=
 15	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	19	nsubj	_	Gloss=2PL.EMPH
-16	tun	tùn	PART	prt	Tense=Past	17	aux	_	Gloss=PST
+16	tun	tùn	AUX	prt	Tense=Past	17	aux	_	Gloss=PST
 17	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	19	aux	_	Gloss=PFV.NEG
 18	à	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	19	obj	_	Gloss=3SG
 19	fò	fɔ́	VERB	v	_	9	parataxis	_	Gloss=dire
@@ -9999,7 +9999,7 @@
 4	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
 5	den	dén	NOUN	n	_	8	nsubj	_	Gloss=enfant
 6	saba	sàba	NUM	num	_	5	nummod	_	Gloss=trois
-7	tun	tùn	PART	prt	Tense=Past	8	aux	_	Gloss=PST
+7	tun	tùn	AUX	prt	Tense=Past	8	aux	_	Gloss=PST
 8	bè	bɛ́	VERB	cop	Polarity=Pos	4	parataxis	_	Gloss=BE
 9	subagamuso	subagamuso	NOUN	n	_	8	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
 10	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	9	det	_	Gloss=DEM
@@ -10012,7 +10012,7 @@
 1	ko	kó	PART	cop	_	6	discourse	_	Gloss=
 2	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
 3	bamuso	bá.muso	NOUN	n	_	6	nsubj	_	Gloss=mère|Morf=mère,mère,femme
-4	tun	tùn	PART	prt	Tense=Past	5	aux	_	Gloss=PST
+4	tun	tùn	AUX	prt	Tense=Past	5	aux	_	Gloss=PST
 5	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	to	tó	VERB	v	_	0	root	_	Gloss=rester
 7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
@@ -10030,7 +10030,7 @@
 # text = ko a tun bè to ka to nyumannin tobi ka a di ne ma n diye sunògò.
 1	ko	kó	PART	cop	_	5	discourse	_	Gloss=
 2	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
-3	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
+3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
 4	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
 5	to	tó	VERB	v	_	0	root	_	Gloss=rester
 6	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
@@ -10167,7 +10167,7 @@
 1	ko	kó	PART	cop	_	6	discourse	_	Gloss=
 2	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
 3	bamuso	bá.muso	NOUN	n	_	6	nsubj	_	Gloss=mère|Morf=mère,mère,femme
-4	tun	tùn	PART	prt	Tense=Past	5	aux	_	Gloss=PST
+4	tun	tùn	AUX	prt	Tense=Past	5	aux	_	Gloss=PST
 5	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	to	tó	VERB	v	_	0	root	_	Gloss=rester
 7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
@@ -10185,7 +10185,7 @@
 # text = ko a tun bè taga kò la ka taga segi ta ka o fa ji la.
 1	ko	kó	PART	cop	_	5	discourse	_	Gloss=
 2	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
-3	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
+3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
 4	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
 5	taga	tága	VERB	v	_	0	root	_	Gloss=aller
 6	kò	kɔ̀	NOUN	n	_	5	obl	_	Gloss=marigot
@@ -10605,7 +10605,7 @@
 7	den	dén	NOUN	n	_	8	nsubj	_	Gloss=enfant
 8	dò	dòn	VERB	cop	_	4	parataxis	_	Gloss=PRES
 9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=3SG
-10	tun	tùn	PART	prt	Tense=Past	11	aux	_	Gloss=PST
+10	tun	tùn	AUX	prt	Tense=Past	11	aux	_	Gloss=PST
 11	furulen	furulen	VERB	ptcp	Aspect=Perf|VerbForm=Part	8	parataxis	_	Gloss=épouser|Morf=épouser,PTCP.RES
 12	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
 13	duguba	dùguba	NOUN	n	_	11	obl	_	Gloss=gros.village|Morf=gros.village,terre,AUGM
@@ -10674,7 +10674,7 @@
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=
 4	nyèkili	ɲɛ́.kili	NOUN	n	_	7	nsubj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
 5	fila	fìla	NUM	num	_	4	nummod	_	Gloss=deux
-6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+6	tun	tùn	AUX	prt	Tense=Past	7	aux	_	Gloss=PST
 7	bè	bɛ́	VERB	cop	Polarity=Pos	3	parataxis:obj	_	Gloss=BE
 8	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	7	obl	_	Gloss=1SG.EMPH
 9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=vers
@@ -10821,7 +10821,7 @@
 2	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	1	det	_	Gloss=DEM
 3	ka	ká	ADP	conj	_	1	case	_	Gloss=POSS
 4	saga	sàga	NOUN	n	_	6	nsubj	_	Gloss=ovin
-5	tun	tùn	PART	prt	Tense=Past	6	aux	_	Gloss=PST
+5	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 6	tununnen	tununnen	VERB	ptcp	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=perdre|Morf=perdre,PTCP.RES
 7	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -11026,7 +11026,7 @@
 6	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	5	det	_	Gloss=DEM
 7	nyèkili	ɲɛ́.kili	NOUN	n	_	10	nsubj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
 8	fila	fìla	NUM	num	_	7	nummod	_	Gloss=deux
-9	tun	tùn	PART	prt	Tense=Past	10	aux	_	Gloss=PST
+9	tun	tùn	AUX	prt	Tense=Past	10	aux	_	Gloss=PST
 10	be	bɛ́	VERB	cop	Polarity=Pos	4	parataxis	_	Gloss=BE
 11	ji	jí	NOUN	n	_	10	obl	_	Gloss=eau
 12	la	lá	ADP	pp	_	11	case	_	Gloss=dans|SpaceAfter=No
@@ -11099,14 +11099,14 @@
 # text = jamanatigi dò tun bè yen, muso kònòntò de tun bè a fè.
 1	jamanatigi	jàmana.tigi	NOUN	n	_	4	nsubj	_	Gloss=président|Morf=président,pays,maître
 2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
-3	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
+3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
 4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 5	yen	yèn	ADV	adv/n	_	4	obl	_	Gloss=là-bas|SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 7	muso	mùso	NOUN	n	_	11	nsubj	_	Gloss=femme
 8	kònòntò	kɔ̀nɔntɔn	NUM	num	_	7	nummod	_	Gloss=neuf
 9	de	dè	PART	prt	_	7	discourse	_	Gloss=FOC
-10	tun	tùn	PART	prt	Tense=Past	11	aux	_	Gloss=PST
+10	tun	tùn	AUX	prt	Tense=Past	11	aux	_	Gloss=PST
 11	bè	bɛ́	VERB	cop	Polarity=Pos	4	parataxis	_	Gloss=BE
 12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	obl	_	Gloss=3SG
 13	fè	fɛ̀	ADP	pp	_	12	case	_	Gloss=vers|SpaceAfter=No
@@ -11149,7 +11149,7 @@
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 6	tògò	tɔ́gɔ	NOUN	n	_	10	nsubj	_	Gloss=nom
 7	de	dè	PART	prt	_	6	discourse	_	Gloss=FOC
-8	tun	tùn	PART	prt	Tense=Past	9	aux	_	Gloss=PST
+8	tun	tùn	AUX	prt	Tense=Past	9	aux	_	Gloss=PST
 9	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
 10	da	dá	VERB	v	_	0	root	_	Gloss=poser
 11	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	10	obl	_	Gloss=3PL
@@ -11167,7 +11167,7 @@
 1	Amadu	Ámadù	PROPN	n.prop	_	3	nmod:poss	_	Gloss=NOM.M
 2	bèè	bɛ́ɛ	DET	dtm	_	1	det	_	Gloss=tout
 3	ncinin	ncínin	ADJ	vq/adj	_	5	nsubj	_	Gloss=petit
-4	tun	tùn	PART	prt	Tense=Past	5	aux	_	Gloss=PST
+4	tun	tùn	AUX	prt	Tense=Past	5	aux	_	Gloss=PST
 5	ye	yé	VERB	cop	Polarity=Pos	14	reparandum	_	Gloss=EQU
 6	denkè	dén.kɛ	NOUN	n	_	10	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle
 7	ninw	ninw	DET	prn/dtm	Definite=Def|Number=Plur|PronType=Dem	6	det	_	Gloss=DEM|Morf=DEM,PL
@@ -11176,13 +11176,13 @@
 10	dògònin	dɔ́gɔ.nin	NOUN	n	_	14	dislocated	_	Gloss=cadet|Morf=cadet,cadet,DIM
 11	o	ò	PRON	prn	_	14	nsubj	_	Gloss=ce
 12	de	dè	PART	prt	_	11	discourse	_	Gloss=FOC
-13	tun	tùn	PART	prt	Tense=Past	14	aux	_	Gloss=PST
+13	tun	tùn	AUX	prt	Tense=Past	14	aux	_	Gloss=PST
 14	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
 15	Amadu	Ámàdu	PROPN	n.prop	_	14	obl	_	Gloss=NOM.M
 16	Tara	Tara	PROPN	n.prop	_	15	flat	_	Gloss=NOM.CL
 17	ye	yé	ADP	pp	_	15	case	_	Gloss=PP
 18	o	ò	PRON	prn	_	20	nsubj	_	Gloss=ce
-19	tun	tùn	PART	prt	Tense=Past	20	aux	_	Gloss=PST
+19	tun	tùn	AUX	prt	Tense=Past	20	aux	_	Gloss=PST
 20	ye	yé	VERB	cop	Polarity=Pos	14	parataxis	_	Gloss=EQU
 21	jamanatigi	jàmanatigi	NOUN	n	_	24	nmod:poss	_	Gloss=chef.de.pays|Morf=chef.de.pays,pays,maître
 22	nin	nìn	DET	dtm	Definite=Def|PronType=Dem	21	det	_	Gloss=DEM
@@ -12529,7 +12529,7 @@
 4	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
 5	jinèdennin	jinɛdennin	NOUN	n	_	8	nsubj	_	Gloss=esprit|Morf=esprit,fillette,enfant,DIM
 6	fana	fána	PART	prt	_	8	advcl	_	Gloss=aussi
-7	tun	tùn	PART	prt	Tense=Past	8	aux	_	Gloss=PST
+7	tun	tùn	AUX	prt	Tense=Past	8	aux	_	Gloss=PST
 8	ye	yé	VERB	cop	Polarity=Pos	4	ccomp	_	Gloss=EQU
 9	jinè	jínɛ	NOUN	n	_	12	nmod:poss	_	Gloss=esprit
 10	ninw	ninw	DET	prn/dtm	Definite=Def|Number=Plur|PronType=Dem	9	det	_	Gloss=DEM|Morf=DEM,PL
@@ -13648,7 +13648,7 @@
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 10	jaa	jàa	INTJ	conj	_	13	discourse	_	Gloss=en.fait
 11	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	13	nsubj	_	Gloss=3PL
-12	tun	tùn	PART	prt	Tense=Past	13	aux	_	Gloss=PST
+12	tun	tùn	AUX	prt	Tense=Past	13	aux	_	Gloss=PST
 13	bè	bɛ́	VERB	cop	_	3	parataxis	_	Gloss=être
 14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	obl	_	Gloss=3SG
 15	fè	fɛ̀	ADP	pp	_	14	case	_	Gloss=par
@@ -13979,7 +13979,7 @@
 # sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:101
 # text = olu tun tagara ji nyini ka a di u ka sagaw ma.
 1	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	3	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
-2	tun	tùn	PART	prt	Tense=Past	3	aux	_	Gloss=PST
+2	tun	tùn	AUX	prt	Tense=Past	3	aux	_	Gloss=PST
 3	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 4	ji	jí	NOUN	n	_	5	obj	_	Gloss=eau
 5	nyini	ɲíni	VERB	v	_	3	xcomp	_	Gloss=chercher
@@ -14179,7 +14179,7 @@
 3	terikè	téri.kɛ	NOUN	n	_	7	nsubj	_	Gloss=ami|Morf=ami,ami,mâle
 4	sèbè	sɛ̀bɛ	ADJ	adj/n	_	3	amod	_	Gloss=sérieux
 5	minw	minw	PRON	prn	Number=Plur|PronType=Rel	3	det:rel	_	Gloss=REL|Morf=REL,PL
-6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+6	tun	tùn	AUX	prt	Tense=Past	7	aux	_	Gloss=PST
 7	bè	bɛ́	VERB	cop	Polarity=Pos	13	acl	_	Gloss=BE
 8	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	10	nmod:poss	_	Gloss=3PL
 9	ka	ká	ADP	conj	_	8	case	_	Gloss=POSS
@@ -14187,7 +14187,7 @@
 11	la	lá	ADP	pp	_	10	case	_	Gloss=dans|SpaceAfter=No
 12	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 13	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	16	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
-14	tun	tùn	PART	prt	Tense=Past	15	aux	_	Gloss=PST
+14	tun	tùn	AUX	prt	Tense=Past	15	aux	_	Gloss=PST
 15	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
 16	to	tó	VERB	v	_	0	root	_	Gloss=rester
 17	ka	ka	AUX	pm	_	19	aux	_	Gloss=INF
@@ -14539,7 +14539,7 @@
 45	ko	kó	PART	cop	_	49	discourse	_	Gloss=
 46	o	ò	PRON	prn	_	47	nmod:poss	_	Gloss=ce
 47	tigi	tìgi	NOUN	n	_	49	nsubj	_	Gloss=maître
-48	tun	tùn	PART	prt	Tense=Past	49	aux	_	Gloss=PST
+48	tun	tùn	AUX	prt	Tense=Past	49	aux	_	Gloss=PST
 49	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	41	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
 50	fura	fúra	NOUN	n	_	51	obj	_	Gloss=feuille
 51	nyini	ɲíni	VERB	v	_	49	xcomp	_	Gloss=chercher|SpaceAfter=No
@@ -14782,7 +14782,7 @@
 7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
 8	ko	kó	PART	cop	_	12	discourse	_	Gloss=
 9	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	12	nsubj	_	Gloss=1SG.EMPH
-10	ye	yé	ADP	pp	_	12	aux	_	Gloss=PP
+10	ye	ye	AUX	pp	Aspect=Perf	12	aux	_	Gloss=PFV.TR
 11	baba	bàba	NOUN	n	_	12	obj	_	Gloss=papa
 12	wele	wéle	VERB	v	_	4	parataxis:obj	_	Gloss=appeler|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
@@ -15033,7 +15033,7 @@
 8	bò	bɔ̀	VERB	v	_	0	root	_	Gloss=arracher
 9	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
 10	taga	tága	VERB	v	_	8	xcomp	_	Gloss=aller
-11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	aux	_	Gloss=3SG
+11	a	à	AUX	pers	Number=Sing|Person=3|PronType=Prs	12	aux	_	Gloss=3SG
 12	balabala	bàlabala	VERB	v	_	10	xcomp	_	Gloss=bouillir|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
 14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
@@ -15066,7 +15066,7 @@
 # sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:28
 # text = fulakè ye a ka misiw nyèdenw dun ka ban tuma min de, misiw o ye nyògòn tuntun.
 # label = rel_elided
-1	fulakè	fulakɛ	NOUN	n	_	7	aux	_	Gloss=peul|Morf=peul,mâle
+1	fulakè	fulakɛ	AUX	n	_	7	aux	_	Gloss=peul|Morf=peul,mâle
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
 3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=3SG
 4	ka	ká	ADP	conj	_	3	case	_	Gloss=POSS
@@ -15832,7 +15832,7 @@
 # sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:5
 # text = Mangala ye i kanto a ko baasi tè a ko n ye a mèn.
 1	Mangala	má.ŋala	NOUN	n	_	4	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu,Dieu
-2	ye	yé	ADP	pp	_	4	aux	_	Gloss=PP
+2	ye	ye	AUX	pp	Aspect=Perf	4	aux	_	Gloss=PFV.TR
 3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kán.to	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
@@ -16488,7 +16488,7 @@
 6	min	mîn	DET	dtm	PronType=Rel	5	det:rel	_	Gloss=REL|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 8	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	10	nsubj	_	Gloss=3PL
-9	bè	bɛ́	VERB	cop	_	10	aux	_	Gloss=être
+9	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
 10	tagalen	tagalen	VERB	ptcp	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=aller|Morf=aller,PTCP.RES|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Gloss=3SG
@@ -16899,7 +16899,7 @@
 3	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	10	discourse	_	Gloss=oui
 4	ni	ní	SCONJ	conj	_	10	mark	_	Gloss=si
 5	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+6	tun	tùn	AUX	prt	Tense=Past	7	aux	_	Gloss=PST
 7	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
 8	kegunya	kègun.ya	NOUN	n	_	10	obj	_	Gloss=ruse|Morf=ruse,malin,DEQU
 9	wèrè	wɛ́rɛ	DET	dtm	_	8	det	_	Gloss=autre
