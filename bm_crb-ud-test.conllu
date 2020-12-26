@@ -5280,7 +5280,7 @@
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
 2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
+4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
 7	ka	ka	AUX	pm	_	6	case	_	Gloss=INF
@@ -5457,7 +5457,7 @@
 1	surukuw	surukuw	NOUN	n	Number=Plur	6	nsubj	_	Gloss=hyène|Morf=hyène,PL
 2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
+4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 5	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	6	obj	_	Gloss=RECP
 6	kin	kín	VERB	v	_	0	root	_	Gloss=mordre|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -5569,7 +5569,7 @@
 3	fana	fána	PART	prt	_	2	discourse	_	Gloss=aussi
 4	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
 5	kan	kàn	ADP	pp	_	4	fixed	_	Gloss=sur
-6	ka	ka	AUX	pm	_	5	fixed	_	Gloss=INF
+6	ka	ka	AUX	pm	_	4	fixed	_	Gloss=INF
 7	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	8	obj	_	Gloss=RECP
 8	dun	dún	VERB	v	_	0	root	_	Gloss=manger|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	Gloss=.
@@ -5682,8 +5682,8 @@
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
 2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
-5	yèrè	yɛ̀rɛ	DET	dtm	_	4	dep	_	Gloss=même
+4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
+5	yèrè	yɛ̀rɛ	DET	dtm	_	2	dep	_	Gloss=même
 6	sogo	sògo	NOUN	n	_	7	obj	_	Gloss=viande
 7	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
 8	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
@@ -5835,7 +5835,7 @@
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
 7	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
 8	kan	kàn	ADP	pp	_	7	fixed	_	Gloss=sur
-9	ka	ka	AUX	pm	_	8	fixed	_	Gloss=INF
+9	ka	ka	AUX	pm	_	7	fixed	_	Gloss=INF
 10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3SG
 11	kun	kùn	NOUN	n	_	12	obj	_	Gloss=tête
 12	ko	kò	VERB	v	_	4	parataxis	_	Gloss=laver|SpaceAfter=No
@@ -6015,7 +6015,7 @@
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
 2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
+4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 5	o	ò	PRON	prn	_	6	obj	_	Gloss=ce
 6	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
 7	kolon	kòlon	NOUN	n	_	6	obl	_	Gloss=mortier
@@ -6497,7 +6497,7 @@
 1	o	ò	PRON	prn	_	8	nsubj	_	Gloss=ce
 2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
-4	ka	ka	AUX	pm	_	3	fixed	_	Gloss=INF
+4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 5	sagaw	sagaw	NOUN	n	Number=Plur	8	obj	_	Gloss=ovin|Morf=ovin,PL
 6	ani	àni	CCONJ	conj	_	7	cc	_	Gloss=ainsi.que
 7	misiw	misiw	NOUN	n	Number=Plur	5	conj	_	Gloss=bovidé|Morf=bovidé,PL
@@ -6667,7 +6667,7 @@
 5	surukuw	surukuw	NOUN	n	Number=Plur	10	nsubj	_	Gloss=hyène|Morf=hyène,PL
 6	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
 7	kan	kàn	ADP	pp	_	6	fixed	_	Gloss=sur
-8	ka	ka	AUX	pm	_	7	fixed	_	Gloss=INF
+8	ka	ka	AUX	pm	_	6	fixed	_	Gloss=INF
 9	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	10	obj	_	Gloss=RECP
 10	dun	dún	VERB	v	_	4	parataxis	_	Gloss=manger|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -6750,7 +6750,7 @@
 6	fana	fána	PART	prt	_	5	discourse	_	Gloss=aussi
 7	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
 8	kan	kàn	ADP	pp	_	7	fixed	_	Gloss=sur
-9	ka	ka	AUX	pm	_	8	fixed	_	Gloss=INF
+9	ka	ka	AUX	pm	_	7	fixed	_	Gloss=INF
 10	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	11	obj	_	Gloss=RECP
 11	dun	dún	VERB	v	_	4	parataxis	_	Gloss=manger|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -6835,7 +6835,7 @@
 4	kelen	kélen	NUM	num	_	3	nummod	_	Gloss=un
 5	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
 6	kan	kàn	ADP	pp	_	5	fixed	_	Gloss=sur
-7	ka	ka	AUX	pm	_	6	fixed	_	Gloss=INF
+7	ka	ka	AUX	pm	_	5	fixed	_	Gloss=INF
 8	bò	bɔ́	VERB	v	_	0	root	_	Gloss=sortir|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
 10	kelen	kélen	NUM	num	_	12	nsubj	_	Gloss=un
