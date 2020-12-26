@@ -5396,7 +5396,7 @@
 # text = a ko i ba tè ne ye.
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=
-3	i	í	PRON	pers	PronType=Prs	4	nmod:poss	_	Gloss=2.SG
+3	i	í	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=2.SG
 4	ba	bá	AUX	n	_	5	aux	_	Gloss=mère
 5	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
 6	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	5	obl	_	Gloss=1SG.EMPH
@@ -5683,7 +5683,7 @@
 2	bè	bɛ	AUX	cop	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
 3	kan	kàn	ADP	pp	_	2	fixed	_	Gloss=sur
 4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
-5	yèrè	yɛ̀rɛ	DET	dtm	_	2	dep	_	Gloss=même
+5	yèrè	yɛ̀rɛ	DET	dtm	_	7	dep	_	Gloss=même
 6	sogo	sògo	NOUN	n	_	7	obj	_	Gloss=viande
 7	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
 8	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
@@ -6183,7 +6183,7 @@
 # text = ni ne ba kò tun bè komi e kò, ne tun tè se i ma.
 1	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
 2	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	3	nmod:poss	_	Gloss=1SG.EMPH
-3	ba	bá	NOUN	n	_	4	nmod:poss	_	Gloss=mère
+3	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 4	kò	kɔ́	AUX	n	_	6	aux	_	Gloss=dos
 5	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 6	bè	bɛ́	VERB	cop	Polarity=Pos	14	advcl	_	Gloss=BE
@@ -6192,7 +6192,7 @@
 9	kò	kɔ́	NOUN	n	_	6	obl	_	Gloss=dos|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 11	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	14	nsubj	_	Gloss=1SG.EMPH
-12	tun	tùn	AUX	prt	Tense=Past	13	aux	_	Gloss=PST
+12	tun	tùn	AUX	prt	Tense=Past	14	aux	_	Gloss=PST
 13	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	14	aux	_	Gloss=IPFV.NEG
 14	se	sé	VERB	v	_	0	root	_	Gloss=arriver
 15	i	í	PRON	pers	PronType=Prs	14	obl	_	Gloss=2.SG
@@ -8202,7 +8202,7 @@
 
 # sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:53
 # text = n ma bòra kalakari wo kalakari.
-1	n	ń	PRON	pers	PronType=Prs	2	nmod:poss	_	Gloss=je
+1	n	ń	PRON	pers	PronType=Prs	3	nmod:poss	_	Gloss=je
 2	ma	ma	AUX	n	Aspect=Perf|Polarity=Neg	3	aux	_	Gloss=PFV.NEG
 3	bòra	bɔra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=sortir|Morf=sortir,PFV.INTR
 4	kalakari	kàlakari	NOUN	n	_	3	obl	_	Gloss=tige|Morf=tige,casser
@@ -9667,7 +9667,7 @@
 20	,	,	PUNCT	_	_	26	punct	_	Gloss=,
 21	ko	kó	PART	cop	_	26	discourse	_	Gloss=
 22	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	26	nsubj	_	Gloss=1PL
-23	tun	tùn	AUX	prt	Tense=Past	24	aux	_	Gloss=PST
+23	tun	tùn	AUX	prt	Tense=Past	26	aux	_	Gloss=PST
 24	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	26	aux	_	Gloss=IPFV.AFF
 25	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	26	obj	_	Gloss=DEM
 26	di	dí	VERB	v	_	18	parataxis:obj	_	Gloss=donner
@@ -9733,7 +9733,7 @@
 15	,	,	PUNCT	_	_	21	punct	_	Gloss=,
 16	ko	kó	PART	cop	_	21	discourse	_	Gloss=
 17	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=1PL
-18	tun	tùn	AUX	prt	Tense=Past	19	aux	_	Gloss=PST
+18	tun	tùn	AUX	prt	Tense=Past	21	aux	_	Gloss=PST
 19	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	21	aux	_	Gloss=IPFV.AFF
 20	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	21	obj	_	Gloss=DEM
 21	di	dí	VERB	v	_	13	parataxis	_	Gloss=donner
@@ -9860,7 +9860,7 @@
 13	,	,	PUNCT	_	_	19	punct	_	Gloss=,
 14	ko	kó	PART	cop	_	19	discourse	_	Gloss=
 15	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	19	nsubj	_	Gloss=2PL.EMPH
-16	tun	tùn	AUX	prt	Tense=Past	17	aux	_	Gloss=PST
+16	tun	tùn	AUX	prt	Tense=Past	19	aux	_	Gloss=PST
 17	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	19	aux	_	Gloss=PFV.NEG
 18	à	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	19	obj	_	Gloss=3SG
 19	fò	fɔ́	VERB	v	_	9	parataxis	_	Gloss=dire
@@ -10012,7 +10012,7 @@
 1	ko	kó	PART	cop	_	6	discourse	_	Gloss=
 2	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
 3	bamuso	bá.muso	NOUN	n	_	6	nsubj	_	Gloss=mère|Morf=mère,mère,femme
-4	tun	tùn	AUX	prt	Tense=Past	5	aux	_	Gloss=PST
+4	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 5	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	to	tó	VERB	v	_	0	root	_	Gloss=rester
 7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
@@ -10030,7 +10030,7 @@
 # text = ko a tun bè to ka to nyumannin tobi ka a di ne ma n diye sunògò.
 1	ko	kó	PART	cop	_	5	discourse	_	Gloss=
 2	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
-3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
+3	tun	tùn	AUX	prt	Tense=Past	5	aux	_	Gloss=PST
 4	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
 5	to	tó	VERB	v	_	0	root	_	Gloss=rester
 6	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
@@ -10167,7 +10167,7 @@
 1	ko	kó	PART	cop	_	6	discourse	_	Gloss=
 2	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
 3	bamuso	bá.muso	NOUN	n	_	6	nsubj	_	Gloss=mère|Morf=mère,mère,femme
-4	tun	tùn	AUX	prt	Tense=Past	5	aux	_	Gloss=PST
+4	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 5	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	to	tó	VERB	v	_	0	root	_	Gloss=rester
 7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
@@ -10185,7 +10185,7 @@
 # text = ko a tun bè taga kò la ka taga segi ta ka o fa ji la.
 1	ko	kó	PART	cop	_	5	discourse	_	Gloss=
 2	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
-3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
+3	tun	tùn	AUX	prt	Tense=Past	5	aux	_	Gloss=PST
 4	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
 5	taga	tága	VERB	v	_	0	root	_	Gloss=aller
 6	kò	kɔ̀	NOUN	n	_	5	obl	_	Gloss=marigot
@@ -11149,7 +11149,7 @@
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 6	tògò	tɔ́gɔ	NOUN	n	_	10	nsubj	_	Gloss=nom
 7	de	dè	PART	prt	_	6	discourse	_	Gloss=FOC
-8	tun	tùn	AUX	prt	Tense=Past	9	aux	_	Gloss=PST
+8	tun	tùn	AUX	prt	Tense=Past	10	aux	_	Gloss=PST
 9	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
 10	da	dá	VERB	v	_	0	root	_	Gloss=poser
 11	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	10	obl	_	Gloss=3PL
@@ -14187,7 +14187,7 @@
 11	la	lá	ADP	pp	_	10	case	_	Gloss=dans|SpaceAfter=No
 12	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 13	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	16	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
-14	tun	tùn	AUX	prt	Tense=Past	15	aux	_	Gloss=PST
+14	tun	tùn	AUX	prt	Tense=Past	16	aux	_	Gloss=PST
 15	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
 16	to	tó	VERB	v	_	0	root	_	Gloss=rester
 17	ka	ka	AUX	pm	_	19	aux	_	Gloss=INF
@@ -16899,7 +16899,7 @@
 3	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	10	discourse	_	Gloss=oui
 4	ni	ní	SCONJ	conj	_	10	mark	_	Gloss=si
 5	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-6	tun	tùn	AUX	prt	Tense=Past	7	aux	_	Gloss=PST
+6	tun	tùn	AUX	prt	Tense=Past	10	aux	_	Gloss=PST
 7	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
 8	kegunya	kègun.ya	NOUN	n	_	10	obj	_	Gloss=ruse|Morf=ruse,malin,DEQU
 9	wèrè	wɛ́rɛ	DET	dtm	_	8	det	_	Gloss=autre
