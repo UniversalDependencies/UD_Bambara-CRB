@@ -15033,7 +15033,7 @@
 8	bò	bɔ̀	VERB	v	_	0	root	_	Gloss=arracher
 9	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
 10	taga	tága	VERB	v	_	8	xcomp	_	Gloss=aller
-11	a	à	AUX	pers	Number=Sing|Person=3|PronType=Prs	12	aux	_	Gloss=3SG
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
 12	balabala	bàlabala	VERB	v	_	10	xcomp	_	Gloss=bouillir|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=,
 14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
