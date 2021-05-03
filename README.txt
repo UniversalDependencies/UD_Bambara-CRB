@@ -18,6 +18,20 @@ The conversion and annotation has been done by Katya Aplonova and Francis M. Tye
 in Moscow. We would like to thank the developers and annotators of the Corpus Référence du Bambara for permission
 to base this on their work.
 
+## Citation
+
+If you use this corpus in your research please cite
+
+```bibtex
+@inproceedings{aplonova_2018,
+author = {Aplonova, K. and Tyers, F. M.},
+title = {Towards a dependency treebank for Bambara},
+booktitle = {Proceedings of the 16th Conference on Treebanks and Linguistic Theories},
+pages = {138--146},
+year = 2018
+}
+```
+
 ## References
 
 * Maslinsky, K. (2014). Daba: a model and tools for Manding corpora. In Proceedings of TALAf 2014 : Traitement Automatique des Langues Africaines, pages 114-122.
