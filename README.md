@@ -5,12 +5,15 @@ The UD Bambara treebank is a section of the Corpus Référence du Bambara annota
 
 # Introduction
 
-Bambara (also known as Bamana) is the most widely-spoken language of the Manding language group (Niger-Congo > Mande > Western Mande). It is spoken mainly in Mali by 13-14 million people;
-of these, around four million are L1 speakers. Development of the [Bambara Reference Corpus](http://cormand.huma-num.fr/) was started in April 2012 (Vydrin 2013, Maslinsky 2014).
-The corpus includes a non-disambiguated sub-corpus and a disambiguated one. At present, the whole corpus contains about nine million tokens.
-The corpus was annotated using UD Annotatrix annotation tool (Tyers, Sheyanova, Washington 2018).
+Bambara (also known as Bamana) is the most widely-spoken language of the Manding language group
+(Niger-Congo > Mande > Western Mande). It is spoken mainly in Mali by 13-14 million people;
+of these, around four million are L1 speakers. Development of the
+[Bambara Reference Corpus](http://cormand.huma-num.fr/) was started in April 2012 (Vydrin 2013,
+Maslinsky 2014). The corpus includes a non-disambiguated sub-corpus and a disambiguated one. At
+present, the whole corpus contains about nine million tokens. The corpus was annotated using
+UD Annotatrix annotation tool (Tyers, Sheyanova, Washington 2018).
 
-Documentation for a treebank is available on UD site (http://universaldependencies.org/bm/dep/).
+Documentation for the treebank is available on the [UD web site](http://universaldependencies.org/bm/dep/).
 
 
 # Acknowledgments
@@ -19,15 +22,33 @@ The conversion and annotation has been done by Katya Aplonova and Francis M. Tye
 in Moscow. We would like to thank the developers and annotators of the Corpus Référence du Bambara for permission
 to base this on their work.
 
+## Citation
+
+If you use this corpus in your research please cite
+
+```bibtex
+@inproceedings{aplonova_2018,
+author = {Aplonova, K. and Tyers, F. M.},
+title = {Towards a dependency treebank for Bambara},
+booktitle = {Proceedings of the 16th Conference on Treebanks and Linguistic Theories},
+pages = {138--146},
+year = 2018
+}
+```
+
 ## References
 
-* Maslinsky, K. (2014). Daba: a model and tools for Manding corpora. In Proceedings of TALAf 2014 : Traitement Automatique des Langues Africaines, pages 114-122.
-* Tyers, F. M., Sheyanova, M., and Washington, J. N. (2018). UD Annotatrix: An annotation tool for Universal Dependencies. In Proceedings of the 16th International Workshop on Treebanks and Linguistic Theories.
+* Maslinsky, K. (2014). Daba: a model and tools for Manding corpora.
+  In Proceedings of TALAf 2014 : Traitement Automatique des Langues Africaines, pages 114-122.
+* Tyers, F. M., Sheyanova, M., and Washington, J. N. (2018). UD Annotatrix: An annotation tool for Universal Dependencies.
+  In Proceedings of the 16th International Workshop on Treebanks and Linguistic Theories.
 * Vydrin, V. (2013). Bamana reference corpus (BRC). Procedia - Social and Behavioral Sciences, 95, pages 75–80.
 
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Normalized lemmatization of auxiliaries.
 * 2019-05-15 v2.4
   * Normalized Unicode.
 * 2018-11-15 v2.3
@@ -45,6 +66,6 @@ XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
 Contributors: Aplonova, Katya; Tyers, Francis
-Contributing: elsewhere
+Contributing: here
 Contact: aplooon@gmail.com
 ===============================================================================

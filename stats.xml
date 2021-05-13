@@ -10,37 +10,36 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1026</sentences><tokens>13823</tokens><words>13823</words><fused>0</fused></test>
   </size>
-  <lemmas unique="964" /><!-- à, ,, ., kó, yé, kà, ò, ń, !, bɛ́, í, nìn, ù, ye, ní -->
+  <lemmas unique="958" /><!-- à, ,, ., kó, ka, ye, ò, ń, bɛ, yé, !, í, nìn, ù, ní -->
   <forms unique="981" /><!-- a, ,, ., ko, ka, ye, o, bè, n, !, na, i, ma, nin, u -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">69</tag><!-- kɛ́nɛ, _, cá.man, ɲumannin, camanba, jàlan, ɲùman, júgu, kúra, sɛ̀bɛ -->
-    <tag name="ADP">1034</tag><!-- yé, ná, lá, mà, fɛ̀, ká, ka, bólo, kàn, _ -->
+    <tag name="ADP">1032</tag><!-- yé, ná, lá, mà, fɛ̀, ká, ka, bólo, kàn, _ -->
     <tag name="ADV">176</tag><!-- yèn, dɔ́rɔn, yàn, tèn, tí, _, sísan, túgun, túguni, fɔ́lɔ -->
-    <tag name="AUX">1363</tag><!-- kà, yé, ye, bɛ́, bɛ, tɛ́, ka, _, ká, má -->
-    <tag name="CCONJ">66</tag><!-- ní, àni, ni, ô, _, ó, mè, n', aprɛ, epi -->
+    <tag name="AUX">1421</tag><!-- ka, ye, bɛ, tɛ, ma, tùn, dìyé, kàna, mána, bɛ́na -->
+    <tag name="CCONJ">67</tag><!-- ní, ni, àni, ô, _, ó, mè, n', aprɛ, epi -->
     <tag name="DET">504</tag><!-- nìn, ò, dɔ́, bɛ́ɛ, mín, yɛ̀rɛ, ninw, sí, mîn, _ -->
     <tag name="INTJ">224</tag><!-- ée, áyiwa, wiyan, ta, dɛ́rɛn, jàa, kusa, fɔ̀nhɔn, wewu, bòn -->
-    <tag name="NOUN">2145</tag><!-- _, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ -->
+    <tag name="NOUN">2141</tag><!-- _, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ -->
     <tag name="NUM">92</tag><!-- kélen, fìla, kɔ̀nɔntɔn, ségin, sàba, _, 6, nan, wólonfìla, wɔ́ɔrɔ -->
-    <tag name="PART">702</tag><!-- kó, dè, fána, tùn, _, dɛ́, dún, sá, wà, bìlen -->
+    <tag name="PART">663</tag><!-- kó, dè, fána, _, dɛ́, dún, sá, wà, bìlen, dùn -->
     <tag name="PRON">2512</tag><!-- à, ń, ò, í, ù, _, né, é, nìn, nê -->
     <tag name="PROPN">292</tag><!-- Tara, Namaramatu, Ámadù, Ámàdu, Jasun, Dáwuda, Bilali, Kusuba, Mamadu, Tàrawéle -->
-    <tag name="PUNCT">1944</tag><!-- ,, ., !, ?, :, _, “, ”, -, ‐ -->
+    <tag name="PUNCT">1948</tag><!-- ,, ., !, ?, :, _, “, ”, -, ‐ -->
     <tag name="SCONJ">183</tag><!-- ní, fó, kó, mínkɛ, kàbini, sá.ni, _, kómi, bárisa, n' -->
-    <tag name="VERB">2511</tag><!-- kó, tagara, tága, bɛ́, kɛ́, _, dí, fɔ́, nà, yé -->
-    <tag name="X">6</tag><!-- _, báwò, ni -->
+    <tag name="VERB">2498</tag><!-- kó, tagara, tága, kɛ́, bɛ́, _, dí, fɔ́, nà, yé -->
+    <tag name="X">1</tag><!-- báwò -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="29">
-    <feat name="AdjType" value="Attr" upos="ADJ">10</feat><!-- caman, camanba, KEGUNMAN -->
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">323</feat><!-- bè, tè, be, te, bɛ, b', tɛ -->
-    <feat name="Aspect" value="Perf" upos="ADJ,AUX,VERB">884</feat><!-- ye, tagara, nana, bòra, ma, sera, kèra, tora, cira, banna -->
+  <feats unique="28">
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">365</feat><!-- bè, tè, be, bɛ, tɛ, te, b' -->
+    <feat name="Aspect" value="Perf" upos="ADJ,AUX,VERB">934</feat><!-- ye, tagara, ma, nana, bòra, sera, kèra, tora, cira, banna -->
     <feat name="Aspect" value="Prog" upos="VERB">5</feat><!-- kotò, bintò, natò -->
     <feat name="Definite" value="Def" upos="DET,PRON">200</feat><!-- nin, ninw, in -->
-    <feat name="Mood" value="Cnd" upos="AUX">8</feat><!-- mana -->
-    <feat name="Mood" value="Imp" upos="AUX">12</feat><!-- kana, ye -->
+    <feat name="Mood" value="Cnd" upos="AUX">9</feat><!-- mana -->
+    <feat name="Mood" value="Imp" upos="AUX">13</feat><!-- kana, ye -->
     <feat name="Mood" value="Sub" upos="AUX">50</feat><!-- ka -->
     <feat name="Number" value="Plur" upos="DET,NOUN,PRON,PROPN">375</feat><!-- u, olu, an, aw, ninw, kòròkèw, denw, dòw, minw, misiw -->
     <feat name="Number" value="Sing" upos="PRON">1519</feat><!-- a, n, ne, e, i, ale, ele, à -->
@@ -49,15 +48,15 @@
     <feat name="Person" value="1" upos="PRON">236</feat><!-- n, ne, an -->
     <feat name="Person" value="2" upos="PRON">145</feat><!-- e, i, aw, a -->
     <feat name="Person" value="3" upos="PRON">1372</feat><!-- a, u, ale, ele, e, à -->
-    <feat name="Polarity" value="Neg" upos="AUX,VERB">166</feat><!-- tè, ma, kana, te, tɛ, man, tèna -->
-    <feat name="Polarity" value="Pos" upos="AUX,VERB">1229</feat><!-- ye, bè, tagara, nana, ka, bòra, sera, kèra, be, tora -->
+    <feat name="Polarity" value="Neg" upos="AUX,VERB">212</feat><!-- tè, ma, kana, tɛ, te, man, tèna -->
+    <feat name="Polarity" value="Pos" upos="AUX,VERB">1251</feat><!-- ye, bè, tagara, nana, ka, bòra, sera, kèra, be, bɛ -->
     <feat name="PronType" value="Dem" upos="DET,PRON">198</feat><!-- nin, ninw -->
     <feat name="PronType" value="Emp" upos="PRON">218</feat><!-- ne, e, ale, aw, ele -->
     <feat name="PronType" value="Prs" upos="PRON">1864</feat><!-- a, n, i, u, olu, an, à -->
     <feat name="PronType" value="Rcp" upos="PRON">17</feat><!-- nyògòn, nyògon -->
     <feat name="PronType" value="Rel" upos="DET,PRON">80</feat><!-- min, minw, mun -->
     <feat name="Tense" value="Fut" upos="AUX">10</feat><!-- bèna, na, n', tèna -->
-    <feat name="Tense" value="Past" upos="PART">38</feat><!-- tun -->
+    <feat name="Tense" value="Past" upos="AUX">39</feat><!-- tun -->
     <feat name="Valency" value="1" upos="VERB">448</feat><!-- tagara, nana, bòra, sera, kèra, tora, cira, banna, bolila, donna -->
     <feat name="Valency" value="2" upos="AUX">370</feat><!-- ye, y' -->
     <feat name="VerbForm" value="Part" upos="ADJ,VERB">40</feat><!-- sigilen, nalen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen -->
@@ -71,7 +70,7 @@
     <dep name="advmod">23</dep>
     <dep name="amod">73</dep>
     <dep name="appos">21</dep>
-    <dep name="aux">1397</dep>
+    <dep name="aux">1396</dep>
     <dep name="case">1030</dep>
     <dep name="cc">66</dep>
     <dep name="ccomp">79</dep>
@@ -82,7 +81,7 @@
     <dep name="dep">9</dep>
     <dep name="det">447</dep>
     <dep name="det:rel">60</dep>
-    <dep name="discourse">778</dep>
+    <dep name="discourse">777</dep>
     <dep name="dislocated">48</dep>
     <dep name="fixed">30</dep>
     <dep name="flat">75</dep>
@@ -96,7 +95,7 @@
     <dep name="orphan">15</dep>
     <dep name="parataxis">467</dep>
     <dep name="parataxis:obj">289</dep>
-    <dep name="punct">1946</dep>
+    <dep name="punct">1948</dep>
     <dep name="reparandum">5</dep>
     <dep name="root">1026</dep>
     <dep name="vocative">110</dep>
