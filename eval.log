@@ -1,11 +1,11 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Bambara-CRB:
-commit 04cb489700bc71b9ddb08619219f7f7e77a78de9
+commit 08b7eb42cd305575b92cd4d034bd92c454a955f5
+Merge: c90047e 2a73dd6
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 17:37:39 2020 +0200
 Size: counted 13823 of 13823 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.25266774296444.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,37 +15,39 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 3984 out of 13823 total words have one or more features.
+Features: 4051 out of 13823 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 3292 bugs.
+Udapi:
+               TOTAL       3235
+Udapi: found 3235 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 13823 words.
 Genres: found 2 out of 17 known.
 validate.py --lang bm --max-err=10 UD_Bambara-CRB/bm_crb-ud-test.conllu
-[Line 6 Sent 03dennyuman_ni_kononin.dis.html:1 Node 4]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'X'
-[Line 15 Sent 03dennyuman_ni_kononin.dis.html:2 Node 6]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'X'
-[Line 589 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:4 Node 2]: [L5 Morpho aux-lemma] 'y'' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 592 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:4 Node 5]: [L5 Morpho aux-lemma] 'k'' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 614 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:5 Node 9]: [L5 Morpho aux-lemma] 'bɛ' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 618 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:5 Node 13]: [L5 Morpho aux-lemma] 'kà' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 645 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:7 Node 10]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [9]
-[Line 641 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:7 Node 6]: [L5 Morpho aux-lemma] 'y'' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 659 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:8 Node 3]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 702 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:8 Node 46]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [45]
-[Line 714 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:9 Node 6]: [L5 Morpho aux-lemma] 'ka' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 738 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:10 Node 8]: [L5 Morpho aux-lemma] 'ma' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 752 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:10 Node 22]: [L5 Morpho aux-lemma] 'bɛ' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 756 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:10 Node 26]: [L5 Morpho aux-lemma] 'kà' is not an auxiliary verb in language [bm] (there are no known approved auxiliaries in this language)
-[Line 787 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:12 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 796 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:12 Node 21]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 807 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:13 Node 2]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 833 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:13 Node 28]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-...suppressing further errors regarding Morpho
+[Line 52 Sent ko.2 Node 13]: [L5 Morpho aux-lemma] 'na' is not an auxiliary verb in language [bm]
+[Line 886 Sent konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:15 Node 14]: [L5 Morpho aux-lemma] 'na' is not an auxiliary verb in language [bm]
+[Line 1536 Sent meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:19 Node 16]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+[Line 2358 Sent meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:34 Node 12]: [L3 Syntax rel-upos-case] 'case' should not be 'AUX'
+[Line 5286 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:9 Node 7]: [L3 Syntax rel-upos-case] 'case' should not be 'AUX'
+[Line 5400 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:15 Node 4]: [L5 Morpho aux-lemma] 'bá' is not an auxiliary verb in language [bm]
+[Line 5492 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:22 Node 14]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 5615 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:32 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 5748 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:42 Node 11]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 5913 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:53 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 6187 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:73 Node 4]: [L5 Morpho aux-lemma] 'kɔ́' is not an auxiliary verb in language [bm]
+[Line 6876 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:128 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 7002 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:139 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 7256 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:159 Node 15]: [L5 Morpho aux-lemma] 'dòn' is not an auxiliary verb in language [bm]
 ...suppressing further errors regarding Syntax
-Morpho errors: 1313
-Syntax errors: 110
-*** FAILED *** with 1423 errors
+[Line 9974 Sent meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:43 Node 15]: [L5 Morpho aux-lemma] 'dìyé' is not an auxiliary verb in language [bm]
+[Line 10025 Sent meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:45 Node 14]: [L5 Morpho aux-lemma] 'dìyé' is not an auxiliary verb in language [bm]
+[Line 10046 Sent meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:46 Node 16]: [L5 Morpho aux-lemma] 'dìyé' is not an auxiliary verb in language [bm]
+[Line 10132 Sent meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:54 Node 2]: [L5 Morpho aux-lemma] 'dìyé' is not an auxiliary verb in language [bm]
+...suppressing further errors regarding Morpho
+Morpho errors: 25
+Syntax errors: 14
+*** FAILED *** with 39 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
