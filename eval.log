@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Bambara-CRB:
-commit 08b7eb42cd305575b92cd4d034bd92c454a955f5
-Merge: c90047e 2a73dd6
+commit e89f674cfdf845a522d03a65405e0c837b87fcef
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu May 13 08:51:40 2021 +0200
 Size: counted 13823 of 13823 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.25266774296444.
 Size: maximum value 13.815511 is for 1000000 words or more.
