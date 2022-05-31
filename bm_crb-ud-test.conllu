@@ -1533,7 +1533,7 @@
 13	di	dí	VERB	v	_	8	xcomp	_	Gloss=donner
 14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	obl	_	Gloss=3SG
 15	ma	mà	ADP	pp	_	14	case	_	Gloss=ADR
-16	ani	àni	ADJ	conj	_	17	case	_	Gloss=ainsi.que
+16	ani	àni	ADJ	conj	_	17	amod	_	Gloss=ainsi.que
 17	woro	wòro	NOUN	n	_	13	obl	_	Gloss=kola|SpaceAfter=No
 18	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
@@ -2355,7 +2355,7 @@
 9	kòrò	kɔ́rɔ	ADP	pp	_	7	case	_	Gloss=sous|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 11	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	13	nmod:poss	_	Gloss=2SG
-12	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	11	case	_	Gloss=SBJV
+12	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	14	aux	_	Gloss=SBJV
 13	dòònin	dɔ́ɔnin	NOUN	n	_	14	obj	_	Gloss=un.peu
 14	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
 15	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	16	nmod:poss	_	Gloss=1SG
@@ -5283,7 +5283,7 @@
 4	ka	ka	AUX	pm	_	2	fixed	_	Gloss=INF
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 6	sinamuso	sìna.muso	NOUN	n	_	8	nmod:poss	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
-7	ka	ka	AUX	pm	_	6	case	_	Gloss=INF
+7	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
 8	filen	fílen	NOUN	n	_	9	obj	_	Gloss=calebasse.demi-sphérique
 9	ko	kò	VERB	v	_	0	root	_	Gloss=laver|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
