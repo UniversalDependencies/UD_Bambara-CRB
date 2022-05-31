@@ -5396,8 +5396,8 @@
 # text = a ko i ba tè ne ye.
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=
-3	i	í	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=2.SG
-4	ba	bá	AUX	n	_	5	aux	_	Gloss=mère
+3	i	í	PRON	pers	PronType=Prs	4	nmod:poss	_	Gloss=2.SG
+4	ba	bá	NOUN	n	_	5	nsubj	_	Gloss=mère
 5	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
 6	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	5	obl	_	Gloss=1SG.EMPH
 7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP|SpaceAfter=No
@@ -6183,8 +6183,8 @@
 # text = ni ne ba kò tun bè komi e kò, ne tun tè se i ma.
 1	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
 2	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	3	nmod:poss	_	Gloss=1SG.EMPH
-3	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
-4	kò	kɔ́	AUX	n	_	6	aux	_	Gloss=dos
+3	ba	bá	NOUN	n	_	4	nmod:poss	_	Gloss=mère
+4	kò	kɔ́	NOUN	n	_	6	nsubj	_	Gloss=dos
 5	tun	tùn	AUX	prt	Tense=Past	6	aux	_	Gloss=PST
 6	bè	bɛ́	VERB	cop	Polarity=Pos	14	advcl	_	Gloss=BE
 7	komi	kómi	ADP	conj	_	9	case	_	Gloss=comme
@@ -15066,7 +15066,7 @@
 # sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:28
 # text = fulakè ye a ka misiw nyèdenw dun ka ban tuma min de, misiw o ye nyògòn tuntun.
 # label = rel_elided
-1	fulakè	fulakɛ	AUX	n	_	7	aux	_	Gloss=peul|Morf=peul,mâle
+1	fulakè	fulakɛ	NOUN	n	_	7	nsubj	_	Gloss=peul|Morf=peul,mâle
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
 3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=3SG
 4	ka	ká	ADP	conj	_	3	case	_	Gloss=POSS
