@@ -9971,7 +9971,7 @@
 12	gè	gɛ́n	VERB	v	_	2	parataxis:obj	_	Gloss=aiguiser|SpaceAfter=No
 13	!	!	PUNCT	_	_	12	punct	_	Gloss=!
 14	e	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	19	nsubj	_	Gloss=2SG.EMPH
-15	diye	dìyé	AUX	pm	_	19	aux	_	Gloss=SEQ
+15	diye	dìyé	PART	pm	_	19	mark	_	Gloss=SEQ
 16	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	18	nmod:poss	_	Gloss=1SG
 17	yèrè	yɛ̀rɛ̂	DET	dtm	_	16	det	_	Gloss=même
 18	ta	tá	NOUN	n	_	19	obj	_	Gloss=propriété
@@ -10022,7 +10022,7 @@
 11	ma	mà	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=,
 13	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	15	nsubj	_	Gloss=2SG.EMPH
-14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
+14	diye	dìyé	PART	pm	_	15	mark	_	Gloss=SEQ
 15	sunògò	sùnɔgɔ	VERB	v	_	9	parataxis	_	Gloss=dormir
 16	?	?	PUNCT	_	_	6	punct	_	Gloss=?
 
@@ -10043,7 +10043,7 @@
 13	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	12	obl	_	Gloss=1SG.EMPH
 14	ma	mà	ADP	pp	_	13	case	_	Gloss=à
 15	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Gloss=1SG
-16	diye	dìyé	AUX	pm	_	17	aux	_	Gloss=SEQ
+16	diye	dìyé	PART	pm	_	17	mark	_	Gloss=SEQ
 17	sunògò	sùnɔgɔ	VERB	v	_	12	parataxis	_	Gloss=dormir|SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -10129,7 +10129,7 @@
 # sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:54
 # text = e diye n yèrè ta minè ka a da gè yan.
 1	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	6	nsubj	_	Gloss=2SG.EMPH
-2	diye	dìyé	AUX	pm	_	6	aux	_	Gloss=SEQ
+2	diye	dìyé	PART	pm	_	6	mark	_	Gloss=SEQ
 3	n	ń	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=je
 4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
 5	ta	tá	NOUN	n	_	6	obj	_	Gloss=propriété
@@ -10177,7 +10177,7 @@
 11	ma	mà	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=,
 13	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	15	nsubj	_	Gloss=2SG.EMPH
-14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
+14	diye	dìyé	PART	pm	_	15	mark	_	Gloss=SEQ
 15	sunògò	sùnɔgɔ	VERB	v	_	9	parataxis	_	Gloss=dormir
 16	?	?	PUNCT	_	_	6	punct	_	Gloss=?
 
@@ -10211,7 +10211,7 @@
 6	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	7	obj	_	Gloss=1SG.EMPH
 7	ko	kò	VERB	v	_	4	xcomp	_	Gloss=laver
 8	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=1SG
-9	diye	dìyé	AUX	pm	_	10	aux	_	Gloss=SEQ
+9	diye	dìyé	PART	pm	_	10	mark	_	Gloss=SEQ
 10	sunògò	sùnɔgɔ	VERB	v	_	7	parataxis:obj	_	Gloss=dormir|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -10298,7 +10298,7 @@
 3	kelen	kélen	NUM	num	_	2	nummod	_	Gloss=un
 4	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	5	aux	_	Gloss=PFV.NEG
 5	toni	tóni	VERB	v	_	0	root	_	Gloss=goutter
-6	diye	dìyé	AUX	pm	_	8	aux	_	Gloss=SEQ
+6	diye	dìyé	PART	pm	_	8	mark	_	Gloss=SEQ
 7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	bòn	bɔ̀n	VERB	v	_	5	xcomp	_	Gloss=répandre
 9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	Gloss=3SG
@@ -10482,7 +10482,7 @@
 9	fònyòn	fíyɛn	NOUN	n	_	8	obl	_	Gloss=vent
 10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=,
-12	diye	dìyé	AUX	pm	_	13	aux	_	Gloss=SEQ
+12	diye	dìyé	PART	pm	_	13	mark	_	Gloss=SEQ
 13	wuli	wúli	VERB	v	_	8	parataxis	_	Gloss=se.lever
 14	ka	ka	AUX	pm	_	15	aux	_	Gloss=INF
 15	taga	tága	VERB	v	_	13	xcomp	_	Gloss=aller|SpaceAfter=No
@@ -10634,7 +10634,7 @@
 8	o	ò	DET	prn	_	9	det	_	Gloss=ce
 9	den	dén	NOUN	n	_	7	obl	_	Gloss=enfant
 10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
-11	diye	dìyé	AUX	pm	_	12	aux	_	Gloss=SEQ
+11	diye	dìyé	PART	pm	_	12	mark	_	Gloss=SEQ
 12	taga	tága	VERB	v	_	7	xcomp	_	Gloss=aller
 13	subagamuso	subagamuso	NOUN	n	_	12	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
 14	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	13	det	_	Gloss=DEM
@@ -10698,7 +10698,7 @@
 4	fila	fìla	NUM	num	_	3	nummod	_	Gloss=deux
 5	ta	tà	VERB	v	_	0	root	_	Gloss=prendre|SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	Gloss=,
-7	diye	dìyé	AUX	pm	_	10	aux	_	Gloss=SEQ
+7	diye	dìyé	PART	pm	_	10	mark	_	Gloss=SEQ
 8	sin	sín	VERB	v	_	10	nsubj	_	Gloss=diriger
 9	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
 10	yèlèma	yɛ̀lɛma	VERB	v	_	5	xcomp	_	Gloss=changer
@@ -10715,7 +10715,7 @@
 3	Dawuda	Dáwuda	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
 4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
 5	don	dòn	VERB	cop	_	0	root	_	Gloss=PRES
-6	diye	dìyé	AUX	pm	_	7	aux	_	Gloss=SEQ
+6	diye	dìyé	PART	pm	_	7	mark	_	Gloss=SEQ
 7	boli	bòli	VERB	v	_	5	xcomp	_	Gloss=courir|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -10915,7 +10915,7 @@
 8	kè	kɛ́	VERB	v	_	6	xcomp	_	Gloss=faire
 9	fònyòn	fíyɛn	NOUN	n	_	8	obl	_	Gloss=vent
 10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
-11	diye	dìyé	AUX	pm	_	12	aux	_	Gloss=SEQ
+11	diye	dìyé	PART	pm	_	12	mark	_	Gloss=SEQ
 12	boli	bòli	VERB	v	_	6	xcomp	_	Gloss=courir|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -11038,7 +11038,7 @@
 2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	foronto	fòronto	NOUN	n	_	4	obj	_	Gloss=petit.piment
 4	si	sí	VERB	v	_	2	xcomp	_	Gloss=moudre
-5	diye	dìyé	AUX	pm	_	7	aux	_	Gloss=SEQ
+5	diye	dìyé	PART	pm	_	7	mark	_	Gloss=SEQ
 6	o	ò	PRON	prn	_	7	obj	_	Gloss=ce
 7	fili	fìli	VERB	v	_	4	xcomp	_	Gloss=jeter
 8	subagamuso	subagamuso	NOUN	n	_	10	nmod:poss	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
@@ -11066,7 +11066,7 @@
 15	ta	tá	NOUN	n	_	12	obl	_	Gloss=propriété
 16	ye	yé	ADP	pp	_	15	case	_	Gloss=PP
 17	!	!	PUNCT	_	_	12	punct	_	Gloss=!
-18	diye	dìyé	AUX	pm	_	19	aux	_	Gloss=SEQ
+18	diye	dìyé	PART	pm	_	19	mark	_	Gloss=SEQ
 19	sa	sà	VERB	v	_	5	xcomp	_	Gloss=mourir|SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -15036,7 +15036,7 @@
 11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
 12	balabala	bàlabala	VERB	v	_	10	xcomp	_	Gloss=bouillir|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=,
-14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
+14	diye	dìyé	PART	pm	_	15	mark	_	Gloss=SEQ
 15	na	nà	VERB	v	_	12	xcomp	_	Gloss=venir
 16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=3SG
 17	fò	fɔ́	VERB	v	_	15	xcomp	_	Gloss=dire
