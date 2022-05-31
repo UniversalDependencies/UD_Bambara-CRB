@@ -7253,7 +7253,7 @@
 12	bawo	báwò	X	conj	_	13	dep	_	Gloss=puisque
 13	kòfara	kɔfara	NOUN	n	_	14	nsubj	_	Gloss=dos|Morf=dos,écorce
 14	bòlen	bɔlen	VERB	ptcp	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=sortir|Morf=sortir,PTCP.RES
-15	dòn	dòn	AUX	cop	_	14	aux	_	Gloss=PRES
+15	dòn	dòn	VERB	cop	_	14	compound	_	Gloss=PRES
 16	iko	íko	ADP	conj	_	18	case	_	Gloss=comme
 17	disirifè	dí.sìrife	NOUN	n	_	18	nmod:poss	_	Gloss=rasoir.de.coiffeur|Morf=rasoir.de.coiffeur,raser,rasoir
 18	cogo	cógo	NOUN	n	_	14	obl	_	Gloss=manière
