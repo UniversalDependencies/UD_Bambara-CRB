@@ -12613,7 +12613,7 @@
 17	ka	ka	AUX	pm	_	19	aux	_	Gloss=INF
 18	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	19	obj	_	Gloss=3SG
 19	sigi	sìgi	VERB	v	_	13	xcomp	_	Gloss=asseoir
-20	kan	kàn	ADP	pp	_	19	orphan	_	Gloss=sur|SpaceAfter=No
+20	kan	kàn	ADP	pp	_	19	obl	_	Gloss=sur|SpaceAfter=No
 21	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:59
@@ -13483,7 +13483,7 @@
 17	Amadu	Ámàdu	PROPN	n.prop	_	7	nsubj	_	Gloss=NOM.M
 18	Tara	Tara	PROPN	n.prop	_	17	flat	_	Gloss=NOM.CL
 19	fana	fána	PART	prt	_	17	discourse	_	Gloss=aussi
-20	ko	kó	VERB	cop	_	7	cc	_	Gloss=
+20	ko	kó	PART	cop	_	24	discourse	_	Gloss=
 21	ko	kó	PART	cop	_	24	discourse	_	Gloss=
 22	ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	24	nsubj	_	Gloss=3SG.EMPH
 23	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	24	aux	_	Gloss=IPFV.NEG
