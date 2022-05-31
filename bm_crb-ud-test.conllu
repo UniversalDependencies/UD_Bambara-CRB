@@ -7644,7 +7644,7 @@
 7	ka	ka	AUX	pm	_	8	aux	_	Gloss=OPT
 8	na	nà	VERB	v	_	4	parataxis:obj	_	Gloss=venir
 9	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3PL
-10	ka	ka	AUX	pm	_	9	case	_	Gloss=INF
+10	ka	ka	AUX	pm	_	12	aux	_	Gloss=INF
 11	tulonkè	tulonkɛ	NOUN	n	_	12	obj	_	Gloss=jouer|Morf=jouer,action
 12	kè	kɛ́	VERB	v	_	8	xcomp	_	Gloss=faire|SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	Gloss=.
@@ -13310,7 +13310,7 @@
 35	bèè	bɛ́ɛ	DET	dtm	_	33	det	_	Gloss=tout
 36	kè	kɛ́	VERB	v	_	40	advcl	_	Gloss=faire
 37	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	36	obl	_	Gloss=3SG
-38	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	37	case	_	Gloss=PFV.NEG
+38	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	40	aux	_	Gloss=PFV.NEG
 39	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	40	obj	_	Gloss=3SG
 40	furu	fúru	VERB	v	_	21	ccomp	_	Gloss=épouser|SpaceAfter=No
 41	,	,	PUNCT	_	_	44	punct	_	Gloss=,
@@ -14526,7 +14526,7 @@
 32	de	dè	PART	prt	_	31	discourse	_	Gloss=FOC
 33	ma	mà	ADP	pp	_	31	case	_	Gloss=ADR
 34	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	36	nmod:poss	_	Gloss=3PL
-35	ka	ka	AUX	pm	_	34	case	_	Gloss=INF
+35	ka	ka	ADP	pm	_	34	case	_	Gloss=INF
 36	jinèdugu	jinɛdugu	NOUN	n	_	30	obl	_	Gloss=esprit|Morf=esprit,terre
 37	yenninnò	yènninɔ	ADV	n	_	30	obl	_	Gloss=là-bas
 38	ko	kó	PART	cop	_	41	discourse	_	Gloss=
