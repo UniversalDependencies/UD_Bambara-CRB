@@ -1261,7 +1261,7 @@
 1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	bonyana	bonyana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=grossir|Morf=grossir,grand,DEQU,PFV.INTR
 3	ka	ka	AUX	pm	_	4	aux	_	Gloss=INF
-4	bonya	bònya	VERB	v	_	2	nsubj	_	Gloss=grossir|Morf=grossir,grand,DEQU
+4	bonya	bònya	VERB	v	_	2	compound:redup	_	Gloss=grossir|Morf=grossir,grand,DEQU
 5	fo	fó	SCONJ	conj	_	8	mark	_	Gloss=jusqu'à
 6	ka	ka	AUX	pm	_	8	aux	_	Gloss=INF
 7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
@@ -11361,7 +11361,7 @@
 23	gèlèn	gɛ̀lɛn	VERB	vq/adj	_	13	conj	_	Gloss=dur
 24	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=3SG
 25	ka	ka	AUX	pm	_	26	aux	_	Gloss=OPT
-26	balo	bálo	VERB	v	_	23	csubj	_	Gloss=vivre|SpaceAfter=No
+26	balo	bálo	VERB	v	_	23	xcomp	_	Gloss=vivre|SpaceAfter=No
 27	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:14
@@ -11374,7 +11374,7 @@
 6	sòròla	sɔrɔla	VERB	v	_	0	root	_	Gloss=obtenir|Morf=obtenir,MNT1
 7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
 8	ka	ka	AUX	pm	Polarity=Pos	9	aux	_	Gloss=QUAL.AFF
-9	gèlèn	gɛ̀lɛn	VERB	vq/adj	_	6	csubj	_	Gloss=dur
+9	gèlèn	gɛ̀lɛn	VERB	vq/adj	_	6	xcomp	_	Gloss=dur
 10	kosèbè	kó.sɛbɛ	ADV	adv	_	9	obl	_	Gloss=très.bien|Morf=très.bien,Posaire,sérieux|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
@@ -13105,7 +13105,7 @@
 4	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 5	bèè	bɛ́ɛ	PRON	prn	_	9	nsubj	_	Gloss=chaque
 6	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	9	aux	_	Gloss=PFV.TR
-7	Amadu	Ámadù	PROPN	n.prop	_	9	nsubj	_	Gloss=NOM.M
+7	Amadu	Ámadù	PROPN	n.prop	_	9	obj	_	Gloss=NOM.M
 8	Tara	Tara	PROPN	n.prop	_	7	flat	_	Gloss=NOM.CL
 9	deli	déli	VERB	v	_	3	parataxis	_	Gloss=prier
 10	ko	kó	PART	cop	_	13	discourse	_	Gloss=
@@ -13480,12 +13480,12 @@
 14	so	só	NOUN	n	_	13	obl	_	Gloss=maison
 15	minkè	mínkɛ	SCONJ	conj	_	13	mark	_	Gloss=lorsque|SpaceAfter=No
 16	,	,	PUNCT	_	_	13	punct	_	Gloss=,
-17	Amadu	Ámàdu	PROPN	n.prop	_	7	nsubj	_	Gloss=NOM.M
+17	Amadu	Ámàdu	PROPN	n.prop	_	24	nsubj	_	Gloss=NOM.M
 18	Tara	Tara	PROPN	n.prop	_	17	flat	_	Gloss=NOM.CL
 19	fana	fána	PART	prt	_	17	discourse	_	Gloss=aussi
 20	ko	kó	PART	cop	_	24	discourse	_	Gloss=
 21	ko	kó	PART	cop	_	24	discourse	_	Gloss=
-22	ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	24	nsubj	_	Gloss=3SG.EMPH
+22	ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	17	nmod	_	Gloss=3SG.EMPH
 23	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	24	aux	_	Gloss=IPFV.NEG
 24	se	sé	VERB	v	_	7	ccomp	_	Gloss=arriver
 25	ka	ka	AUX	pm	_	26	aux	_	Gloss=INF
@@ -15412,7 +15412,7 @@
 # text = Namaramatu ye a fò wiyan wiyan wiyan !
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	4	nsubj	_	Gloss=NOM.F
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	wiyan	wiyan	INTJ	_	_	4	parataxis:obj	_	Gloss=CHNT
 6	wiyan	wiyan	INTJ	_	_	5	compound:redup	_	Gloss=CHNT
