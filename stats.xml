@@ -16,16 +16,16 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">69</tag><!-- kɛ́nɛ, _, cá.man, ɲumannin, camanba, jàlan, ɲùman, júgu, kúra, sɛ̀bɛ -->
-    <tag name="ADP">1032</tag><!-- yé, ná, lá, mà, fɛ̀, ká, ka, bólo, kàn, _ -->
-    <tag name="ADV">176</tag><!-- yèn, dɔ́rɔn, yàn, tèn, tí, _, sísan, túgun, túguni, fɔ́lɔ -->
-    <tag name="AUX">1421</tag><!-- ka, ye, bɛ, tɛ, ma, tùn, dìyé, kàna, mána, bɛ́na -->
+    <tag name="ADP">1033</tag><!-- yé, ná, lá, mà, fɛ̀, ká, ka, bólo, kàn, _ -->
+    <tag name="ADV">182</tag><!-- yèn, dɔ́rɔn, yàn, tèn, tí, _, sísan, túgun, mín, túguni -->
+    <tag name="AUX">1401</tag><!-- ka, ye, bɛ, tɛ, ma, tùn, kàna, mána, bɛ́na, na -->
     <tag name="CCONJ">67</tag><!-- ní, ni, àni, ô, _, ó, mè, n', aprɛ, epi -->
     <tag name="DET">504</tag><!-- nìn, ò, dɔ́, bɛ́ɛ, mín, yɛ̀rɛ, ninw, sí, mîn, _ -->
     <tag name="INTJ">224</tag><!-- ée, áyiwa, wiyan, ta, dɛ́rɛn, jàa, kusa, fɔ̀nhɔn, wewu, bòn -->
-    <tag name="NOUN">2141</tag><!-- _, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ -->
+    <tag name="NOUN">2144</tag><!-- _, bá, dén, tùma, dùgu, mùso, tɔ́gɔ, dén.nin, sò, yɔ́rɔ -->
     <tag name="NUM">92</tag><!-- kélen, fìla, kɔ̀nɔntɔn, ségin, sàba, _, 6, nan, wólonfìla, wɔ́ɔrɔ -->
-    <tag name="PART">663</tag><!-- kó, dè, fána, _, dɛ́, dún, sá, wà, bìlen, dùn -->
-    <tag name="PRON">2512</tag><!-- à, ń, ò, í, ù, _, né, é, nìn, nê -->
+    <tag name="PART">679</tag><!-- kó, dè, fána, _, dɛ́, dún, sá, dìyé, wà, bìlen -->
+    <tag name="PRON">2506</tag><!-- à, ń, ò, í, ù, _, né, é, nìn, nê -->
     <tag name="PROPN">292</tag><!-- Tara, Namaramatu, Ámadù, Ámàdu, Jasun, Dáwuda, Bilali, Kusuba, Mamadu, Tàrawéle -->
     <tag name="PUNCT">1948</tag><!-- ,, ., !, ?, :, _, “, ”, -, ‐ -->
     <tag name="SCONJ">183</tag><!-- ní, fó, kó, mínkɛ, kàbini, sá.ni, _, kómi, bárisa, n' -->
@@ -33,7 +33,7 @@
     <tag name="X">1</tag><!-- báwò -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="28">
+  <feats unique="29">
     <feat name="Aspect" value="Imp" upos="AUX,VERB">365</feat><!-- bè, tè, be, bɛ, tɛ, te, b' -->
     <feat name="Aspect" value="Perf" upos="ADJ,AUX,VERB">934</feat><!-- ye, tagara, ma, nana, bòra, sera, kèra, tora, cira, banna -->
     <feat name="Aspect" value="Prog" upos="VERB">5</feat><!-- kotò, bintò, natò -->
@@ -52,6 +52,7 @@
     <feat name="Polarity" value="Pos" upos="AUX,VERB">1251</feat><!-- ye, bè, tagara, nana, ka, bòra, sera, kèra, be, bɛ -->
     <feat name="PronType" value="Dem" upos="DET,PRON">198</feat><!-- nin, ninw -->
     <feat name="PronType" value="Emp" upos="PRON">218</feat><!-- ne, e, ale, aw, ele -->
+    <feat name="PronType" value="Int" upos="ADV">6</feat><!-- min -->
     <feat name="PronType" value="Prs" upos="PRON">1864</feat><!-- a, n, i, u, olu, an, à -->
     <feat name="PronType" value="Rcp" upos="PRON">17</feat><!-- nyògòn, nyògon -->
     <feat name="PronType" value="Rel" upos="DET,PRON">80</feat><!-- min, minw, mun -->
@@ -64,41 +65,40 @@
     <feat name="Voice" value="Cau" upos="VERB">15</feat><!-- labò, lajigin, lajè, dalajè, laminè, latila -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="35">
+  <deps unique="34">
     <dep name="acl">69</dep>
     <dep name="advcl">164</dep>
     <dep name="advmod">23</dep>
-    <dep name="amod">73</dep>
+    <dep name="amod">74</dep>
     <dep name="appos">21</dep>
-    <dep name="aux">1396</dep>
-    <dep name="case">1030</dep>
-    <dep name="cc">66</dep>
+    <dep name="aux">1381</dep>
+    <dep name="case">1025</dep>
+    <dep name="cc">65</dep>
     <dep name="ccomp">79</dep>
-    <dep name="compound">1</dep>
-    <dep name="compound:redup">74</dep>
+    <dep name="compound">2</dep>
+    <dep name="compound:redup">75</dep>
     <dep name="conj">64</dep>
-    <dep name="csubj">2</dep>
     <dep name="dep">9</dep>
     <dep name="det">447</dep>
     <dep name="det:rel">60</dep>
-    <dep name="discourse">777</dep>
+    <dep name="discourse">778</dep>
     <dep name="dislocated">48</dep>
     <dep name="fixed">30</dep>
     <dep name="flat">75</dep>
-    <dep name="mark">180</dep>
-    <dep name="nmod">2</dep>
+    <dep name="mark">195</dep>
+    <dep name="nmod">3</dep>
     <dep name="nmod:poss">643</dep>
-    <dep name="nsubj">1855</dep>
+    <dep name="nsubj">1854</dep>
     <dep name="nummod">63</dep>
-    <dep name="obj">1042</dep>
-    <dep name="obl">1121</dep>
-    <dep name="orphan">15</dep>
+    <dep name="obj">1044</dep>
+    <dep name="obl">1122</dep>
+    <dep name="orphan">14</dep>
     <dep name="parataxis">467</dep>
     <dep name="parataxis:obj">289</dep>
     <dep name="punct">1948</dep>
     <dep name="reparandum">5</dep>
     <dep name="root">1026</dep>
     <dep name="vocative">110</dep>
-    <dep name="xcomp">549</dep>
+    <dep name="xcomp">551</dep>
   </deps>
 </treebank>
