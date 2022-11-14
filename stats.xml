@@ -65,7 +65,7 @@
     <feat name="Voice" value="Cau" upos="VERB">15</feat><!-- labò, lajigin, lajè, dalajè, laminè, latila -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="35">
+  <deps unique="34">
     <dep name="acl">69</dep>
     <dep name="advcl">164</dep>
     <dep name="advmod">23</dep>
@@ -76,9 +76,8 @@
     <dep name="cc">65</dep>
     <dep name="ccomp">79</dep>
     <dep name="compound">2</dep>
-    <dep name="compound:redup">74</dep>
+    <dep name="compound:redup">75</dep>
     <dep name="conj">64</dep>
-    <dep name="csubj">2</dep>
     <dep name="dep">9</dep>
     <dep name="det">447</dep>
     <dep name="det:rel">60</dep>
@@ -87,11 +86,11 @@
     <dep name="fixed">30</dep>
     <dep name="flat">75</dep>
     <dep name="mark">195</dep>
-    <dep name="nmod">2</dep>
+    <dep name="nmod">3</dep>
     <dep name="nmod:poss">643</dep>
-    <dep name="nsubj">1858</dep>
+    <dep name="nsubj">1854</dep>
     <dep name="nummod">63</dep>
-    <dep name="obj">1042</dep>
+    <dep name="obj">1044</dep>
     <dep name="obl">1122</dep>
     <dep name="orphan">14</dep>
     <dep name="parataxis">467</dep>
@@ -100,6 +99,6 @@
     <dep name="reparandum">5</dep>
     <dep name="root">1026</dep>
     <dep name="vocative">110</dep>
-    <dep name="xcomp">549</dep>
+    <dep name="xcomp">551</dep>
   </deps>
 </treebank>
