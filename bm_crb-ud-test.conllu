@@ -17985,7 +17985,7 @@
 9	i	í	PRON	pers	PronType=Prs	12	nsubj	_	Gloss=REFL|Reflexive=Yes
 10	ka	ka	AUX	pm	_	12	aux	_	Gloss=SBJV
 11	lawa	lawa	NOUN	n	_	12	obj	_	Gloss=désir
-12	bò	bò	VERB	v	_	_	_	_	Gloss=sortir|SpaceAfter=No
+12	bò	bò	VERB	v	_	0	root	_	Gloss=sortir|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:58
@@ -18829,7 +18829,7 @@
 # status = WIP
 1	Den	dén	NOUN	n	_	3	nsubj	_	Gloss=enfant
 2	bè	bè	AUX	cop	_	3	aux	_	Gloss=IPFV.AFF
-3	boloko	boloko	VERB	n	_	_	_	_	Gloss=circoncire
+3	boloko	boloko	VERB	n	_	0	root	_	Gloss=circoncire
 4	dòròn	dòròn	ADV	dtm	_	3	obl	_	Gloss=seulement|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
@@ -19015,7 +19015,7 @@
 6	sanji	_	NOUN	_	_	9	nsubj	_	Gloss=pluie|Morf=pluie,ciel,eau
 7	tun	tùn	PART	prt	Tense=Past	9	aux	_	Gloss=PST
 8	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
-9	na	_	VERB	_	_	_	_	_	Gloss=venir
+9	na	_	VERB	_	_	0	root	_	Gloss=venir
 10	Jalakɔrɔ	_	PROPN	_	_	9	obl	_	Gloss=TOP
 11	ka	ka	AUX	_	_	13	aux	_	Gloss=INF
 12	labɔli	_	NOUN	_	_	13	obj	_	Gloss=faire.sortir|Morf=faire.sortir,CAUS,sortir,NMLZ
@@ -19140,7 +19140,7 @@
 3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
 4	bɛ	_	AUX	_	_	6	aux	_	Gloss=être
 5	ji	_	NOUN	_	_	6	obj	_	Gloss=eau
-6	na	_	VERB	_	_	_	_	_	Gloss=à|SpaceAfter=No
+6	na	_	VERB	_	_	0	root	_	Gloss=à|SpaceAfter=No
 7	,	_	PUNCT	_	_	6	punct	_	Gloss=,
 8	ka	ka	AUX	_	_	10	aux	_	Gloss=INF
 9	sɛnɛfɛnw	_	NOUN	_	_	10	obj	_	Gloss=plante.cultivée|Morf=plante.cultivée,cultiver,chose,PL
@@ -19766,7 +19766,7 @@
 7	minɛ	_	NOUN	_	_	10	dislocated:subj	_	Gloss=procédé|SpaceAfter=No
 8	,	_	PUNCT	_	_	7	punct	_	Gloss=,
 9	o	_	PRON	_	_	10	nsubj	_	Gloss=ce
-10	ye	ye	VERB	_	Aspect=Perf|Polarity=Pos|Valency=2	_	_	_	Gloss=EQU
+10	ye	ye	VERB	_	Aspect=Perf|Polarity=Pos|Valency=2	0	root	_	Gloss=EQU
 11	anw	ánw	PRON	pers	Number=Plur|Person=2|PronType=Emp	13	nmod:poss	_	Gloss=1PL.EMPH
 12	ka	ka	ADP	_	_	11	case	_	Gloss=POSS
 13	minɛ	_	NOUN	_	_	10	obl	_	Gloss=procédé
