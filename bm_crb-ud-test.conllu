@@ -17042,7 +17042,7 @@
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:8
-# text = <sp>Z:</sp> Den bè sòrò cogo di?
+# text = Den bè sòrò cogo di?
 # status = WIP
 1	Den	dén	NOUN	n	_	3	nsubj	_	Gloss=enfant
 2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.AFF
@@ -17084,7 +17084,7 @@
 12	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:11
-# text = <sp>Z:</sp> Mun b'a kè ni den bè sòrò o jè in na, o kafoli in na?
+# text = Mun b'a kè ni den bè sòrò o jè in na, o kafoli in na?
 # status = WIP
 1	Mun	mùn	PRON	prn	_	4	nsubj	_	Gloss=quoi
 2	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
@@ -17207,7 +17207,7 @@
 22	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:17
-# text = <sp>Z:</sp> "Donc" cè ka lawakisè ni muso ka fankisè, olu bè nyagamin nyògòn na?
+# text = "Donc" cè ka lawakisè ni muso ka fankisè, olu bè nyagamin nyògòn na?
 # status = WIP
 1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
 2	Donc	Donc	PART	n	_	14	discourse	_	Gloss=ETRG.FRA
@@ -17228,7 +17228,7 @@
 17	?	?	PUNCT	_	_	14	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:18
-# text = <sp>B:</sp> Olu bi nyagamin nyògòn na.
+# text = Olu bi nyagamin nyògòn na.
 # status = WIP
 1	Olu	Olu	PRON	pers	Number=Plur|PronType=Prs	3	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
 2	bi	bì	AUX	adv/n	_	3	aux	_	Gloss=IPFV.AFF
@@ -17238,7 +17238,7 @@
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:19
-# text = <sp>Z:</sp> O bi kè den ye?
+# text = O bi kè den ye?
 # status = WIP
 1	O	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
 2	bi	bì	AUX	n	_	3	aux	_	Gloss=IPFV.AFF
@@ -17248,7 +17248,7 @@
 6	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:20
-# text = <sp>B:</sp> O bi yèlèma ka kè den ye.
+# text = O bi yèlèma ka kè den ye.
 # status = WIP
 1	O	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
 2	bi	bì	AUX	n	_	3	nsubj	_	Gloss=IPFV.AFF
@@ -17260,7 +17260,7 @@
 8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:21
-# text = <sp>Z:</sp> Cènimusoya in yèrè kònò, mun de bèna a kè ni mògò bè diya sòrò cènimusoya la?
+# text = Cènimusoya in yèrè kònò, mun de bèna a kè ni mògò bè diya sòrò cènimusoya la?
 # status = WIP
 1	Cènimusoya	Cènimusoya	NOUN	n.prop	_	10	obl	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
 2	in	ìn	DET	dtm	Definite=Def	1	det	_	Gloss=DEF
@@ -17282,7 +17282,7 @@
 18	?	?	PUNCT	_	_	10	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:22
-# text = <sp>B:</sp> Cènimusoya diya, o bè bò muso yèrè la.
+# text = Cènimusoya diya, o bè bò muso yèrè la.
 # status = WIP
 1	Cènimusoya	Cènimusoya	NOUN	n	_	2	nsubj	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
 2	diya	díya	NOUN	v	_	6	dislocated:subj	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU|SpaceAfter=No
@@ -17332,7 +17332,7 @@
 8	?	?	PUNCT	_	_	5	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:25
-# text = <sp>B:</sp> Ni muso b'i lamaga cè kòrò, cè bè cènimusoya diya don o de fè.
+# text = Ni muso b'i lamaga cè kòrò, cè bè cènimusoya diya don o de fè.
 # status = WIP
 1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
 2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
@@ -17353,7 +17353,7 @@
 17	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:26
-# text = <sp>Z:</sp> Ni muso b'i lama a kòrò?
+# text = Ni muso b'i lama a kòrò?
 # status = WIP
 1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
 2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
@@ -17365,7 +17365,7 @@
 8	?	?	PUNCT	_	_	5	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:27
-# text = <sp>B:</sp> Ni muso b'i lama cè kòrò, cènimusoya diya bè don o la.
+# text = Ni muso b'i lama cè kòrò, cènimusoya diya bè don o la.
 # status = WIP
 1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
 2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
@@ -17384,7 +17384,7 @@
 15	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:28
-# text = <sp>Z:</sp> Mògò yèrè bè den sòrò cogo di?
+# text = Mògò yèrè bè den sòrò cogo di?
 # status = WIP
 1	Mògò	Mògò	NOUN	n	_	5	nsubj	_	Gloss=homme
 2	yèrè	yèrè	DET	dtm	_	1	det	_	Gloss=même
@@ -17675,7 +17675,7 @@
 22	.	.	PUNCT	_	_	16	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:42
-# text = <sp>Z:</sp> "Bon" bangebaliya, mun bè na ni bangebaliya ye?
+# text = "Bon" bangebaliya, mun bè na ni bangebaliya ye?
 # status = WIP
 1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
 2	Bon	Bon	PART	n.prop	_	8	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
@@ -17843,7 +17843,7 @@
 14	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:49
-# text = <sp>Z:</sp> Bangebaliya dun?
+# text = Bangebaliya dun?
 # status = WIP
 1	Bangebaliya	Bangebaliya	NOUN	n.prop	_	0	root	_	Gloss=stérile-ABSTR|Morf=stérile-ABSTR,stérile,naître,PTCP.PRIV,ABSTR
 2	dun	dún	PART	v	_	1	discourse	_	Gloss=TOP.CNTR|SpaceAfter=No
@@ -17876,7 +17876,7 @@
 22	.	.	PUNCT	_	_	16	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:51
-# text = <sp>Z:</sp> I bè bana dòw dòn min bè se ka kè n'a tigi tè bange wa?
+# text = I bè bana dòw dòn min bè se ka kè n'a tigi tè bange wa?
 # status = WIP
 1	I	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=2SG
 2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
@@ -18058,7 +18058,7 @@
 14	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:61
-# text = <sp>Z:</sp> Muso bè bange kòlòsi cogo di?
+# text = Muso bè bange kòlòsi cogo di?
 # status = WIP
 1	Muso	Muso	NOUN	n	_	4	nsubj	_	Gloss=femme
 2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
@@ -18173,7 +18173,7 @@
 9	?	?	PUNCT	_	_	6	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:67
-# text = <sp>B:</sp> O ye bangekòlòsilicogow ye.
+# text = O ye bangekòlòsilicogow ye.
 # status = WIP
 1	O	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
 2	ye	ye	VERB	pm	Polarity=Pos	0	root	_	Gloss=EQU
@@ -18475,7 +18475,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:81
-# text = <sp>Z:</sp> Nka sisan, e yèrè nyè b'a la ka a fò ko fènw yèlèmana.
+# text = Nka sisan, e yèrè nyè b'a la ka a fò ko fènw yèlèmana.
 # status = WIP
 1	Nka	Nka	CCONJ	conj	_	7	cc	_	Gloss=mais
 2	sisan	sísan	NOUN	adv	_	7	obl	_	Gloss=maintenant|SpaceAfter=No
@@ -18519,7 +18519,7 @@
 7	?	?	PUNCT	_	_	5	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:84
-# text = <sp>B:</sp> Sisan, o danbe min tun bè yen fòlò, o banna.
+# text = Sisan, o danbe min tun bè yen fòlò, o banna.
 # status = WIP
 1	Sisan	Sisan	NOUN	n.prop	_	7	obl	_	Gloss=maintenant|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
@@ -18770,7 +18770,7 @@
 12	?	?	PUNCT	_	_	9	punct	_	Gloss=?
 
 # sent_id = entretien_sida1994_03_21.dis.html:97
-# text = <sp>B:</sp> Danbew binni de ye yèlèma don kow la.
+# text = Danbew binni de ye yèlèma don kow la.
 # status = WIP
 1	Danbew	Danbew	NOUN	n	Number=Plur	2	nmod:poss	_	Gloss=dignité|Morf=dignité,PL
 2	binni	binni	NOUN	n	_	6	nsubj	_	Gloss=chute|Morf=chute,tomber,NMLZ
@@ -18783,7 +18783,7 @@
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:98
-# text = <sp>Z:</sp> "Mais" fèn wèrè ma kè ni cènimusoya cogo yèlèmana sisan.
+# text = "Mais" fèn wèrè ma kè ni cènimusoya cogo yèlèmana sisan.
 # status = WIP
 1	"	"	PUNCT	_	_	2	punct	_	Gloss="
 2	Mais	Mais	PART	n	_	7	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
@@ -18800,7 +18800,7 @@
 13	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = entretien_sida1994_03_21.dis.html:99
-# text = <sp>B:</sp> Tinè minnu tun bè yenninò, cènimusoya, o ma bali, sabu nege de barika bonyèna bi.
+# text = Tinè minnu tun bè yenninò, cènimusoya, o ma bali, sabu nege de barika bonyèna bi.
 # status = WIP
 1	Tinè	Tinè	NOUN	n.prop	_	2	nmod:poss	_	Gloss=tabou
 2	minnu	minnu	DET	n	_	4	nsubj	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
