@@ -17210,7 +17210,7 @@
 # text = "Donc" cè ka lawakisè ni muso ka fankisè, olu bè nyagamin nyògòn na?
 # status = WIP
 1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
-2	Donc	Donc	PART	n	_	14	discourse	_	Gloss=ETRG.FRA
+2	Donc	Donc	PART	n	_	14	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
 3	"	"	PUNCT	_	_	2	punct	_	Gloss="
 4	cè	cè	NOUN	n	_	6	nmod:poss	_	Gloss=mâle
 5	ka	ka	ADP	conj	_	4	case	_	Gloss=POSS
@@ -18292,7 +18292,7 @@
 35	ye	ye	ADP	pp	_	34	case	_	Gloss=PP|SpaceAfter=No
 36	,	,	PUNCT	_	_	32	punct	_	Gloss=,
 37	sanko	sanko	SCONJ	cop	_	40	mark	_	Gloss=surtout
-38	a'	a'	PRON	pers	Number=Sing|Person=3|PronType=Prs	40	nsubj	_	Gloss=2PL|SpaceAfter=No
+38	a'	a'	PRON	pers	Number=Sing|Person=3|PronType=Prs	40	nsubj	_	Gloss=2PL
 39	ka	ka	AUX	pm	_	40	aux	_	Gloss=SBJV
 40	kafo	kafo	VERB	v	_	26	parataxis	_	Gloss=rassembler|SpaceAfter=No
 41	.	.	PUNCT	_	_	20	punct	_	Gloss=.
@@ -18347,14 +18347,14 @@
 15	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
 16	jò	jò	VERB	v	_	12	parataxis	_	Gloss=dresser
 17	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	20	nmod:poss	_	Gloss=2SG
-18	ka	ka	ADP	pp	_	17	case	_	Gloss=POSS|SpaceAfter=No
-19	"	"	PUNCT	_	_	20	punct	_	Gloss="
+18	ka	ka	ADP	pp	_	17	case	_	Gloss=POSS
+19	"	"	PUNCT	_	_	20	punct	_	Gloss="|SpaceAfter=No
 20	depense	depense	NOUN	n	_	16	obl	_	Gloss=ETRG.FRA|SpaceAfter=No
 21	"	"	PUNCT	_	_	20	punct	_	Gloss="
 22	bèe	bèe	DET	dtm	_	20	det	_	Gloss=tout
 23	kòrò	kòrò	ADP	pp	_	20	case	_	Gloss=sous|SpaceAfter=No
-24	,	,	PUNCT	_	_	16	punct	_	Gloss=,|SpaceAfter=No
-25	"	"	PUNCT	_	_	26	punct	_	Gloss="
+24	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+25	"	"	PUNCT	_	_	26	punct	_	Gloss="|SpaceAfter=No
 26	mais	mais	CCONJ	n	_	30	cc	_	Gloss=ETRG.FRA|SpaceAfter=No
 27	"	"	PUNCT	_	_	26	punct	_	Gloss="
 28	cènimusoya	cènimusoya	NOUN	n	_	30	nsubj	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
@@ -18785,7 +18785,7 @@
 # sent_id = entretien_sida1994_03_21.dis.html:98
 # text = "Mais" fèn wèrè ma kè ni cènimusoya cogo yèlèmana sisan.
 # status = WIP
-1	"	"	PUNCT	_	_	2	punct	_	Gloss="
+1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
 2	Mais	Mais	PART	n	_	7	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
 3	"	"	PUNCT	_	_	2	punct	_	Gloss="
 4	fèn	fèn	NOUN	n	_	7	nsubj	_	Gloss=chose
@@ -18806,8 +18806,8 @@
 2	minnu	minnu	DET	n	_	4	nsubj	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
 3	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
 4	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
-5	yen	yèn	NOUN	n	_	4	obl	_	Gloss=là-bas
-6	ni	ní	PRON	conj/prep	_	4	obl	_	Gloss=DEM
+5	yen	yèn	NOUN	n	_	4	obl	_	Gloss=là-bas|SpaceAfter=No
+6	ni	ní	PRON	conj/prep	_	4	obl	_	Gloss=DEM|SpaceAfter=No
 7	nò	nò	ADP	n	_	6	case	_	Gloss=IN|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 9	cènimusoya	cènimusoya	NOUN	n	_	13	dislocated	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR|SpaceAfter=No
@@ -19282,7 +19282,7 @@
 21	kamalen	kamalen	NOUN	_	_	24	nsubj	_	Gloss=jeune.homme
 22	y'	ye	AUX	pm	Aspect=Perf	24	aux	_	Gloss=PFV.TR|SpaceAfter=No
 23	i	_	PRON	_	_	24	obj	_	Gloss=REFL|Reflexive=Yes
-24	kanto	_	VERB	_	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester|SpaceAfter=No
+24	kanto	_	VERB	_	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 25	:	_	PUNCT	_	_	24	punct	_	Gloss=:
 
 # sent_id = diarra-juman_norola-ELAN.dis.html:24
@@ -19297,7 +19297,7 @@
 7	ne	_	PRON	_	Number=Sing|Person=1|PronType=Emp	6	obl	_	Gloss=1SG.EMPH
 8	fɛ	_	VERB	_	_	7	case	_	Gloss=par
 9	kosɛbɛ	_	ADV	_	_	6	advmod	_	Gloss=très.bien|Morf=très.bien,affaire,sérieux
-10	wa	_	PART	_	_	6	discourse	_	Gloss=Q|SpaceAfter=No
+10	wa	_	PART	_	_	6	discourse	_	Gloss=Q
 11	?	_	PUNCT	_	_	6	punct	_	Gloss=?
 
 # sent_id = diarra-juman_norola-ELAN.dis.html:25
@@ -19363,7 +19363,7 @@
 13	wula	_	NOUN	_	_	18	obl	_	Gloss=soir
 14	fɛ	_	ADP	pp	_	13	case	_	Gloss=par|SpaceAfter=No
 15	,	,	PUNCT	_	_	13	punct	_	Gloss=,
-16	n'	n'	SCONJ	conj	_	18	mark	_	Gloss=si|SpaceAfter=No
+16	n'	n'	SCONJ	conj	_	18	mark	_	Gloss=si
 17	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	Gloss=1PL
 18	taara	taara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	25	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
 19	TufinKɔba	_	PROPN	n.prop	_	18	obl	_	Gloss=TOP
@@ -19464,7 +19464,7 @@
 6	n	_	PRON	_	_	9	nsubj	_	Gloss=1SG
 7	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
 8	o	_	PRON	_	_	9	obj	_	Gloss=ce
-9	kɛ	_	VERB	_	_	0	root	_	Gloss=faire|SpaceAfter=No
+9	kɛ	_	VERB	_	_	0	root	_	Gloss=faire
 10	!	_	PUNCT	_	_	9	punct	_	Gloss=!
 
 # sent_id = diarra-juman_norola-ELAN.dis.html:34
@@ -19918,8 +19918,8 @@
 8	bɔra	_	VERB	_	_	2	conj	_	Gloss=sortir|Morf=sortir,PFV.INTR
 9	tu	_	NOUN	_	_	10	nmod:poss	_	Gloss=touffe
 10	ɲɔkɔnɔn	_	NOUN	_	_	8	obl	_	Gloss=fond.d'une.pièce|Morf=fond.d'une.pièce,oeil,ventre
-11	fɛ	_	ADP	_	_	10	case	_	Gloss=par|SpaceAfter=No
-12	[	_	PUNCT	_	_	13	punct	_	Gloss=[
+11	fɛ	_	ADP	_	_	10	case	_	Gloss=par
+12	[	_	PUNCT	_	_	13	punct	_	Gloss=[|SpaceAfter=No
 13	ko	_	PART	_	_	8	discourse	_	Gloss=QUOT|SpaceAfter=No
 14	]	_	PUNCT	_	_	13	punct	_	Gloss=]|SpaceAfter=No
 15	:	_	PUNCT	_	_	2	punct	_	Gloss=:
@@ -19928,7 +19928,7 @@
 # text = “- Ne yafara aw ma.
 # status = WIP
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|SpaceAfter=No
-2	-	-	PUNCT	_	_	4	punct	_	Gloss=-|SpaceAfter=No
+2	-	-	PUNCT	_	_	4	punct	_	Gloss=-
 3	Ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
 4	yafara	yafara	VERB	v	_	0	root	_	Gloss=pardonner|Morf=pardonner,PFV.INTR
 5	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	4	obl	_	Gloss=2PL.EMPH
@@ -19950,7 +19950,7 @@
 2	terikɛ	_	NOUN	_	_	3	nmod:poss	_	Gloss=ami|Morf=ami,ami,mâle
 3	nɔn	_	NOUN	_	_	4	nsubj	_	Gloss=trace
 4	don	_	VERB	_	_	0	root	_	Gloss=ID|SpaceAfter=No
-5	.	_	PUNCT	_	_	4	punct	_	Gloss=.|SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	_	Gloss=.
 6	”	_	PUNCT	_	_	4	punct	_	Gloss=”
 
 # sent_id = diarra-juman_norola-ELAN.dis.html:67
@@ -19990,9 +19990,9 @@
 # text = Bamananw ko : “Ko kɔrɔbɔla, o si tɛ bɛrɛ ye. ”
 # status = WIP
 1	Bamananw	_	NOUN	_	_	2	nsubj	_	Gloss=bambara|Morf=bambara,PL
-2	ko	_	VERB	_	_	0	root	_	Gloss=QUOT|SpaceAfter=No
-3	:	_	PUNCT	_	_	2	punct	_	Gloss=:|SpaceAfter=No
-4	“	_	PUNCT	_	_	10	punct	_	Gloss=“
+2	ko	_	VERB	_	_	0	root	_	Gloss=QUOT
+3	:	_	PUNCT	_	_	2	punct	_	Gloss=:
+4	“	_	PUNCT	_	_	10	punct	_	Gloss=“|SpaceAfter=No
 5	Ko	_	NOUN	_	_	10	dislocated:subj	_	Gloss=affaire
 6	kɔrɔbɔla	_	NOUN	_	_	5	amod	_	Gloss=celui.qui.teste|Morf=celui.qui.teste,essayer,dessous,sortir,AG.PRM|SpaceAfter=No
 7	,	_	PUNCT	_	_	6	punct	_	Gloss=,
@@ -20001,6 +20001,6 @@
 10	tɛ	tɛ	VERB	_	Aspect=Imp|Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
 11	bɛrɛ	_	NOUN	_	_	10	obl	_	Gloss=beaucoup
 12	ye	_	ADP	_	_	11	case	_	Gloss=PP|SpaceAfter=No
-13	.	_	PUNCT	_	_	10	punct	_	Gloss=.|SpaceAfter=No
+13	.	_	PUNCT	_	_	10	punct	_	Gloss=.
 14	”	_	PUNCT	_	_	10	punct	_	Gloss=”
 
