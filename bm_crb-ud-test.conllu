@@ -11285,7 +11285,7 @@
 
 # sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:12
 # text = cènin nana, a ye cèkòròba filè, a ye a fò u ye ko cèkòròba nin ko kòni, ko a ka bana nin juguyalen bè cogo min na, ko fèn kelen dòròn de bè se ka sòrò min bè se ka a kisi.
-# label= to_check
+# label = to_check
 1	cènin	cɛ̀nin	NOUN	n	_	2	nsubj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
 2	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
