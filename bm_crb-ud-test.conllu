@@ -16933,3 +16933,3074 @@
 12	yen	yèn	ADV	adv	_	11	obl	_	Gloss=là-bas|SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
+# sent_id = entretien_sida1994_03_21.dis.html:2
+# text = Mun bè an bila cènimusoya kèli la?
+# status = WIP
+1	Mun	mùn	PRON	prn	_	4	nsubj	_	Gloss=quoi
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
+3	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	4	obj	_	Gloss=1PL
+4	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
+5	cènimusoya	cènimusoya	NOUN	n	_	6	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+6	kèli	kèli	NOUN	n	_	4	obl	_	Gloss=action|Morf=action,faire,NMLZ
+7	la	lá	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
+8	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:3
+# text = Fèn min bè an bila cènimusoya kèli la, diya ni denko de bè an bila cènimusoya kèli la.
+# status = WIP
+1	Fèn	Fèn	NOUN	n	_	5	nsubj	_	Gloss=chose
+2	min	mín	DET	prn	PronType=Rel	1	det:rel	_	Gloss=REL
+3	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
+4	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	5	obj	_	Gloss=1PL
+5	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
+6	cènimusoya	cènimusoya	NOUN	n	_	7	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+7	kèli	kèli	NOUN	n	_	5	obl	_	Gloss=action|Morf=action,faire,NMLZ
+8	la	lá	ADP	pp	_	7	case	_	Gloss=à|SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+10	diya	díya	NOUN	n	_	16	nsubj	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+11	ni	ní	CCONJ	conj	_	12	cc	_	Gloss=et
+12	denko	denko	NOUN	n	_	10	conj	_	Gloss=enfant|Morf=enfant,affaire
+13	de	dè	PART	prt	_	10	discourse	_	Gloss=FOC
+14	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
+15	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	16	obj	_	Gloss=1PL
+16	bila	bìla	VERB	v	_	5	parataxis	_	Gloss=mettre
+17	cènimusoya	cènimusoya	NOUN	n	_	18	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+18	kèli	kèli	NOUN	n	_	16	obl	_	Gloss=action|Morf=action,faire,NMLZ
+19	la	lá	ADP	pp	_	18	case	_	Gloss=à|SpaceAfter=No
+20	.	.	PUNCT	_	_	16	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:4
+# text = I bè muso dò nyini, i t'o nyini den kosòn; i b'o nyini o diya kosòn, o diya yèrè kòsòn.
+# status = WIP
+1	I	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=2SG
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
+3	muso	mùso	NOUN	n	_	5	obj	_	Gloss=femme
+4	dò	dò	DET	dtm	_	3	det	_	Gloss=certain
+5	nyini	ɲíni	VERB	v	_	0	root	_	Gloss=chercher|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	i	í	PRON	pers	PronType=Prs	10	nsubj	_	Gloss=2SG
+8	t'	t'	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG|SpaceAfter=No
+9	o	ò	PRON	prn	_	10	obj	_	Gloss=ce
+10	nyini	ɲíni	VERB	v	_	5	parataxis	_	Gloss=chercher
+11	den	dén	NOUN	n	_	10	obl	_	Gloss=enfant
+12	kosòn	kosòn	ADP	adv	_	11	case	_	Gloss=à.cause.de|Morf=à.cause.de,affaire|SpaceAfter=No
+13	;	;	PUNCT	_	_	10	punct	_	Gloss=;
+14	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	17	nsubj	_	Gloss=2SG
+15	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	17	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+16	o	ò	PRON	prn	_	17	obj	_	Gloss=ce
+17	nyini	ɲíni	VERB	v	_	10	parataxis	_	Gloss=chercher
+18	o	ò	DET	prn	_	19	det	_	Gloss=ce
+19	diya	díya	NOUN	v	_	17	obl	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+20	kosòn	kosòn	ADP	adv	_	19	case	_	Gloss=à.cause.de|Morf=à.cause.de,affaire|SpaceAfter=No
+21	,	,	PUNCT	_	_	19	punct	_	Gloss=,
+22	o	ò	DET	prn	_	23	det	_	Gloss=ce
+23	diya	díya	NOUN	v	_	17	obl	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+24	yèrè	yèrè	DET	dtm	_	23	det	_	Gloss=même
+25	kòsòn	kòsòn	ADP	n	_	23	case	_	Gloss=rester.petit|SpaceAfter=No
+26	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:5
+# text = Musow dòw bè yen i b'o nyini fana; o nyinikun yèrè ye den yèrè yèrè ko ye.
+# status = WIP
+1	Musow	Musow	NOUN	n	Number=Plur	3	nsubj	_	Gloss=femme|Morf=femme,PL
+2	dòw	dòw	DET	dtm	Number=Plur	1	det	_	Gloss=certain|Morf=certain,PL
+3	bè	bè	VERB	cop	_	0	root	_	Gloss=être
+4	yen	yèn	ADV	n	_	3	obl	_	Gloss=là-bas
+5	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Gloss=2SG
+6	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+7	o	ò	PRON	prn	_	8	obj	_	Gloss=ce
+8	nyini	ɲíni	VERB	v	_	3	parataxis	_	Gloss=chercher
+9	fana	fána	PART	prt	_	8	discourse	_	Gloss=aussi|SpaceAfter=No
+10	;	;	PUNCT	_	_	8	punct	_	Gloss=;
+11	o	ò	DET	prn	_	12	det	_	Gloss=ce
+12	nyinikun	nyinikun	NOUN	n	_	14	nsubj	_	Gloss=chercher|Morf=chercher,tête
+13	yèrè	yèrè	DET	dtm	_	12	det	_	Gloss=même
+14	ye	ye	VERB	cop	Polarity=Pos	8	parataxis	_	Gloss=EQU
+15	den	dén	NOUN	n	_	17	nmod:poss	_	Gloss=enfant
+16	yèrèyèrè	yèrèyèrè	ADJ	dtm	_	15	amod	_	Gloss=même
+17	ko	kó	NOUN	cop	_	14	obl	_	Gloss=affaire
+18	ye	ye	ADP	pp	_	17	case	_	Gloss=PP|SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:6
+# text = O tè diya ye.
+# status = WIP
+1	O	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	tè	tè	VERB	cop	Polarity=Neg	0	root	_	Gloss=COP.NEG
+3	diya	díya	NOUN	v	_	2	obl	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+4	ye	ye	ADP	pp	_	3	case	_	Gloss=PP|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:7
+# text = O nyinikun ye denko ye.
+# status = WIP
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	nyinikun	nyinikun	NOUN	n	_	3	nsubj	_	Gloss=chercher-tête|Morf=chercher-tête,chercher,tête
+3	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+4	denko	denko	NOUN	n	_	3	obl	_	Gloss=enfant|Morf=enfant,affaire
+5	ye	ye	ADP	pp	_	4	case	_	Gloss=PP|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:8
+# text = Den bè sòrò cogo di?
+# status = WIP
+1	Den	dén	NOUN	n	_	3	nsubj	_	Gloss=enfant
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.AFF
+3	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir
+4	cogo	cógo	NOUN	n	_	3	obl	_	Gloss=manière
+5	di	dí	PRON	prn	_	4	fixed	_	Gloss=comment|SpaceAfter=No
+6	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:9
+# text = Den, a tè sòrò ni cè ni muso ma kafo.
+# status = WIP
+1	Den	dén	NOUN	n	_	5	dislocated:subj	_	Gloss=enfant|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+4	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	5	aux	_	Gloss=IPFV.NEG
+5	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir
+6	ni	ní	SCONJ	conj/prep	_	11	mark	_	Gloss=si
+7	cè	cè	NOUN	n	_	11	nsubj	_	Gloss=mâle
+8	ni	ní	CCONJ	conj/prep	_	9	cc	_	Gloss=et
+9	muso	mùso	NOUN	n	_	7	conj	_	Gloss=femme
+10	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	11	aux	_	Gloss=PFV.NEG
+11	kafo	kafo	VERB	v	_	5	advcl	_	Gloss=rassembler|SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:10
+# text = Ni cè ni muso kafora, den bè sòrò o kònò.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	cè	cè	NOUN	n	_	5	nsubj	_	Gloss=mâle
+3	ni	ní	CCONJ	conj	_	4	cc	_	Gloss=et
+4	muso	mùso	NOUN	n	_	2	conj	_	Gloss=femme
+5	kafora	kafora	VERB	v	_	9	advcl	_	Gloss=rassembler|Morf=rassembler,PFV.INTR|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	den	dén	NOUN	n	_	9	nsubj	_	Gloss=enfant
+8	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
+9	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir
+10	o	ò	PRON	prn	_	9	obl	_	Gloss=ce
+11	kònò	kònò	ADP	pp	_	10	case	_	Gloss=dans|SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:11
+# text = Mun b'a kè ni den bè sòrò o jè in na, o kafoli in na?
+# status = WIP
+1	Mun	mùn	PRON	prn	_	4	nsubj	_	Gloss=quoi
+2	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
+4	kè	kè	VERB	v	_	0	root	_	Gloss=faire
+5	ni	ní	SCONJ	conj	_	8	mark	_	Gloss=si
+6	den	dén	NOUN	n	_	8	nsubj	_	Gloss=enfant
+7	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
+8	sòrò	sòrò	VERB	v	_	4	advcl	_	Gloss=obtenir
+9	o	ò	DET	prn	_	10	det	_	Gloss=ce
+10	jè	jè	NOUN	v	_	8	obl	_	Gloss=assemblée
+11	in	ìn	DET	pers	PronType=Prs	10	det	_	Gloss=DEF
+12	na	ná	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
+13	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+14	o	ò	DET	prn	_	15	det	_	Gloss=ce
+15	kafoli	kafoli	NOUN	n	_	8	obl	_	Gloss=addition|Morf=addition,rassembler,NMLZ
+16	in	ìn	DET	prn	Definite=Def	15	det	_	Gloss=DEF
+17	na	ná	ADP	pp	_	15	case	_	Gloss=à|SpaceAfter=No
+18	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:12
+# text = O kafoli in kònòna la, den bè sòrò cogo min na; aa, cè mana jè muso fè, a bè lawa bila ka taa muso fè.
+# status = WIP
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	kafoli	kafoli	NOUN	v	_	4	nmod:poss	_	Gloss=addition|Morf=addition,rassembler,NMLZ
+3	in	ìn	DET	dtm	Definite=Def	2	det	_	Gloss=DEF
+4	kònòna	kònòna	NOUN	pp	_	9	obl	_	Gloss=l'intérieur|Morf=l'intérieur,ventre,LOC
+5	la	lá	ADP	pp	_	4	case	_	Gloss=à|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+7	den	dén	NOUN	n	_	9	nsubj	_	Gloss=enfant
+8	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
+9	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir
+10	cogo	cógo	NOUN	n	_	9	obl	_	Gloss=manière
+11	min	mín	DET	prn	PronType=Rel	10	det:rel	_	Gloss=REL
+12	na	ná	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
+13	;	;	PUNCT	_	_	9	punct	_	Gloss=;
+14	aa	aa	INTJ	intj	_	18	discourse	_	Gloss=ah!|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+16	cè	cè	NOUN	n	_	18	nsubj	_	Gloss=mâle
+17	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	18	aux	_	Gloss=COND.AFF
+18	jè	jè	VERB	v	_	25	advcl	_	Gloss=assembler
+19	muso	mùso	NOUN	n	_	18	obl	_	Gloss=femme
+20	fè	fè	ADP	pp	_	19	case	_	Gloss=par|SpaceAfter=No
+21	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+22	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	25	nsubj	_	Gloss=3SG
+23	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	25	aux	_	Gloss=IPFV.AFF
+24	lawa	lawa	NOUN	n	Voice=Cau	25	obj	_	Gloss=désir
+25	bila	bìla	VERB	v	_	9	parataxis	_	Gloss=mettre
+26	ka	ka	AUX	pm	_	27	aux	_	Gloss=INF
+27	taa	táa	VERB	v	_	25	xcomp	_	Gloss=aller
+28	muso	mùso	NOUN	n	_	27	obl	_	Gloss=femme
+29	fè	fè	ADP	pp	_	28	case	_	Gloss=par|SpaceAfter=No
+30	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:13
+# text = Kisè de bè o lawa la.
+# status = WIP
+1	Kisè	Kisè	NOUN	n	_	5	nsubj	_	Gloss=grain
+2	de	dè	PART	prt	_	1	discourse	_	Gloss=FOC
+3	bè	bè	VERB	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=être
+4	o	ò	DET	prn	_	5	det	_	Gloss=ce
+5	lawa	lawa	NOUN	v	_	0	root	_	Gloss=désir
+6	la	lá	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:14
+# text = Kisè min bè o lawa la, o bè taa bila muso bangeso la.
+# status = WIP
+1	Kisè	Kisè	NOUN	n	_	3	nsubj	_	Gloss=grain
+2	min	mín	DET	prn	PronType=Rel	1	det:rel	_	Gloss=REL
+3	bè	bè	VERB	pm	Polarity=Pos	8	acl	_	Gloss=être
+4	o	ò	DET	prn	_	5	det	_	Gloss=ce
+5	lawa	lawa	NOUN	n	_	3	obl	_	Gloss=désir
+6	la	lá	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	o	ò	PRON	prn	_	10	nsubj	_	Gloss=ce
+9	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
+10	taa	táa	VERB	v	_	0	root	_	Gloss=aller
+11	bila	bìla	VERB	v	_	10	xcomp	_	Gloss=mettre
+12	muso	mùso	NOUN	n	_	13	nmod:poss	_	Gloss=femme
+13	bangeso	bangeso	NOUN	n	_	11	obl	_	Gloss=utérus|Morf=utérus,naître,maison
+14	la	lá	ADP	pp	_	13	case	_	Gloss=à|SpaceAfter=No
+15	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:15
+# text = O bi muso fankisè sòrò yen.
+# status = WIP
+1	O	ò	PRON	prn	_	5	nsubj	_	Gloss=ce
+2	bi	bì	AUX	adv/n	_	5	aux	_	Gloss=IPFV.AFF
+3	muso	mùso	NOUN	n	_	4	nmod:poss	_	Gloss=femme
+4	fankisè	fankisè	NOUN	n	_	5	obj	_	Gloss=ovule|Morf=ovule,oeuf,grain
+5	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir
+6	yen	yèn	ADV	adv/n	_	5	obl	_	Gloss=là-bas|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:16
+# text = Cè ka lawakisè ani muso fankisè, olu bè "melange" nyògòn na, o de bi kè den ye.
+# status = WIP
+1	Cè	Cè	NOUN	n	_	3	nmod:poss	_	Gloss=mâle
+2	ka	ka	ADP	conj	_	1	case	_	Gloss=POSS
+3	lawakisè	lawakisè	NOUN	n	_	11	dislocated:subj	_	Gloss=spermatozoïde|Morf=spermatozoïde,désir,grain
+4	ani	àni	CCONJ	conj	_	6	cc	_	Gloss=ainsi.que
+5	muso	mùso	NOUN	n	_	6	nmod:poss	_	Gloss=femme
+6	fankisè	fankisè	NOUN	n	_	3	conj	_	Gloss=ovule|Morf=ovule,oeuf,grain|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	11	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+9	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
+10	"	"	PUNCT	_	_	11	punct	_	Gloss="|SpaceAfter=No
+11	melange	melange	VERB	v	_	0	root	_	Gloss=ETRG.FRA|SpaceAfter=No
+12	"	"	PUNCT	_	_	11	punct	_	Gloss="
+13	nyògòn	nyògòn	PRON	prn	PronType=Rcp	11	obl	_	Gloss=RECP
+14	na	ná	ADP	pp	_	13	case	_	Gloss=à|SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+16	o	ò	PRON	prn	_	19	nsubj	_	Gloss=ce
+17	de	dè	PART	prt	_	16	discourse	_	Gloss=FOC
+18	bi	bì	AUX	n	_	19	aux	_	Gloss=IPFV.AFF
+19	kè	kè	VERB	v	_	11	parataxis	_	Gloss=faire
+20	den	dén	NOUN	n	_	19	obl	_	Gloss=enfant
+21	ye	ye	ADP	pp	_	20	case	_	Gloss=PP|SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:17
+# text = "Donc" cè ka lawakisè ni muso ka fankisè, olu bè nyagamin nyògòn na?
+# status = WIP
+1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
+2	Donc	Donc	PART	n	_	14	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	punct	_	Gloss="
+4	cè	cè	NOUN	n	_	6	nmod:poss	_	Gloss=mâle
+5	ka	ka	ADP	conj	_	4	case	_	Gloss=POSS
+6	lawakisè	lawakisè	NOUN	n	_	14	dislocated:subj	_	Gloss=spermatozoïde|Morf=spermatozoïde,désir,grain
+7	ni	ní	CONJ	conj	_	10	cc	_	Gloss=et
+8	muso	mùso	NOUN	n	_	10	nmod:poss	_	Gloss=femme
+9	ka	ka	ADP	pp	_	8	case	_	Gloss=POSS
+10	fankisè	fankisè	NOUN	n	_	6	conj	_	Gloss=ovule|Morf=ovule,oeuf,grain|SpaceAfter=No
+11	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+12	olu	ò.lú	PRON	pers	Number=Plur|PronType=Prs	14	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+13	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=IPFV.AFF
+14	nyagamin	nyagamin	VERB	v	_	0	root	_	Gloss=mélanger
+15	nyògòn	nyògòn	PRON	prn	PronType=Rcp	14	obl	_	Gloss=RECP
+16	na	ná	ADP	pp	_	15	case	_	Gloss=à|SpaceAfter=No
+17	?	?	PUNCT	_	_	14	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:18
+# text = Olu bi nyagamin nyògòn na.
+# status = WIP
+1	Olu	Olu	PRON	pers	Number=Plur|PronType=Prs	3	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+2	bi	bì	AUX	adv/n	_	3	aux	_	Gloss=IPFV.AFF
+3	nyagamin	nyagamin	VERB	n	_	0	root	_	Gloss=mélanger
+4	nyògòn	nyògòn	PRON	prn	PronType=Rcp	3	obl	_	Gloss=RECP
+5	na	ná	ADP	pp	_	4	case	_	Gloss=à|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:19
+# text = O bi kè den ye?
+# status = WIP
+1	O	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
+2	bi	bì	AUX	n	_	3	aux	_	Gloss=IPFV.AFF
+3	kè	kè	VERB	v	_	0	root	_	Gloss=faire
+4	den	dén	NOUN	n	_	3	obl	_	Gloss=enfant
+5	ye	ye	ADP	pp	_	4	case	_	Gloss=PP|SpaceAfter=No
+6	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:20
+# text = O bi yèlèma ka kè den ye.
+# status = WIP
+1	O	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
+2	bi	bì	AUX	n	_	3	nsubj	_	Gloss=IPFV.AFF
+3	yèlèma	yèlèma	VERB	v	_	0	root	_	Gloss=changer
+4	ka	ka	AUX	pm	_	5	aux	_	Gloss=INF
+5	kè	kè	VERB	v	_	3	xcomp	_	Gloss=faire
+6	den	dén	NOUN	n	_	5	obl	_	Gloss=enfant
+7	ye	ye	ADP	pp	_	6	case	_	Gloss=PP|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:21
+# text = Cènimusoya in yèrè kònò, mun de bèna a kè ni mògò bè diya sòrò cènimusoya la?
+# status = WIP
+1	Cènimusoya	Cènimusoya	NOUN	n.prop	_	10	obl	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+2	in	ìn	DET	dtm	Definite=Def	1	det	_	Gloss=DEF
+3	yèrè	yèrè	DET	dtm	_	1	det	_	Gloss=même
+4	kònò	kònò	ADP	pp	_	1	case	_	Gloss=dans|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+6	mun	mùn	PRON	prn	_	10	nsubj	_	Gloss=quoi
+7	de	dè	PART	prt	_	6	discourse	_	Gloss=FOC
+8	bèna	bèna	AUX	pm	Polarity=Pos|Tense=Fut	10	aux	_	Gloss=FUT
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
+10	kè	kè	VERB	v	_	0	root	_	Gloss=faire
+11	ni	ní	SCONJ	conj	_	15	mark	_	Gloss=si
+12	mògò	mògò	NOUN	n	_	15	nsubj	_	Gloss=homme
+13	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	15	aux	_	Gloss=IPFV.AFF
+14	diya	díya	NOUN	n	_	15	obj	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+15	sòrò	sòrò	VERB	v	_	10	advcl	_	Gloss=obtenir
+16	cènimusoya	cènimusoya	NOUN	n	_	15	obl	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+17	la	lá	ADP	pp	_	16	case	_	Gloss=à|SpaceAfter=No
+18	?	?	PUNCT	_	_	10	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:22
+# text = Cènimusoya diya, o bè bò muso yèrè la.
+# status = WIP
+1	Cènimusoya	Cènimusoya	NOUN	n	_	2	nsubj	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+2	diya	díya	NOUN	v	_	6	dislocated:subj	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	o	ò	PRON	prn	_	6	nsubj	_	Gloss=ce
+5	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
+6	bò	bò	VERB	v	_	0	root	_	Gloss=sortir
+7	muso	mùso	NOUN	n	_	6	obl	_	Gloss=femme
+8	yèrè	yèrè	DET	dtm	_	7	det	_	Gloss=même
+9	la	lá	ADP	pp	_	7	case	_	Gloss=à|SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:23
+# text = Ni cè kafora muso fè, ni muso b'i lamaga cè kòrò, o ye cènimusoya diya ye.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	3	mark	_	Gloss=si
+2	cè	cè	NOUN	n	_	3	nsubj	_	Gloss=mâle
+3	kafora	kafora	VERB	pm	_	16	advcl	_	Gloss=rassembler|Morf=rassembler,PFV.INTR
+4	muso	mùso	NOUN	n	_	3	obl	_	Gloss=femme
+5	fè	fè	ADP	pp	_	4	case	_	Gloss=par|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+7	ni	ní	SCONJ	conj	_	11	mark	_	Gloss=si
+8	muso	mùso	NOUN	n	_	11	nsubj	_	Gloss=femme
+9	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+10	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	11	obj	_	Gloss=REFL|Reflexive=Yes
+11	lamaga	lamaga	VERB	v	_	16	advcl	_	Gloss=remuer|Morf=remuer,CAUS,toucher
+12	cè	cè	NOUN	n	_	11	obl	_	Gloss=mâle
+13	kòrò	kòrò	ADP	pp	_	12	case	_	Gloss=sous|SpaceAfter=No
+14	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+15	o	ò	PRON	prn	_	16	nsubj	_	Gloss=ce
+16	ye	ye	VERB	pm	Polarity=Pos	0	root	_	Gloss=EQU
+17	cènimusoya	cènimusoya	NOUN	n	_	18	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+18	diya	díya	NOUN	n	_	16	obl	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+19	ye	ye	ADP	pp	_	18	case	_	Gloss=PP|SpaceAfter=No
+20	.	.	PUNCT	_	_	16	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:24
+# text = Ni muso b'i lamaga cè kòrò?
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
+3	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+4	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	obj	_	Gloss=REFL|Reflexive=Yes
+5	lamaga	lamaga	VERB	v	_	0	root	_	Gloss=remuer|Morf=remuer,CAUS,toucher
+6	cè	cè	NOUN	n	_	5	obl	_	Gloss=mâle
+7	kòrò	kòrò	ADP	pp	_	6	case	_	Gloss=sous|SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:25
+# text = Ni muso b'i lamaga cè kòrò, cè bè cènimusoya diya don o de fè.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
+3	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+4	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	obj	_	Gloss=REFL|Reflexive=Yes
+5	lamaga	lamaga	VERB	v	_	13	advcl	_	Gloss=remuer|Morf=remuer,CAUS,toucher
+6	cè	cè	NOUN	n	_	5	obl	_	Gloss=mâle
+7	kòrò	kòrò	ADP	pp	_	6	case	_	Gloss=sous|SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+9	cè	cè	NOUN	n	_	13	nsubj	_	Gloss=mâle
+10	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.AFF
+11	cènimusoya	cènimusoya	NOUN	n	_	12	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+12	diya	díya	NOUN	n	_	13	obj	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+13	don	dòn	VERB	v	_	0	root	_	Gloss=connaître
+14	o	ò	PRON	prn	_	13	obl	_	Gloss=ce
+15	de	dè	PART	prt	_	14	discourse	_	Gloss=FOC
+16	fè	fè	ADP	pp	_	14	case	_	Gloss=par|SpaceAfter=No
+17	.	.	PUNCT	_	_	13	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:26
+# text = Ni muso b'i lama a kòrò?
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
+3	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+4	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	obj	_	Gloss=REFL|Reflexive=Yes
+5	lama	lama	VERB	v	_	0	root	_	Gloss=remuer|Morf=remuer,CAUS,toucher
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obl	_	Gloss=3SG
+7	kòrò	kòrò	ADP	pp	_	6	case	_	Gloss=sous|SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:27
+# text = Ni muso b'i lama cè kòrò, cènimusoya diya bè don o la.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
+3	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+4	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	obj	_	Gloss=REFL|Reflexive=Yes
+5	lama	lama	VERB	v	_	12	advcl	_	Gloss=remuer|Morf=remuer,CAUS,toucher
+6	cè	cè	NOUN	n	_	5	obl	_	Gloss=mâle
+7	kòrò	kòrò	ADP	pp	_	6	case	_	Gloss=sous|SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+9	cènimusoya	cènimusoya	NOUN	n	_	10	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+10	diya	díya	NOUN	_	_	12	nsubj	_	Gloss=bon.goût|Morf=bon.goût,agréable,DEQU
+11	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
+12	don	dòn	VERB	v	_	0	root	_	Gloss=connaître
+13	o	ò	PRON	prn	_	12	obl	_	Gloss=ce
+14	la	lá	ADP	pp	_	13	case	_	Gloss=à|SpaceAfter=No
+15	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:28
+# text = Mògò yèrè bè den sòrò cogo di?
+# status = WIP
+1	Mògò	Mògò	NOUN	n	_	5	nsubj	_	Gloss=homme
+2	yèrè	yèrè	DET	dtm	_	1	det	_	Gloss=même
+3	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
+4	den	dén	NOUN	n	_	5	obj	_	Gloss=enfant
+5	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir
+6	cogo	cógo	NOUN	n	_	5	obl	_	Gloss=manière
+7	di	dí	PRON	prn	_	6	fixed	_	Gloss=comment|SpaceAfter=No
+8	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:29
+# text = Mògò bè den sòrò, ni cènimusoya ma kè, ni cènimusoya ma tèmè cè ni muso cè, den tè sòrò.
+# status = WIP
+1	Mògò	Mògò	NOUN	n	_	4	nsubj	_	Gloss=homme
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
+3	den	dén	NOUN	n	_	4	obj	_	Gloss=enfant
+4	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	ni	ní	SCONJ	conj	_	9	mark	_	Gloss=si
+7	cènimusoya	cènimusoya	NOUN	n	_	9	nsubj	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+8	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	9	aux	_	Gloss=PFV.NEG
+9	kè	kè	VERB	v	_	22	advcl	_	Gloss=faire|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+11	ni	ní	SCONJ	conj	_	14	mark	_	Gloss=si
+12	cènimusoya	cènimusoya	NOUN	n	_	14	nsubj	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+13	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	14	aux	_	Gloss=PFV.NEG
+14	tèmè	tèmè	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	22	advcl	_	Gloss=passer
+15	cè	cè	NOUN	v	_	17	conj	_	Gloss=mâle
+16	ni	ní	CCONJ	conj/prep	_	15	cc	_	Gloss=et
+17	muso	mùso	NOUN	n	_	14	obl	_	Gloss=femme
+18	cè	cè	ADP	n	_	17	case	_	Gloss=entre|SpaceAfter=No
+19	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+20	den	dén	NOUN	n	_	22	nsubj	_	Gloss=enfant
+21	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	22	aux	_	Gloss=IPFV.NEG
+22	sòrò	sòrò	VERB	v	_	4	parataxis	_	Gloss=obtenir|SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:30
+# text = Den sòròli fo cènimusoya ka tèmè aw ni nyògòncè.
+# status = WIP
+1	Den	dén	NOUN	n	_	2	nmod:poss	_	Gloss=enfant
+2	sòròli	sòròli	NOUN	v	_	6	dislocated:top	_	Gloss=obtenir|Morf=obtenir,NMLZ
+3	fo	fó	PART	conj/prep	_	6	discourse	_	Gloss=jusqu'à
+4	cènimusoya	cènimusoya	NOUN	n	_	6	nsubj	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+5	ka	ka	AUX	pm	_	6	aux	_	Gloss=SBJV
+6	tèmè	tèmè	VERB	v	_	0	root	_	Gloss=passer
+7	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	6	obl	_	Gloss=2PL.EMPH
+8	ni	ní	CCONJ	conj/prep	_	9	cc	_	Gloss=et
+9	nyògòn	nyògòn	PRON	prn	PronType=Rcp	7	conj	_	Gloss=RECP|SpaceAfter=No
+10	cè	cè	ADP	n	_	7	case	_	Gloss=entre|SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:31
+# text = Ayiwa, ka a dòn ka fò karisa bè den sòrò, "ou-bien" karisa tè den sòrò; den yèrè bè sòrò cogo di?
+# status = WIP
+1	Ayiwa	Ayiwa	INTJ	intj	_	5	discourse	_	Gloss=bon|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	ka	ka	AUX	pm	_	5	aux	_	Gloss=INF
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=3SG
+5	dòn	dòn	VERB	v	_	0	root	_	Gloss=connaître
+6	ka	ka	AUX	pm	_	7	aux	_	Gloss=INF
+7	fò	fò	VERB	v	_	5	xcomp	_	Gloss=dire
+8	karisa	karisa	NOUN	n	_	11	nsubj	_	Gloss=un.tel|Morf=un.tel,un.tel
+9	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
+10	den	dén	NOUN	n	_	11	obj	_	Gloss=enfant
+11	sòrò	sòrò	VERB	v	_	7	parataxis	_	Gloss=obtenir|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	"	"	PUNCT	_	_	14	punct	_	Gloss="|SpaceAfter=No
+14	ou-bien	ou-bien	CCONJ	_	_	19	cc	_	Gloss=ETRG.FRA|SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	Gloss="
+16	karisa	karisa	NOUN	n	_	19	nsubj	_	Gloss=un.tel|Morf=un.tel,un.tel
+17	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	19	aux	_	Gloss=IPFV.NEG
+18	den	dén	NOUN	n	_	19	obj	_	Gloss=enfant
+19	sòrò	sòrò	VERB	v	_	11	conj	_	Gloss=obtenir|SpaceAfter=No
+20	;	;	PUNCT	_	_	19	punct	_	Gloss=;
+21	den	dén	NOUN	n	_	24	nsubj	_	Gloss=enfant
+22	yèrè	yèrè	DET	dtm	_	21	det	_	Gloss=même
+23	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	24	aux	_	Gloss=IPFV.AFF
+24	sòrò	sòrò	VERB	v	_	19	parataxis	_	Gloss=obtenir
+25	cogo	cógo	NOUN	n	_	24	obl	_	Gloss=manière
+26	di	dí	PRON	prn	_	25	fixed	_	Gloss=comment|SpaceAfter=No
+27	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:32
+# text = Mògò yèrè, ka a fò karisa bè den sòrò, karisa tè den sòrò, o bè bò si hakè la.
+# status = WIP
+1	Mògò	Mògò	NOUN	n	_	10	dislocated:subj	_	Gloss=homme
+2	yèrè	yèrè	DET	dtm	_	1	det	_	Gloss=même|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+4	ka	ka	AUX	pm	_	10	mark	_	Gloss=INF
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	fixed	_	Gloss=3SG
+6	fò	fò	VERB	v	_	5	fixed	_	Gloss=dire
+7	karisa	karisa	NOUN	n	_	10	nsubj	_	Gloss=un.tel|Morf=un.tel,un.tel
+8	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
+9	den	dén	NOUN	n	_	10	obj	_	Gloss=enfant
+10	sòrò	sòrò	VERB	v	_	19	csubj	_	Gloss=obtenir|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+12	karisa	karisa	NOUN	n	_	15	nsubj	_	Gloss=un.tel|Morf=un.tel,un.tel
+13	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	15	aux	_	Gloss=IPFV.NEG
+14	den	dén	NOUN	n	_	15	obj	_	Gloss=enfant
+15	sòrò	sòrò	VERB	v	_	10	conj	_	Gloss=obtenir|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+17	o	ò	PRON	prn	_	19	nsubj	_	Gloss=ce
+18	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	19	aux	_	Gloss=IPFV.AFF
+19	bò	bò	VERB	v	_	0	root	_	Gloss=sortir
+20	si	sí	NOUN	dtm	_	21	nmod:poss	_	Gloss=vie
+21	hakè	hakè	NOUN	n	_	19	obl	_	Gloss=mesure
+22	la	lá	ADP	pp	_	21	case	_	Gloss=à|SpaceAfter=No
+23	.	.	PUNCT	_	_	19	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:33
+# text = Cè ni i si ma se bange ye, i tè den sòrò.
+# status = WIP
+1	Cè	Cè	NOUN	n	_	6	dislocated:poss	_	Gloss=milieu
+2	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
+3	i	í	PRON	pers	PronType=Prs	4	nmod:poss	_	Gloss=2SG
+4	si	sí	NOUN	dtm	_	6	nsubj	_	Gloss=vie
+5	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	6	aux	_	Gloss=PFV.NEG
+6	se	sé	VERB	v	_	13	advcl	_	Gloss=arriver
+7	bange	bange	NOUN	n	_	6	obl	_	Gloss=accouchement
+8	ye	ye	ADP	pp	_	7	case	_	Gloss=PP|SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+10	i	í	PRON	pers	PronType=Prs	13	nsubj	_	Gloss=2SG
+11	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	13	aux	_	Gloss=IPFV.NEG
+12	den	dén	NOUN	n	_	13	obj	_	Gloss=enfant
+13	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:34
+# text = Muso, ni i si ma se bange ye, i tè den sòrò.
+# status = WIP
+1	Muso	Muso	NOUN	n	_	7	dislocated:poss	_	Gloss=femme|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	ni	ní	SCONJ	conj	_	7	mark	_	Gloss=si
+4	i	í	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=2SG
+5	si	sí	NOUN	dtm	_	7	nsubj	_	Gloss=vie
+6	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	7	aux	_	Gloss=PFV.NEG
+7	se	sé	VERB	v	_	14	advcl	_	Gloss=arriver
+8	bange	bange	NOUN	n	_	7	obl	_	Gloss=accouchement
+9	ye	ye	ADP	pp	_	8	case	_	Gloss=PP|SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+11	i	í	PRON	pers	PronType=Prs	14	nsubj	_	Gloss=2SG
+12	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	14	aux	_	Gloss=IPFV.NEG
+13	den	dén	NOUN	n	_	14	obj	_	Gloss=enfant
+14	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:35
+# text = Muso dòw yèrè bè yen, n'i si sera hakè dò ma, o b'a sòrò i si tèmèna bange ma.
+# status = WIP
+1	Muso	Muso	NOUN	n	_	4	nsubj	_	Gloss=femme
+2	dòw	dòw	DET	dtm	Number=Plur	1	det	_	Gloss=certain|Morf=certain,PL
+3	yèrè	yèrè	DET	dtm	_	1	det	_	Gloss=même
+4	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
+5	yen	yèn	ADV	adv/n	_	4	obl	_	Gloss=là-bas|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+7	n'	n'	SCONJ	conj	_	10	mark	_	Gloss=si|SpaceAfter=No
+8	i	í	PRON	pers	PronType=Prs	9	nmod:poss	_	Gloss=2SG
+9	si	sí	NOUN	dtm	_	10	nsubj	_	Gloss=vie
+10	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	18	advcl	_	Gloss=arriver|Morf=arriver,PFV.INTR
+11	hakè	hakè	NOUN	n	_	10	obl	_	Gloss=mesure
+12	dò	dò	DET	dtm	_	11	det	_	Gloss=certain
+13	ma	mà	ADP	pp	_	11	case	_	Gloss=ADR|SpaceAfter=No
+14	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+15	o	ò	PRON	prn	_	18	nsubj	_	Gloss=ce
+16	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	18	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+17	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	18	obj	_	Gloss=3SG
+18	sòrò	sòrò	VERB	v	_	4	parataxis	_	Gloss=obtenir
+19	i	í	PRON	pers	PronType=Prs	20	nmod:poss	_	Gloss=2SG
+20	si	sí	NOUN	dtm	_	21	nsubj	_	Gloss=vie
+21	tèmèna	tèmèna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	18	parataxis	_	Gloss=passer|Morf=passer,PFV.INTR
+22	bange	bange	NOUN	n	_	21	obl	_	Gloss=accouchement
+23	ma	mà	ADP	pp	_	22	case	_	Gloss=ADR|SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:36
+# text = I tè den sòrò.
+# status = WIP
+1	I	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=2SG
+2	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	4	aux	_	Gloss=IPFV.NEG
+3	den	dén	NOUN	n	_	4	obj	_	Gloss=enfant
+4	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:37
+# text = O bè bò min na, fò cè, i ka lawa ye.
+# status = WIP
+1	O	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.AFF
+3	bò	bò	VERB	v	_	13	acl	_	Gloss=sortir
+4	min	mín	PRON	prn	PronType=Rel	3	obl	_	Gloss=REL
+5	na	ná	ADP	pp	_	4	case	_	Gloss=à|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+7	fò	fò	PART	n	_	13	discourse	_	Gloss=jusqu'à
+8	cè	cè	NOUN	n	_	13	dislocated:subj	_	Gloss=mâle|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	i	í	PRON	pers	PronType=Prs	13	nsubj	_	Gloss=REFL|Reflexive=Yes
+11	ka	ka	AUX	conj	_	13	aux	_	Gloss=SBJV
+12	lawa	lawa	NOUN	n	Voice=Cau	13	obj	_	Gloss=désir
+13	ye	ye	VERB	pp	_	0	root	_	Gloss=voir|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:38
+# text = Ni cè ye lawa ye, o b'a jira k'a fò cè, a sera densòrò ye.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	cè	cè	NOUN	n	_	5	nsubj	_	Gloss=milieu
+3	ye	ye	AUX	cop	Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	lawa	lawa	NOUN	n	_	5	obj	_	Gloss=désir
+5	ye	ye	VERB	pp	_	10	advcl	_	Gloss=voir|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	o	ò	PRON	prn	_	10	nsubj	_	Gloss=ce
+8	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
+10	jira	jìra	VERB	v	_	0	root	_	Gloss=montrer
+11	k'	ka	AUX	pm	_	17	mark	_	Gloss=INF|SpaceAfter=No
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	fixed	_	Gloss=3SG
+13	fò	fò	VERB	v	_	12	fixed	_	Gloss=dire
+14	cè	cè	NOUN	n	_	17	dislocated:subj	_	Gloss=mâle|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Gloss=3SG
+17	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	10	ccomp	_	Gloss=arriver|Morf=arriver,PFV.INTR
+18	densòrò	densòrò	NOUN	n	_	17	obl	_	Gloss=procréation|Morf=procréation,enfant,obtenir
+19	ye	ye	ADP	pp	_	18	case	_	Gloss=PP|SpaceAfter=No
+20	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:39
+# text = Muso, o fana ta, o ye finiko ye.
+# status = WIP
+1	Muso	Muso	NOUN	n	_	5	dislocated:poss	_	Gloss=femme|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	o	ò	PRON	prn	_	5	nmod:poss	_	Gloss=ce
+4	fana	fána	PART	prt	_	3	discourse	_	Gloss=aussi
+5	ta	tà	NOUN	v	_	8	dislocated:subj	_	Gloss=propriété|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	o	ò	PRON	prn	_	8	nsubj	_	Gloss=ce
+8	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+9	finiko	fìni.ko	NOUN	n	_	8	obl	_	Gloss=lessive|Morf=lessive,tissu,laver
+10	ye	ye	ADP	pp	_	9	case	_	Gloss=PP|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:40
+# text = Ni muso ye finiko ye, o b'a jira ko muso, a sera bange ye.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	muso	mùso	NOUN	n	_	5	nsubj	_	Gloss=femme
+3	ye	ye	AUX	cop	Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	finiko	fìni.ko	NOUN	n	_	5	obj	_	Gloss=lessive|Morf=lessive,tissu,laver
+5	ye	ye	VERB	pp	_	10	advcl	_	Gloss=voir|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	o	ò	PRON	prn	_	10	nsubj	_	Gloss=ce
+8	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
+10	jira	jìra	VERB	v	_	0	root	_	Gloss=montrer
+11	ko	kó	CCONJ	cop	_	15	conj	_	Gloss=QUOT
+12	muso	mùso	NOUN	n	_	15	dislocated:subj	_	Gloss=femme|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=3SG
+15	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	10	ccomp	_	Gloss=arriver|Morf=arriver,PFV.INTR
+16	bange	bange	NOUN	n	_	15	obl	_	Gloss=accouchement
+17	ye	ye	ADP	pp	_	16	case	_	Gloss=PP|SpaceAfter=No
+18	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:41
+# text = Ni muso ma bange o kònòna la, finiko in kònò, o b'a jira ka fò a man kènè.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	4	mark	_	Gloss=si
+2	muso	mùso	NOUN	n	_	4	nsubj	_	Gloss=femme
+3	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	4	aux	_	Gloss=PFV.NEG
+4	bange	bange	VERB	v	_	16	advcl	_	Gloss=naître
+5	o	ò	PRON	prn	_	6	nmod:poss	_	Gloss=ce
+6	kònòna	kònòna	NOUN	n	_	4	obl	_	Gloss=l'intérieur|Morf=l'intérieur,ventre,LOC
+7	la	lá	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+9	finiko	fìni.ko	NOUN	n	_	4	obl	_	Gloss=lessive|Morf=lessive,tissu,laver
+10	in	ìn	DET	dtm	Definite=Def	9	det	_	Gloss=DEF
+11	kònò	kònò	ADP	pp	_	9	case	_	Gloss=dans|SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+13	o	ò	PRON	prn	_	16	nsubj	_	Gloss=ce
+14	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+15	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	16	obj	_	Gloss=3SG
+16	jira	jìra	VERB	v	_	0	root	_	Gloss=montrer
+17	ka	ka	AUX	pm	_	21	mark	_	Gloss=INF
+18	fò	fò	VERB	v	_	17	fixed	_	Gloss=dire
+19	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Gloss=3SG
+20	man	mán	AUX	n	_	21	aux	_	Gloss=QUAL.NEG
+21	kènè	kènè	VERB	adj	_	16	ccomp	_	Gloss=sain|SpaceAfter=No
+22	.	.	PUNCT	_	_	16	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:42
+# text = "Bon" bangebaliya, mun bè na ni bangebaliya ye?
+# status = WIP
+1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
+2	Bon	Bon	PART	n.prop	_	8	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	punct	_	Gloss="
+4	bangebaliya	bangebaliya	NOUN	n	_	8	dislocated:obl	_	Gloss=stérile-ABSTR|Morf=stérile-ABSTR,stérile,naître,PTCP.PRIV,ABSTR|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	mun	mùn	PRON	prn	_	8	nsubj	_	Gloss=quoi
+7	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
+8	na	ná	VERB	v	_	0	root	_	Gloss=venir
+9	ni	ní	ADP	conj	_	10	case	_	Gloss=et
+10	bangebaliya	bangebaliya	NOUN	n	_	8	obl	_	Gloss=stérile-ABSTR|Morf=stérile-ABSTR,stérile,naître,PTCP.PRIV,ABSTR
+11	ye	ye	ADP	pp	_	10	case	_	Gloss=PP|SpaceAfter=No
+12	?	?	PUNCT	_	_	8	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:43
+# text = Bangebaliya, o fana bè bò jumèn na, o bè bò n'i bè hakè min na, i sihakè.
+# status = WIP
+1	Bangebaliya	Bangebaliya	NOUN	n.prop	_	6	dislocated:subj	_	Gloss=stérile-ABSTR|Morf=stérile-ABSTR,stérile,naître,PTCP.PRIV,ABSTR|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	o	ò	PRON	prn	_	6	nsubj	_	Gloss=ce
+4	fana	fána	PART	prt	_	3	discourse	_	Gloss=aussi
+5	bè	bè	AUX	cop	Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
+6	bò	bò	VERB	n	_	0	root	_	Gloss=sortir
+7	jumèn	jumèn	PRON	n	_	6	obl	_	Gloss=lequel
+8	na	ná	ADP	pp	_	7	case	_	Gloss=à|SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+10	o	ò	PRON	prn	_	12	nsubj	_	Gloss=ce
+11	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
+12	bò	bò	VERB	v	_	6	conj	_	Gloss=sortir
+13	n'	n'	SCONJ	conj	_	16	mark	_	Gloss=si|SpaceAfter=No
+14	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	16	nsubj	_	Gloss=2SG
+15	bè	bè	VERB	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=être
+16	hakè	hakè	NOUN	v	_	12	advcl	_	Gloss=mesure
+17	min	mín	DET	prn	PronType=Rel	16	det:rel	_	Gloss=REL
+18	na	ná	ADP	pp	_	16	case	_	Gloss=à|SpaceAfter=No
+19	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+20	i	í	PRON	pers	PronType=Prs	21	nmod:poss	_	Gloss=2SG
+21	sihakè	sihakè	NOUN	n	_	16	dislocated:obl	_	Gloss=vie|Morf=vie,mesure|SpaceAfter=No
+22	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:44
+# text = I tè bange fiyewu fò i si ka se a hakè ma; cè fara muso kan, fò i si de ka se bange hakè ma.
+# status = WIP
+1	I	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=2SG
+2	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	3	aux	_	Gloss=IPFV.NEG
+3	bange	bange	VERB	n	_	0	root	_	Gloss=naître
+4	fiyewu	fiyewu	ADV	adj	_	3	obl	_	Gloss=absolument
+5	fò	fò	SCONJ	v	_	9	mark	_	Gloss=jusqu'à
+6	i	í	PRON	pers	PronType=Prs	7	nmod:poss	_	Gloss=2SG
+7	si	sí	NOUN	v	_	9	nsubj	_	Gloss=vie
+8	ka	ka	AUX	pm	_	9	aux	_	Gloss=SBJV
+9	se	sé	VERB	v	_	3	advcl	_	Gloss=arriver
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3SG
+11	hakè	hakè	NOUN	n	_	9	obl	_	Gloss=mesure
+12	ma	mà	ADP	pp	_	11	case	_	Gloss=ADR|SpaceAfter=No
+13	;	;	PUNCT	_	_	9	punct	_	Gloss=;
+14	cè	cè	NOUN	n	_	15	nsubj	_	Gloss=mâle
+15	fara	fara	VERB	v	_	9	parataxis	_	Gloss=ajouter
+16	muso	mùso	NOUN	n	_	15	obl	_	Gloss=femme
+17	kan	kàn	ADP	pp	_	16	case	_	Gloss=sur|SpaceAfter=No
+18	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+19	fò	fò	SCONJ	v	_	24	mark	_	Gloss=jusqu'à
+20	i	í	PRON	pers	PronType=Prs	21	nmod:poss	_	Gloss=2SG
+21	si	sí	NOUN	dtm	_	24	nsubj	_	Gloss=vie
+22	de	dè	PART	prt	_	21	discourse	_	Gloss=FOC
+23	ka	ka	AUX	pm	_	24	aux	_	Gloss=SBJV
+24	se	sé	VERB	v	_	15	advcl	_	Gloss=arriver
+25	bange	bange	NOUN	n	_	26	nmod:poss	_	Gloss=accouchement
+26	hakè	hakè	NOUN	n	_	24	obl	_	Gloss=mesure
+27	ma	mà	ADP	pp	_	26	case	_	Gloss=ADR|SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:45
+# text = N'i si ma se bange hakè ma, i tè bange.
+# status = WIP
+1	N'	N'	SCONJ	conj	_	5	mark	_	Gloss=si|SpaceAfter=No
+2	i	í	PRON	pers	PronType=Prs	3	nmod:poss	_	Gloss=2SG
+3	si	sí	NOUN	dtm	_	5	nsubj	_	Gloss=vie
+4	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	5	aux	_	Gloss=PFV.NEG
+5	se	sé	VERB	v	_	12	advcl	_	Gloss=arriver
+6	bange	bange	NOUN	n	_	7	nmod:poss	_	Gloss=accouchement
+7	hakè	hakè	NOUN	n	_	5	obl	_	Gloss=mesure
+8	ma	mà	ADP	pp	_	7	case	_	Gloss=ADR|SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+10	i	í	PRON	pers	PronType=Prs	12	nsubj	_	Gloss=2SG
+11	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	12	aux	_	Gloss=IPFV.NEG
+12	bange	bange	VERB	v	_	0	root	_	Gloss=naître|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:46
+# text = N'i si sera bange hakè ma, muso, n'a ye finiko daminè, o b'a jira k'a fò k'a si sera bange ye.
+# status = WIP
+1	N'	N'	SCONJ	conj	_	4	mark	_	Gloss=si|SpaceAfter=No
+2	i	í	PRON	pers	PronType=Prs	3	nsubj:poss	_	Gloss=2SG
+3	si	sí	NOUN	dtm	_	4	nsubj	_	Gloss=vie
+4	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	20	advcl	_	Gloss=arriver|Morf=arriver,PFV.INTR
+5	bange	bange	NOUN	n	_	6	nmod:poss	_	Gloss=accouchement
+6	hakè	hakè	NOUN	n	_	4	obl	_	Gloss=tort
+7	ma	mà	ADP	pp	_	6	case	_	Gloss=ADR|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+9	muso	mùso	NOUN	n	_	15	dislocated:subj	_	Gloss=femme|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+11	n'	n'	SCONJ	conj	_	15	mark	_	Gloss=si|SpaceAfter=No
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=3SG
+13	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	15	aux	_	Gloss=PFV.TR
+14	finiko	fìni.ko	NOUN	n	_	15	obj	_	Gloss=lessive|Morf=lessive,tissu,laver
+15	daminè	daminè	VERB	v	_	20	advcl	_	Gloss=commencer|Morf=commencer,bouche,attraper|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+17	o	ò	PRON	prn	_	20	nsubj	_	Gloss=ce
+18	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	20	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+19	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	20	obj	_	Gloss=3SG
+20	jira	jìra	VERB	v	_	0	root	_	Gloss=montrer
+21	k'	ka	AUX	pm	_	23	aux	_	Gloss=INF|SpaceAfter=No
+22	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	23	obj	_	Gloss=3SG
+23	fò	fò	VERB	v	_	20	xcomp	_	Gloss=dire
+24	k'	ka	SCONJ	pm	_	27	mark	_	Gloss=QUOT|SpaceAfter=No
+25	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	26	nmod:poss	_	Gloss=3SG
+26	si	sí	NOUN	dtm	_	27	nsubj	_	Gloss=vie
+27	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	23	ccomp	_	Gloss=arriver|Morf=arriver,PFV.INTR
+28	bange	bange	NOUN	n	_	27	obl	_	Gloss=accouchement
+29	ye	ye	ADP	pp	_	28	case	_	Gloss=PP|SpaceAfter=No
+30	.	.	PUNCT	_	_	20	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:47
+# text = Ni lawa bòra cè la, o b'a jira ka a fò, cè, i sera bange ye.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	3	mark	_	Gloss=si
+2	lawa	lawa	NOUN	n	_	3	nsubj	_	Gloss=désir
+3	bòra	bòra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	10	advcl	_	Gloss=sortir|Morf=sortir,PFV.INTR
+4	cè	cè	NOUN	n	_	3	obl	_	Gloss=mâle
+5	la	lá	ADP	pp	_	4	case	_	Gloss=à|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+7	o	ò	PRON	prn	_	10	nsubj	_	Gloss=ce
+8	b'	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
+10	jira	jìra	VERB	v	_	0	root	_	Gloss=montrer
+11	ka	ka	AUX	pm	_	18	mark	_	Gloss=INF
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	fixed	_	Gloss=3SG
+13	fò	fò	VERB	v	_	12	fixed	_	Gloss=dire|SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+15	cè	cè	NOUN	n	_	18	dislocated:subj	_	Gloss=mâle|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+17	i	í	PRON	pers	PronType=Prs	18	nsubj	_	Gloss=2SG
+18	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	10	ccomp	_	Gloss=arriver|Morf=arriver,PFV.INTR
+19	bange	bange	NOUN	n	_	18	obl	_	Gloss=accouchement
+20	ye	ye	ADP	pp	_	19	case	_	Gloss=PP|SpaceAfter=No
+21	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:48
+# text = O yòrò la, o yòrò bè "depend" bange hakè la.
+# status = WIP
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	yòrò	yòrò	NOUN	n	_	9	obl	_	Gloss=lieu
+3	la	lá	ADP	pp	_	2	case	_	Gloss=à|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	o	ò	PRON	prn	_	6	nmod:poss	_	Gloss=ce
+6	yòrò	yòrò	NOUN	n	_	9	nsubj	_	Gloss=lieu
+7	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
+8	"	"	PUNCT	_	_	9	punct	_	Gloss="|SpaceAfter=No
+9	depend	depend	VERB	v	_	0	root	_	Gloss=ETRG.FRA|SpaceAfter=No
+10	"	"	PUNCT	_	_	9	punct	_	Gloss="
+11	bange	bange	NOUN	n	_	12	nmod:poss	_	Gloss=accouchement
+12	hakè	hakè	NOUN	n	_	9	obl	_	Gloss=mesure
+13	la	lá	ADP	pp	_	12	case	_	Gloss=à|SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:49
+# text = Bangebaliya dun?
+# status = WIP
+1	Bangebaliya	Bangebaliya	NOUN	n.prop	_	0	root	_	Gloss=stérile-ABSTR|Morf=stérile-ABSTR,stérile,naître,PTCP.PRIV,ABSTR
+2	dun	dún	PART	v	_	1	discourse	_	Gloss=TOP.CNTR|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:50
+# text = Bangebaliya, muso min bè finiko ye, n'a tè bange, o kòrò ye ka fò a man kènè.
+# status = WIP
+1	Bangebaliya	Bangebaliya	NOUN	n.prop	_	7	dislocated:top	_	Gloss=stérile-ABSTR|Morf=stérile-ABSTR,stérile,naître,PTCP.PRIV,ABSTR|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	muso	mùso	NOUN	n	_	7	nsubj	_	Gloss=femme
+4	min	mín	DET	prn	PronType=Rel	3	det:rel	_	Gloss=REL
+5	bè	bè	AUX	cop	Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
+6	finiko	fìni.ko	NOUN	n	_	7	obj	_	Gloss=lessive|Morf=lessive,tissu,laver
+7	ye	ye	VERB	pp	_	10	acl	_	Gloss=voir|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+9	n'	n'	SCONJ	conj	_	12	mark	_	Gloss=si|SpaceAfter=No
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
+11	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	12	aux	_	Gloss=IPFV.NEG
+12	bange	bange	VERB	v	_	16	advcl	_	Gloss=naître|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+14	o	ò	PRON	prn	_	15	nmod:poss	_	Gloss=ce
+15	kòrò	kòrò	NOUN	n	_	16	nsubj	_	Gloss=dessous
+16	ye	ye	VERB	cop	Aspect=Perf|Polarity=Pos|Valency=2	0	root	_	Gloss=EQU
+17	ka	ka	AUX	pm	_	21	mark	_	Gloss=INF
+18	fò	fò	VERB	v	_	17	fixed	_	Gloss=dire
+19	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Gloss=3SG
+20	man	mán	AUX	pm	_	21	aux	_	Gloss=QUAL.NEG
+21	kènè	kènè	VERB	adj	_	16	ccomp	_	Gloss=sain|SpaceAfter=No
+22	.	.	PUNCT	_	_	16	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:51
+# text = I bè bana dòw dòn min bè se ka kè n'a tigi tè bange wa?
+# status = WIP
+1	I	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=2SG
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
+3	bana	bàna	NOUN	n	_	5	obj	_	Gloss=maladie
+4	dòw	dòw	DET	dtm	Number=Plur	3	det	_	Gloss=certain|Morf=certain,PL
+5	dòn	dòn	VERB	v	_	0	root	_	Gloss=connaître
+6	min	mín	PRON	prn	PronType=Rel	8	nsubj	_	Gloss=REL
+7	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
+8	se	sé	VERB	v	_	3	acl	_	Gloss=arriver
+9	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
+10	kè	kè	VERB	v	_	8	xcomp	_	Gloss=faire
+11	n'	n'	SCONJ	conj	_	15	mark	_	Gloss=si|SpaceAfter=No
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	nmod:poss	_	Gloss=3SG
+13	tigi	tìgi	NOUN	n	_	15	nsubj	_	Gloss=maître
+14	tè	tè	AUX	pm	Polarity=Neg	15	aux	_	Gloss=IPFV.NEG
+15	bange	bange	VERB	v	_	8	advcl	_	Gloss=naître
+16	wa	wà	PART	prt	_	15	discourse	_	Gloss=Q|SpaceAfter=No
+17	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:52
+# text = O, o bana dòw bè se ka kè ye, ni u bè se ka bange sennasumaya.
+# status = WIP
+1	O	ò	INTJ	intj	_	7	discourse	_	Gloss=bien.sûr|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	o	ò	DET	prn	_	4	det	_	Gloss=ce
+4	bana	bàna	NOUN	n	_	7	nsubj	_	Gloss=maladie
+5	dòw	dòw	DET	dtm	Number=Plur	4	det	_	Gloss=certain|Morf=certain,PL
+6	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
+7	se	sé	VERB	v	_	0	root	_	Gloss=arriver
+8	ka	ka	AUX	pm	_	9	aux	_	Gloss=INF
+9	kè	kè	VERB	v	_	7	xcomp	_	Gloss=faire
+10	ye	yen	ADV	pp	_	9	obl	_	Gloss=là-bas|SpaceAfter=No
+11	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+12	ni	ní	SCONJ	conj	_	15	mark	_	Gloss=si
+13	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	15	nsubj	_	Gloss=3PL
+14	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	15	aux	_	Gloss=IPFV.AFF
+15	se	sé	VERB	v	_	7	advcl	_	Gloss=arriver
+16	ka	ka	AUX	pm	_	18	aux	_	Gloss=INF
+17	bange	bange	NOUN	v	_	18	obj	_	Gloss=accouchement
+18	sennasumaya	sennasumaya	VERB	n	_	15	xcomp	_	Gloss=ralentir|Morf=ralentir,allure,jambe,MNT1,frais,DEQU|SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:53
+# text = I bè se ka bange sa "mais" bange tè jò, o banaw bè yen.
+# status = WIP
+1	I	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=2SG
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.AFF
+3	se	sé	VERB	v	_	0	root	_	Gloss=arriver
+4	ka	ka	AUX	pm	_	5	aux	_	Gloss=INF
+5	bange	bange	VERB	v	_	3	xcomp	_	Gloss=accouchement
+6	sa	sá	PART	prt	_	5	discourse	_	Gloss=enfin
+7	"	"	PUNCT	_	_	8	punct	_	Gloss="|SpaceAfter=No
+8	mais	mais	CCONJ	n	_	12	cc	_	Gloss=ETRG.FRA|SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	Gloss="
+10	bange	bange	NOUN	n	_	12	nsubj	_	Gloss=accouchement
+11	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	12	aux	_	Gloss=IPFV.NEG
+12	jò	jò	VERB	v	_	3	parataxis	_	Gloss=dresser|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+14	o	ò	DET	prn	_	15	det	_	Gloss=ce
+15	banaw	banaw	NOUN	n	Number=Plur	16	nsubj	_	Gloss=maladie|Morf=maladie,PL
+16	bè	bè	VERB	cop	Polarity=Pos	12	parataxis	_	Gloss=être
+17	yen	yèn	ADV	adv/n	_	16	obl	_	Gloss=là-bas|SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:54
+# text = I n'a fò jumèn?
+# status = WIP
+1	I	í	PRON	pers	PronType=Prs	5	mark	_	Gloss=2SG
+2	n'	n'	AUX	pm	Polarity=Pos|Tense=Fut	1	fixed	_	Gloss=CERT|SpaceAfter=No
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	fixed	_	Gloss=3SG
+4	fò	fò	VERB	n	_	3	fixed	_	Gloss=dire
+5	jumèn	jumèn	PRON	v	_	0	root	_	Gloss=lequel|SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:55
+# text = I n'a fò: gangekònòdimi, tonsonyimi;
+# status = WIP
+1	I	í	PRON	pers	PronType=Prs	6	mark	_	Gloss=2SG
+2	n'	n'	AUX	pm	Polarity=Pos|Tense=Fut	1	fixed	_	Gloss=CERT|SpaceAfter=No
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	fixed	_	Gloss=3SG
+4	fò	fò	VERB	v	_	3	fixed	_	Gloss=dire|SpaceAfter=No
+5	:	:	PUNCT	_	_	6	punct	_	Gloss=:
+6	gangekònòdimi	gangekònòdimi	NOUN	n	_	0	root	_	Gloss=règles.douloureuses|Morf=règles.douloureuses,utérus,ventre,souffrance|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	tonsonyimi	tonsonyimi	NOUN	n	_	6	parataxis	_	Gloss=infection.du.placenta|Morf=infection.du.placenta,placenta,mâcher|SpaceAfter=No
+9	;	;	PUNCT	_	_	6	punct	_	Gloss=;
+
+# sent_id = entretien_sida1994_03_21.dis.html:56
+# text = Cè dun?
+# status = WIP
+1	Cè	Cè	NOUN	n	_	0	root	_	Gloss=mâle
+2	dun	dún	PART	v	_	1	discourse	_	Gloss=TOP.CNTR|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:57
+# text = Cè, cè ka bangebaliya kòni, fo i ka lawa bò.
+# status = WIP
+1	Cè	Cè	NOUN	n	_	12	dislocated:subj	_	Gloss=mâle|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	cè	cè	NOUN	n	_	5	nmod:poss	_	Gloss=mâle
+4	ka	ka	ADP	pm	_	3	case	_	Gloss=POSS
+5	bangebaliya	bangebaliya	NOUN	n	_	12	dislocated:top	_	Gloss=stérile-ABSTR|Morf=stérile-ABSTR,stérile,naître,PTCP.PRIV,ABSTR
+6	kòni	kòni	PART	v	_	5	discourse	_	Gloss=TOP.CNTR2|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+8	fo	fó	PART	conj	_	12	mark	_	Gloss=jusqu'à
+9	i	í	PRON	pers	PronType=Prs	12	nsubj	_	Gloss=REFL|Reflexive=Yes
+10	ka	ka	AUX	pm	_	12	aux	_	Gloss=SBJV
+11	lawa	lawa	NOUN	n	_	12	obj	_	Gloss=désir
+12	bò	bò	VERB	v	_	0	root	_	Gloss=sortir|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:58
+# text = Ni cè ye lawa bò, n'a yera ka a fò cè in kòni bè lawa bò, nka a tè bange, o kòrò ye ka fò lawa in fana, o man nyi.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	cè	cè	NOUN	n	_	5	nsubj	_	Gloss=mâle
+3	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+4	lawa	lawa	NOUN	n	_	5	obj	_	Gloss=désir
+5	bò	bò	VERB	v	_	27	advcl	_	Gloss=sortir|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	n'	n'	SCONJ	conj	_	9	mark	_	Gloss=si|SpaceAfter=No
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+9	yera	yera	VERB	pm	Aspect=Perf|Polarity=Pos|Valency=1	27	advcl	_	Gloss=voir|Morf=voir,PFV.INTR
+10	ka	ka	AUX	pm	_	18	mark	_	Gloss=INF
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	fixed	_	Gloss=3SG
+12	fò	fò	VERB	v	_	11	fixed	_	Gloss=dire
+13	cè	cè	NOUN	n	_	18	nsubj	_	Gloss=mâle
+14	in	ìn	DET	dtm	Definite=Def	13	det	_	Gloss=DEF
+15	kòni	kòni	PART	prt	_	13	discourse	_	Gloss=TOP.CNTR2
+16	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	18	aux	_	Gloss=IPFV.AFF
+17	lawa	lawa	NOUN	n	_	18	obj	_	Gloss=désir
+18	bò	bò	VERB	v	_	9	ccomp	_	Gloss=sortir|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+20	nka	nka	CCONJ	pm	_	23	cc	_	Gloss=mais
+21	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	23	nsubj	_	Gloss=3SG
+22	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	23	aux	_	Gloss=IPFV.NEG
+23	bange	bange	VERB	v	_	18	conj	_	Gloss=naître|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	Gloss=,
+25	o	ò	PRON	prn	_	26	nmod:poss	_	Gloss=ce
+26	kòrò	kòrò	NOUN	n	_	27	nsubj	_	Gloss=dessous
+27	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+28	ka	ka	AUX	pm	_	36	mark	_	Gloss=INF
+29	fò	fò	VERB	v	_	28	fixed	_	Gloss=dire
+30	lawa	lawa	NOUN	n	_	36	dislocated:subj	_	Gloss=désir
+31	in	ìn	DET	dtm	Definite=Def	30	det	_	Gloss=DEF
+32	fana	fána	PART	prt	_	30	discourse	_	Gloss=aussi|SpaceAfter=No
+33	,	,	PUNCT	_	_	30	punct	_	Gloss=,
+34	o	ò	PRON	prn	_	36	nsubj	_	Gloss=ce
+35	man	mán	AUX	pm	Polarity=Neg	36	aux	_	Gloss=QUAL.NEG
+36	nyi	ɲì	VERB	v	_	27	ccomp	_	Gloss=bon|SpaceAfter=No
+37	.	.	PUNCT	_	_	27	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:59
+# text = Cè yèrè fana man kènè.
+# status = WIP
+1	Cè	Cè	NOUN	n	_	5	nsubj	_	Gloss=milieu
+2	yèrè	yèrè	DET	dtm	_	1	det	_	Gloss=même
+3	fana	fána	PART	prt	_	1	discourse	_	Gloss=aussi
+4	man	mán	AUX	pm	Polarity=Neg	5	aux	_	Gloss=QUAL.NEG
+5	kènè	kènè	VERB	v	_	0	root	_	Gloss=sain|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:60
+# text = N'o banaw bè mògò la, o bè mògò bali bange la.
+# status = WIP
+1	N'	N'	SCONJ	conj	_	4	mark	_	Gloss=si|SpaceAfter=No
+2	o	ò	DET	prn	_	3	det	_	Gloss=ce
+3	banaw	banaw	NOUN	n	Number=Plur	4	nsubj	_	Gloss=maladie|Morf=maladie,PL
+4	bè	bè	VERB	cop	Polarity=Pos	11	advcl	_	Gloss=être
+5	mògò	mògò	NOUN	n	_	4	obl	_	Gloss=homme
+6	la	lá	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+8	o	ò	PRON	prn	_	11	nsubj	_	Gloss=ce
+9	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
+10	mògò	mògò	NOUN	n	_	11	obj	_	Gloss=homme
+11	bali	bali	VERB	v	_	0	root	_	Gloss=empêcher
+12	bange	bange	NOUN	n	_	11	obl	_	Gloss=accouchement
+13	la	lá	ADP	pp	_	12	case	_	Gloss=à|SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:61
+# text = Muso bè bange kòlòsi cogo di?
+# status = WIP
+1	Muso	Muso	NOUN	n	_	4	nsubj	_	Gloss=femme
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
+3	bange	bange	NOUN	n	_	4	obj	_	Gloss=accouchement
+4	kòlòsi	kòlòsi	VERB	n	_	0	root	_	Gloss=surveiller
+5	cogo	cógo	NOUN	n	_	4	obl	_	Gloss=manière
+6	di	dí	PRON	prn	_	5	fixed	_	Gloss=comment|SpaceAfter=No
+7	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:62
+# text = Muso bangekòlòsi, ni i ni muso bèna jè, dòw bè yen, u bè tafo siri muso la.
+# status = WIP
+1	Muso	Muso	NOUN	n	_	2	nmod:poss	_	Gloss=femme
+2	bangekòlòsi	bangekòlòsi	NOUN	n	_	12	dislocated:top	_	Gloss=accouchement|Morf=accouchement,surveiller|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	ni	ní	SCONJ	conj	_	9	mark	_	Gloss=si
+5	i	í	PRON	pers	PronType=Prs	9	nsubj	_	Gloss=2SG
+6	ni	ní	CCONJ	conj/prep	_	7	cc	_	Gloss=et
+7	muso	mùso	NOUN	n	_	5	conj	_	Gloss=femme
+8	bèna	bèna	AUX	pm	Polarity=Pos|Tense=Fut	9	aux	_	Gloss=FUT
+9	jè	jè	VERB	v	_	12	advcl	_	Gloss=assembler|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+11	dòw	dòw	PRON	prn	Number=Plur	12	nsubj	_	Gloss=certain|Morf=certain,PL
+12	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
+13	yen	yèn	ADV	adv	_	12	obl	_	Gloss=là-bas|SpaceAfter=No
+14	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+15	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	18	nsubj	_	Gloss=3PL
+16	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	18	aux	_	Gloss=IPFV.AFF
+17	tafo	tàfo	NOUN	n	_	18	obj	_	Gloss=gri-gri
+18	siri	sìri	VERB	v	_	12	parataxis	_	Gloss=lier
+19	muso	mùso	NOUN	n	_	18	obl	_	Gloss=femme
+20	la	lá	ADP	pp	_	19	case	_	Gloss=à|SpaceAfter=No
+21	.	.	PUNCT	_	_	18	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:63
+# text = Dòw bè di kè muso nyèfèla la, ka kafo a fè;
+# status = WIP
+1	Dòw	Dòw	PRON	prn	Number=Plur	4	nsubj	_	Gloss=certain|Morf=certain,PL
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
+3	di	dí	NOUN	n	_	4	obj	_	Gloss=miel
+4	kè	kè	VERB	v	_	0	root	_	Gloss=faire
+5	muso	mùso	NOUN	n	_	6	nmod:poss	_	Gloss=femme
+6	nyèfèla	nyèfèla	NOUN	n	_	4	obl	_	Gloss=devanture|Morf=devanture,devant,oeil,par,LOC
+7	la	lá	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+9	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
+10	kafo	kafo	VERB	v	_	4	xcomp	_	Gloss=rassembler
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obl	_	Gloss=3SG
+12	fè	fè	ADP	pp	_	11	case	_	Gloss=par|SpaceAfter=No
+13	;	;	PUNCT	_	_	4	punct	_	Gloss=;
+
+# sent_id = entretien_sida1994_03_21.dis.html:64
+# text = Bangekòlòsifèn, a subò fan ka can.
+# status = WIP
+1	Bangekòlòsifèn	Bangekòlòsifèn	NOUN	n	_	7	dislocated:poss	_	Gloss=accouchement|Morf=accouchement,surveiller,chose|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	Gloss=3SG
+4	subò	subò	NOUN	n	_	5	nmod:poss	_	Gloss=tremper|Morf=tremper,sortie
+5	fan	fán	NOUN	n	_	7	nsubj	_	Gloss=côté
+6	ka	ka	AUX	pm	Polarity=Pos	7	aux	_	Gloss=QUAL.AFF
+7	can	can	VERB	v	_	0	root	_	Gloss=nombreux|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:65
+# text = O yòrò la dòw fana bè yen, u bi furakisè ta, ani i n'a fò mananin ninnu nyògònna, k'o don muso fè, ka kafo muso fè.
+# status = WIP
+1	O	ò	PRON	prn	_	2	det	_	Gloss=ce
+2	yòrò	yòrò	NOUN	n	_	6	obl	_	Gloss=lieu
+3	la	lá	ADP	pp	_	2	case	_	Gloss=à
+4	dòw	dòw	DET	dtm	Number=Plur	6	nsubj	_	Gloss=certain|Morf=certain,PL
+5	fana	fána	PART	prt	_	4	discourse	_	Gloss=aussi
+6	bè	bè	VERB	cop	_	0	root	_	Gloss=être
+7	yen	yèn	ADV	adv	_	6	obl	_	Gloss=là-bas|SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+9	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Gloss=3PL
+10	bi	bì	AUX	pm	_	12	aux	_	Gloss=IPFV.AFF
+11	furakisè	furakisè	NOUN	n	_	12	obj	_	Gloss=comprimé|Morf=comprimé,feuille,grain
+12	ta	tà	VERB	v	_	6	parataxis	_	Gloss=prendre|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+14	ani	àni	CCONJ	conj	_	21	cc	_	Gloss=ainsi.que
+15	i	í	PRON	pers	PronType=Prs	21	case	_	Gloss=2SG
+16	n'	n'	AUX	pm	Polarity=Pos|Tense=Fut	15	fixed	_	Gloss=CERT|SpaceAfter=No
+17	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	16	fixed	_	Gloss=3SG
+18	fò	fò	VERB	v	_	17	fixed	_	Gloss=dire
+19	mananin	mananin	NOUN	n	_	21	nmod:poss	_	Gloss=sac.plastique|Morf=sac.plastique,substance.collante,DIM
+20	ninnu	ninnu	DET	dtm	PronType=Rel	19	det	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
+21	nyògònna	nyògònna	NOUN	v	Aspect=Perf|Polarity=Pos|Valency=1	11	conj	_	Gloss=pareil|SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	Gloss=,
+23	k'	ka	AUX	cop	_	25	aux	_	Gloss=INF|SpaceAfter=No
+24	o	ò	PRON	prn	_	25	obj	_	Gloss=ce
+25	don	dòn	VERB	cop	_	12	xcomp	_	Gloss=entrer
+26	muso	mùso	NOUN	n	_	25	obl	_	Gloss=femme
+27	fè	fè	ADP	pp	_	26	case	_	Gloss=par|SpaceAfter=No
+28	,	,	PUNCT	_	_	25	punct	_	Gloss=,
+29	ka	ka	AUX	pm	_	30	aux	_	Gloss=INF
+30	kafo	kafo	VERB	v	_	25	xcomp	_	Gloss=rassembler
+31	muso	mùso	NOUN	n	_	30	obl	_	Gloss=femme
+32	fè	fè	ADP	pp	_	31	case	_	Gloss=par|SpaceAfter=No
+33	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:66
+#  = # text ="Donc", o ye bangekòlòsilicogow ye?
+# status = WIP
+1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
+2	Donc	Donc	PART	n.prop	_	6	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
+3	"	"	PUNCT	prt	_	2	punct	_	Gloss="|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	o	ò	PRON	prn	_	6	nsubj	_	Gloss=ce
+6	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+7	bangekòlòsilicogow	bangekòlòsilicogow	NOUN	n	Number=Plur	6	obl	_	Gloss=accouchement-surveiller-NMLZ-manière-PL|Morf=accouchement-surveiller-NMLZ-manière-PL,accouchement,surveiller,NMLZ,manière,PL
+8	ye	ye	ADP	pp	_	7	case	_	Gloss=PP|SpaceAfter=No
+9	?	?	PUNCT	_	_	6	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:67
+# text = O ye bangekòlòsilicogow ye.
+# status = WIP
+1	O	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	ye	ye	VERB	pm	Polarity=Pos	0	root	_	Gloss=EQU
+3	bangekòlòsilicogow	bangekòlòsilicogow	NOUN	n	_	2	obl	_	Gloss=accouchement-surveiller-NMLZ-manière-PL|Morf=accouchement-surveiller-NMLZ-manière-PL,accouchement,surveiller,NMLZ,manière,PL
+4	ye	ye	ADP	pp	_	3	case	_	Gloss=PP|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:68
+# text = A bamanan ta o n'a tubabu taw?
+# status = WIP
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
+2	bamanan	bamanan	NOUN	n	_	3	nmod:poss	_	Gloss=bambara
+3	ta	tà	NOUN	v	_	4	dislocated:poss	_	Gloss=propriété
+4	o	ò	PRON	prn	_	0	root	_	Gloss=DISTR
+5	n'	n'	CCONJ	conj	_	8	cc	_	Gloss=et|SpaceAfter=No
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Gloss=3SG
+7	tubabu	tubabu	NOUN	n	_	8	nmod:poss	_	Gloss=Européen
+8	taw	taw	NOUN	v	_	4	conj	_	Gloss=propriété|Morf=propriété,PL|SpaceAfter=No
+9	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:69
+# text = A bamanan ta n'a tubabu taw, n ka dònni na.
+# status = WIP
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
+2	bamanan	bamanan	NOUN	n	_	3	nmod:poss	_	Gloss=bambara
+3	ta	tà	NOUN	v	_	0	root	_	Gloss=propriété
+4	n'	n'	CCONJ	conj	_	7	cc	_	Gloss=et|SpaceAfter=No
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	Gloss=3SG
+6	tubabu	tubabu	NOUN	n	_	7	nmod:poss	_	Gloss=Européen
+7	taw	taw	NOUN	v	Number=Plur	3	conj	_	Gloss=propriété|Morf=propriété,PL|SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+9	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	11	nmod:poss	_	Gloss=1SG
+10	ka	ka	ADP	conj	_	9	case	_	Gloss=POSS
+11	dònni	dònni	NOUN	n	_	3	orphan	_	Gloss=science|Morf=science,connaître,NMLZ
+12	na	ná	ADP	pp	_	11	case	_	Gloss=à|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:70
+# text = Fòlòfòlò, sariya jumèn de tun bè cènimusoya la?
+# status = WIP
+1	Fòlòfòlò	Fòlòfòlò	NOUN	n	_	7	obl	_	Gloss=autrefois|Morf=autrefois,premier|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	sariya	sariya	NOUN	n	_	7	nsubj	_	Gloss=loi
+4	jumèn	jumèn	PRON	prn	_	3	det	_	Gloss=lequel
+5	de	dè	PART	prt	_	3	discourse	_	Gloss=FOC
+6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+7	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
+8	cènimusoya	cènimusoya	NOUN	n	_	7	obl	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+9	la	lá	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
+10	?	?	PUNCT	_	_	7	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:71
+# text = Fòlòfòlò, sariya min tun bè cènimusoya la, a sariya, ayiwa, a y'a sòrò tinèw bè sen na.
+# status = WIP
+1	Fòlòfòlò	Fòlòfòlò	NOUN	n	_	6	obl	_	Gloss=autrefois|Morf=autrefois,premier|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	sariya	sariya	NOUN	n	_	6	nsubj	_	Gloss=loi
+4	min	mín	DET	prn	PronType=Rel	3	det:rel	_	Gloss=REL
+5	tun	tùn	PART	prt	Tense=Past	6	aux	_	Gloss=PST
+6	bè	bè	VERB	cop	Polarity=Pos	20	acl	_	Gloss=être
+7	cènimusoya	cènimusoya	NOUN	n	_	6	obl	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+8	la	lá	ADP	pp	_	7	case	_	Gloss=à|SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=3SG
+11	sariya	sariya	NOUN	n	_	6	dislocated:subj	_	Gloss=loi|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	ayiwa	áyiwa	INTJ	intj	_	20	discourse	_	Gloss=bon|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+15	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	20	mark	_	Gloss=3SG
+16	y'	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	15	fixed	_	Gloss=PFV.TR|SpaceAfter=No
+17	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	16	fixed	_	Gloss=3SG
+18	sòrò	sòrò	VERB	v	_	17	root	_	Gloss=obtenir
+19	tinèw	tinèw	NOUN	n	Number=Plur	20	nsubj	_	Gloss=tabou-PL|Morf=tabou-PL,tabou,PL
+20	bè	bè	VERB	cop	_	0	root	_	Gloss=être
+21	sen	sèn	NOUN	n	_	20	obl	_	Gloss=jambe
+22	na	ná	ADP	pp	_	21	case	_	Gloss=à|SpaceAfter=No
+23	.	.	PUNCT	_	_	20	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:72
+# text = Mògò, n'i ma boloko, ni cè ma boloko, muso ma boloko, muso tun bè nyini i ye i tè a dòn, ka a fò nin ye i muso ye, sanko a' ka kafo.
+# status = WIP
+1	Mògò	Mògò	NOUN	n	_	6	dislocated:subj	_	Gloss=homme|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	n'	n'	SCONJ	conj	_	6	mark	_	Gloss=si|SpaceAfter=No
+4	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Gloss=2SG
+5	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	6	aux	_	Gloss=PFV.NEG
+6	boloko	boloko	VERB	v	_	20	advcl	_	Gloss=circoncire|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	ni	ní	SCONJ	conj	_	11	mark	_	Gloss=si
+9	cè	cè	NOUN	n	_	11	nsubj	_	Gloss=mâle
+10	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	11	aux	_	Gloss=PFV.NEG
+11	boloko	boloko	VERB	v	_	20	advcl	_	Gloss=circoncire|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	muso	mùso	NOUN	n	_	15	nsubj	_	Gloss=femme
+14	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	15	aux	_	Gloss=PFV.NEG
+15	boloko	boloko	VERB	v	_	11	conj	_	Gloss=circoncire|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+17	muso	mùso	NOUN	n	_	20	nsubj	_	Gloss=femme
+18	tun	tùn	PART	prt	Tense=Past	20	aux	_	Gloss=PST
+19	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	20	aux	_	Gloss=IPFV.AFF
+20	nyini	ɲíni	VERB	v	_	0	root	_	Gloss=chercher
+21	i	í	PRON	pers	PronType=Prs	20	obl	_	Gloss=2SG
+22	ye	ye	ADP	pp	_	21	case	_	Gloss=PP
+23	i	í	PRON	pers	PronType=Prs	26	nsubj	_	Gloss=2SG
+24	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	26	aux	_	Gloss=IPFV.NEG
+25	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	26	obj	_	Gloss=3SG
+26	dòn	dòn	VERB	v	_	20	ccomp	_	Gloss=connaître|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	punct	_	Gloss=,
+28	ka	ka	AUX	pm	_	32	conj	_	Gloss=INF
+29	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	28	fixed	_	Gloss=3SG
+30	fò	fò	VERB	v	_	29	fixed	_	Gloss=dire
+31	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	32	nsubj	_	Gloss=ceci
+32	ye	ye	VERB	pp	_	26	ccomp	_	Gloss=EQU
+33	i	í	PRON	pers	PronType=Prs	34	nmod:poss	_	Gloss=2SG
+34	muso	mùso	NOUN	n	_	32	obl	_	Gloss=femme
+35	ye	ye	ADP	pp	_	34	case	_	Gloss=PP|SpaceAfter=No
+36	,	,	PUNCT	_	_	32	punct	_	Gloss=,
+37	sanko	sanko	SCONJ	cop	_	40	mark	_	Gloss=surtout
+38	a'	a'	PRON	pers	Number=Sing|Person=3|PronType=Prs	40	nsubj	_	Gloss=2PL
+39	ka	ka	AUX	pm	_	40	aux	_	Gloss=SBJV
+40	kafo	kafo	VERB	v	_	26	parataxis	_	Gloss=rassembler|SpaceAfter=No
+41	.	.	PUNCT	_	_	20	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:73
+# text = O tun bè tinè, cè ni muso, n'aw bilakorolama kafora, ni den sòròla o kònò, den in tè si sòrò.
+# status = WIP
+1	O	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
+3	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
+4	tinè	tinè	VERB	v	_	0	root	_	Gloss=éviter|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	cè	cè	NOUN	n	_	13	dislocated:subj	_	Gloss=milieu
+7	ni	ní	CCONJ	conj	_	8	cc	_	Gloss=et
+8	muso	mùso	NOUN	n	_	6	conj	_	Gloss=femme|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	n'	n'	SCONJ	conj	_	13	mark	_	Gloss=si|SpaceAfter=No
+11	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	13	csubj	_	Gloss=2PL.EMPH
+12	bilakorolama	bilakorolama	ADJ	n	_	11	acl	_	Gloss=dans.l'état.d'incirconcis|Morf=dans.l'état.d'incirconcis,garçonnet.incirconcis,STAT
+13	kafora	kafora	VERB	v	_	25	advcl	_	Gloss=rassembler|Morf=rassembler,PFV.INTR|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+15	ni	ní	SCONJ	conj	_	17	mark	_	Gloss=si
+16	den	dén	NOUN	n	_	17	nsubj	_	Gloss=enfant
+17	sòròla	sòròla	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	25	advcl	_	Gloss=obtenir|Morf=obtenir,PFV.INTR
+18	o	ò	PRON	prn	_	17	obl	_	Gloss=ce
+19	kònò	kònò	ADP	pp	_	18	case	_	Gloss=dans|SpaceAfter=No
+20	,	,	PUNCT	_	_	17	punct	_	Gloss=,
+21	den	dén	NOUN	n	_	25	nsubj	_	Gloss=enfant
+22	in	ìn	DET	dtm	Definite=Def	21	det	_	Gloss=DEF
+23	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	25	aux	_	Gloss=IPFV.NEG
+24	si	sí	NOUN	n	_	25	obj	_	Gloss=vie
+25	sòrò	sòrò	VERB	v	_	4	parataxis	_	Gloss=obtenir|SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:74
+# text = A bi se ka kè fòlò, mògò tun bè muso kanu, a bè jò i ka "depense" bèe kòrò, "mais" cènimusoya tè tèmè aw ni nyògòn cè.
+# status = WIP
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG
+2	bi	bì	AUX	n	_	3	aux	_	Gloss=IPFV.AFF
+3	se	sé	VERB	v	_	0	root	_	Gloss=arriver
+4	ka	ka	AUX	pm	_	5	aux	_	Gloss=INF
+5	kè	kè	VERB	v	_	3	xcomp	_	Gloss=faire
+6	fòlò	fòlò	ADV	adj	_	5	obl	_	Gloss=autrefois|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	mògò	mògò	NOUN	n	_	12	nsubj	_	Gloss=homme
+9	tun	tùn	PART	prt	Tense=Past	12	aux	_	Gloss=PST
+10	bè	bè	AUX	cop	Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
+11	muso	mùso	NOUN	n	_	12	obj	_	Gloss=femme
+12	kanu	kanu	VERB	pp	_	3	parataxis	_	Gloss=aimer|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Gloss=3SG
+15	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
+16	jò	jò	VERB	v	_	12	parataxis	_	Gloss=dresser
+17	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	20	nmod:poss	_	Gloss=2SG
+18	ka	ka	ADP	pp	_	17	case	_	Gloss=POSS
+19	"	"	PUNCT	_	_	20	punct	_	Gloss="|SpaceAfter=No
+20	depense	depense	NOUN	n	_	16	obl	_	Gloss=ETRG.FRA|SpaceAfter=No
+21	"	"	PUNCT	_	_	20	punct	_	Gloss="
+22	bèe	bèe	DET	dtm	_	20	det	_	Gloss=tout
+23	kòrò	kòrò	ADP	pp	_	20	case	_	Gloss=sous|SpaceAfter=No
+24	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+25	"	"	PUNCT	_	_	26	punct	_	Gloss="|SpaceAfter=No
+26	mais	mais	CCONJ	n	_	30	cc	_	Gloss=ETRG.FRA|SpaceAfter=No
+27	"	"	PUNCT	_	_	26	punct	_	Gloss="
+28	cènimusoya	cènimusoya	NOUN	n	_	30	nsubj	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+29	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	30	aux	_	Gloss=IPFV.NEG
+30	tèmè	tèmè	VERB	v	_	16	parataxis	_	Gloss=passer
+31	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	30	obl	_	Gloss=2PL.EMPH
+32	ni	ní	CCONJ	conj/prep	_	33	cc	_	Gloss=et
+33	nyògòn	nyògòn	PRON	n	PronType=Rcp	31	conj	_	Gloss=RECP
+34	cè	cè	ADP	pp	_	33	case	_	Gloss=entre|SpaceAfter=No
+35	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:75
+# text = O bèe kun ye danbe ko ye, ani walew yèrè cogoya.
+# status = WIP
+1	O	ò	PRON	prn	_	3	nmod:poss	_	Gloss=ce
+2	bèe	bèe	DET	dtm	_	1	det	_	Gloss=tout
+3	kun	kùn	NOUN	n	_	4	nsubj	_	Gloss=tête
+4	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+5	danbe	danbe	NOUN	n	_	6	nmod:poss	_	Gloss=dignité
+6	ko	kó	NOUN	n	_	4	obl	_	Gloss=affaire
+7	ye	ye	ADP	pp	_	6	case	_	Gloss=PP|SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+9	ani	àni	CCONJ	conj	_	12	cc	_	Gloss=ainsi.que
+10	walew	walew	NOUN	n	Number=Plur	12	nmod:poss	_	Gloss=acte|Morf=acte,PL
+11	yèrè	yèrè	DET	dtm	_	10	det	_	Gloss=même
+12	cogoya	cógo.ya	NOUN	v	_	6	conj	_	Gloss=manière|Morf=manière,manière,ABSTR|SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:76
+# text = O wagati y'a sòrò tinèw bè yen.
+# status = WIP
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	wagati	wagati	NOUN	n	_	5	nsubj	_	Gloss=moment
+3	y'	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR|SpaceAfter=No
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=3SG
+5	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir
+6	tinèw	tinèw	NOUN	n	Number=Plur	7	nsubj	_	Gloss=tabou-PL|Morf=tabou-PL,tabou,PL
+7	bè	bè	VERB	cop	Polarity=Pos	5	ccomp	_	Gloss=être
+8	yen	yèn	ADV	adv/n	_	7	obl	_	Gloss=là-bas|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:77
+# text = Mògòw tun bè nyògòn tinè o wagati, danbe fana tun b'a la.
+# status = WIP
+1	Mògòw	Mògòw	NOUN	n	Number=Plur	5	nsubj	_	Gloss=homme|Morf=homme,PL
+2	tun	tùn	PART	prt	Tense=Past	5	aux	_	Gloss=PST
+3	bè	bè	AUX	pm	Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
+4	nyògòn	nyògòn	PRON	prn	PronType=Rcp	5	obj	_	Gloss=RECP
+5	tinè	tinè	VERB	v	_	0	root	_	Gloss=éviter
+6	o	ò	DET	prn	_	7	det	_	Gloss=ce
+7	wagati	wagati	NOUN	pp	_	5	obl	_	Gloss=moment|SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+9	danbe	danbe	NOUN	n	_	12	nsubj	_	Gloss=dignité
+10	fana	fána	PART	prt	_	9	discourse	_	Gloss=aussi
+11	tun	tùn	PART	prt	Tense=Past	12	aux	_	Gloss=PST
+12	b'	bɛ	VERB	cop	_	5	parataxis	_	Gloss=être|SpaceAfter=No
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	obl	_	Gloss=3SG
+14	la	lá	ADP	pp	_	13	case	_	Gloss=à|SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:78
+# text = Kow tinèma caman, a tun bè yen, mògò bè se ka min fèngè, npogotiginin ni bilakoroni ni nyògòn cè.
+# status = WIP
+1	Kow	Kow	NOUN	prn	Number=Plur	7	dislocated:subj	_	Gloss=affaire|Morf=affaire,PL
+2	tinèma	tinèma	ADJ	v	_	1	amod	_	Gloss=tabou-COM|Morf=tabou-COM,tabou,COM
+3	caman	cá.man	ADJ	adj	_	1	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+7	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
+8	yen	yèn	ADV	adv/n	_	7	obl	_	Gloss=là-bas|SpaceAfter=No
+9	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+10	mògò	mògò	NOUN	n	_	12	nsubj	_	Gloss=homme
+11	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
+12	se	sé	VERB	v	_	5	acl	_	Gloss=arriver
+13	ka	ka	AUX	pm	_	15	aux	_	Gloss=INF
+14	min	mín	PRON	prn	PronType=Rel	15	obj	_	Gloss=REL
+15	fèngè	fèngè	VERB	v	_	12	xcomp	_	Gloss=éviter|SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+17	npogotiginin	npogotiginin	NOUN	n	_	15	obl	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître,DIM
+18	ni	ní	CCONJ	conj	_	19	cc	_	Gloss=et
+19	bilakoroni	bilakoroni	NOUN	n	_	17	conj	_	Gloss=garçonnet.incirconcis|Morf=garçonnet.incirconcis,garçonnet.incirconcis,DIM
+20	ni	ní	CCONJ	conj/prep	_	21	cc	_	Gloss=et
+21	nyògòn	nyògòn	PRON	n	PronType=Rcp	17	conj	_	Gloss=RECP
+22	cè	cè	ADP	n	_	21	case	_	Gloss=entre|SpaceAfter=No
+23	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:79
+# text = Ni aw kafora bilakoroya kònòna na, ni den sòròla à kònò, den tè si sòrò.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	3	mark	_	Gloss=si
+2	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	3	nsubj	_	Gloss=2PL.EMPH
+3	kafora	kafora	VERB	pm	_	17	advcl	_	Gloss=rassembler|Morf=rassembler,PFV.INTR
+4	bilakoroya	bilakoroya	NOUN	n	_	5	nmod:poss	_	Gloss=enfance|Morf=enfance,garçonnet.incirconcis,ABSTR
+5	kònòna	kònòna	NOUN	pp	_	3	obl	_	Gloss=l'intérieur|Morf=l'intérieur,ventre,LOC
+6	na	ná	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	ni	ní	SCONJ	conj	_	10	mark	_	Gloss=si
+9	den	dén	NOUN	n	_	10	nsubj	_	Gloss=enfant
+10	sòròla	sòròla	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	17	advcl	_	Gloss=obtenir|Morf=obtenir,PFV.INTR
+11	à	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obl	_	Gloss=3SG
+12	kònò	kònò	ADP	pp	_	11	case	_	Gloss=dans|SpaceAfter=No
+13	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+14	den	dén	NOUN	n	_	17	nsubj	_	Gloss=enfant
+15	tè	tè	AUX	pm	Aspect=Imp|Polarity=Neg	17	aux	_	Gloss=IPFV.NEG
+16	si	sí	NOUN	n	_	17	obj	_	Gloss=vie
+17	sòrò	sòrò	VERB	v	_	0	root	_	Gloss=obtenir|SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:80
+# text = O yòròw tun bè yen.
+# status = WIP
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	yòròw	yòròw	NOUN	n	Number=Plur	4	nsubj	_	Gloss=lieu|Morf=lieu,PL
+3	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
+4	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
+5	yen	yèn	ADV	adv/n	_	4	obl	_	Gloss=là-bas|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:81
+# text = Nka sisan, e yèrè nyè b'a la ka a fò ko fènw yèlèmana.
+# status = WIP
+1	Nka	Nka	CCONJ	conj	_	7	cc	_	Gloss=mais
+2	sisan	sísan	NOUN	adv	_	7	obl	_	Gloss=maintenant|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	6	nmod:poss	_	Gloss=2SG.EMPH
+5	yèrè	yèrè	DET	dtm	_	4	det	_	Gloss=même
+6	nyè	nyè	NOUN	n	_	7	nsubj	_	Gloss=oeil
+7	b'	bɛ	VERB	cop	Aspect=Imp|Polarity=Pos	0	root	_	Gloss=être|SpaceAfter=No
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obl	_	Gloss=3SG
+9	la	lá	ADP	pp	_	8	case	_	Gloss=à
+10	ka	ka	AUX	pm	_	12	aux	_	Gloss=INF
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	obj	_	Gloss=3SG
+12	fò	fò	VERB	v	_	7	xcomp	_	Gloss=dire
+13	ko	kó	SCONJ	cop	_	15	mark	_	Gloss=QUOT
+14	fènw	fènw	NOUN	n	Number=Plur	15	nsubj	_	Gloss=chose|Morf=chose,PL
+15	yèlèmana	yèlèmana	VERB	v	_	12	ccomp	_	Gloss=changer|Morf=changer,PFV.INTR|SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:82
+# text = "Donc" mògòw bè mun kè sisan?
+# status = WIP
+1	"	"	PUNCT	_	_	7	punct	_	Gloss="|SpaceAfter=No
+2	Donc	Donc	X	n.prop	_	7	vocative	_	Gloss=ETRG.FRA|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	punct	_	Gloss="
+4	mògòw	mògòw	NOUN	n	Number=Plur	7	nsubj	_	Gloss=homme|Morf=homme,PL
+5	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
+6	mun	mùn	PRON	prn	_	7	obj	_	Gloss=quoi
+7	kè	kè	VERB	v	_	0	root	_	Gloss=faire
+8	sisan	sísan	NOUN	adv/n	_	7	obl	_	Gloss=maintenant|SpaceAfter=No
+9	?	?	PUNCT	_	_	7	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:83
+# text = Mògòw bè mun de kè sisan?
+# status = WIP
+1	Mògòw	Mògòw	NOUN	n	_	5	nsubj	_	Gloss=homme|Morf=homme,PL
+2	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
+3	mun	mùn	PRON	prn	_	5	obj	_	Gloss=quoi
+4	de	dè	PART	prt	_	3	discourse	_	Gloss=FOC
+5	kè	kè	VERB	v	_	0	root	_	Gloss=faire
+6	sisan	sísan	NOUN	adv/n	_	5	obl	_	Gloss=maintenant|SpaceAfter=No
+7	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:84
+# text = Sisan, o danbe min tun bè yen fòlò, o banna.
+# status = WIP
+1	Sisan	Sisan	NOUN	n.prop	_	7	obl	_	Gloss=maintenant|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	o	ò	PRON	prn	_	4	det	_	Gloss=ce
+4	danbe	danbe	NOUN	n	_	7	nsubj	_	Gloss=dignité
+5	min	mín	DET	prn	PronType=Rel	4	det:rel	_	Gloss=REL
+6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+7	bè	bè	VERB	cop	Polarity=Pos	11	acl	_	Gloss=être
+8	yen	yèn	ADV	adv/n	_	7	obl	_	Gloss=là-bas
+9	fòlò	fòlò	ADV	n	_	7	obl	_	Gloss=autrefois|SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+11	o	ò	PRON	prn	_	12	nsubj	_	Gloss=ce
+12	banna	banna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=terminer|Morf=terminer,PFV.INTR|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:85
+# text = Silamaya fana barika bonyèna.
+# status = WIP
+1	Silamaya	Silamaya	NOUN	n	_	3	nmod:poss	_	Gloss=islam|Morf=islam,musulman,ABSTR
+2	fana	fána	PART	prt	_	1	discourse	_	Gloss=aussi
+3	barika	barika	NOUN	conj	_	4	nsubj	_	Gloss=bénédiction
+4	bonyèna	bonyèna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=grossir-PFV.INTR|Morf=grossir-PFV.INTR,grossir,grand,DEQU,PFV.INTR|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:86
+# text = An tun bè yòrò minnu tinè, o tinè caman bè yen, o yurula.
+# status = WIP
+1	An	An	PRON	pers	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Gloss=1PL
+2	tun	tùn	PART	prt	Tense=Past	6	aux	_	Gloss=PST
+3	bè	bè	AUX	cop	Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
+4	yòrò	yòrò	NOUN	n	_	6	obj	_	Gloss=lieu
+5	minnu	minnu	DET	prn	PronType=Rel	4	det:rel	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
+6	tinè	tinè	VERB	v	_	8	acl	_	Gloss=éviter|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	o	ò	PRON	prn	_	9	det	_	Gloss=ce
+9	tinè	tinè	NOUN	n	_	11	nsubj	_	Gloss=tabou
+10	caman	cá.man	ADJ	adj	_	9	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+11	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
+12	yen	yèn	ADV	adv/n	_	11	obl	_	Gloss=là-bas|SpaceAfter=No
+13	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+14	o	ò	PRON	prn	_	15	nsubj	_	Gloss=ce
+15	yurula	yurula	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	11	parataxis	_	Gloss=dégringoler|Morf=dégringoler,PFV.INTR|SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:87
+# text = An y'o tinè caman bila.
+# status = WIP
+1	An	An	PRON	pers	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Gloss=1PL
+2	y'	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR|SpaceAfter=No
+3	o	ò	DET	prn	_	4	det	_	Gloss=ce
+4	tinè	tinè	NOUN	v	_	6	obj	_	Gloss=tabou
+5	caman	cá.man	ADJ	adj	_	4	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+6	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:88
+# text = Dòw bè yen, bolokoli kònòna na, dòw bè boloko k'u da to sin na.
+# status = WIP
+1	Dòw	Dòw	PRON	prn	Number=Plur	2	nsubj	_	Gloss=certain|Morf=certain,PL
+2	bè	bè	VERB	cop	_	0	root	_	Gloss=être
+3	yen	yèn	ADV	adv	_	2	obl	_	Gloss=là-bas|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	bolokoli	bolokoli	NOUN	n	_	6	nmod:poss	_	Gloss=circoncision|Morf=circoncision,circoncision,NMLZ
+6	kònòna	kònòna	NOUN	pp	_	2	obl	_	Gloss=l'intérieur|Morf=l'intérieur,ventre,LOC
+7	na	ná	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+9	dòw	dòw	PRON	_	Number=Plur	11	nsubj	_	Gloss=certain|Morf=certain,PL
+10	bè	bè	AUX	cop	_	11	aux	_	Gloss=IPFV.AFF
+11	boloko	boloko	VERB	n	_	2	parataxis	_	Gloss=circoncire
+12	k'	ka	AUX	_	_	15	aux	_	Gloss=INF|SpaceAfter=No
+13	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	14	nmod:poss	_	Gloss=3PL
+14	da	dá	NOUN	n	_	15	obj	_	Gloss=bouche
+15	to	tó	VERB	v	_	11	xcomp	_	Gloss=rester
+16	sin	sín	NOUN	n	_	15	obl	_	Gloss=sein
+17	na	ná	ADP	pp	_	16	case	_	Gloss=à|SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:89
+# text = O la, n'i y'a don ni ko de tun bè tinè bilakoroya kan, n'i bolokora k'i da to sin na, tinè bè bi dògòya.
+# status = WIP
+1	O	ò	PRON	prn	_	31	obl	_	Gloss=ce
+2	la	lá	ADP	n	_	1	case	_	Gloss=à|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	n'	n'	SCONJ	conj	_	8	mark	_	Gloss=si|SpaceAfter=No
+5	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Gloss=2SG
+6	y'	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	aux	_	Gloss=PFV.TR|SpaceAfter=No
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
+8	don	dòn	VERB	v	_	31	advcl	_	Gloss=connaître
+9	ni	ní	SCONJ	conj/prep	_	14	mark	_	Gloss=si
+10	ko	kó	NOUN	cop	_	14	nsubj	_	Gloss=affaire
+11	de	dè	PART	prt	_	10	discourse	_	Gloss=FOC
+12	tun	tùn	PART	prt	Tense=Past	14	aux	_	Gloss=PST
+13	bè	bè	VERB	pm	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=être
+14	tinè	tinè	NOUN	v	_	31	advcl	_	Gloss=tabou
+15	bilakoroya	bilakoroya	NOUN	n	_	14	obl	_	Gloss=enfance|Morf=enfance,garçonnet.incirconcis,ABSTR
+16	kan	kàn	ADP	pp	_	15	case	_	Gloss=sur|SpaceAfter=No
+17	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+18	n'	n'	SCONJ	conj	_	20	mark	_	Gloss=si|SpaceAfter=No
+19	i	í	PRON	pers	PronType=Prs	20	nsubj	_	Gloss=2SG
+20	bolokora	bolokora	VERB	n	_	31	advcl	_	Gloss=circoncire|Morf=circoncire,PFV.INTR
+21	k'	ka	AUX	pm	_	24	aux	_	Gloss=INF|SpaceAfter=No
+22	i	í	PRON	pers	PronType=Prs	23	nmod:poss	_	Gloss=2SG
+23	da	dá	NOUN	n	_	24	obj	_	Gloss=bouche
+24	to	tó	VERB	v	_	20	xcomp	_	Gloss=rester
+25	sin	sín	NOUN	n	_	24	obl	_	Gloss=sein
+26	na	ná	ADP	pp	_	25	case	_	Gloss=à|SpaceAfter=No
+27	,	,	PUNCT	_	_	24	punct	_	Gloss=,
+28	tinè	tinè	NOUN	n.prop	_	31	nsubj	_	Gloss=tabou
+29	bè	bèe	DET	pm	_	28	det	_	Gloss=tout
+30	bi	bì	AUX	n	_	31	obj	_	Gloss=IPFV.AFF
+31	dògòya	dògòya	VERB	v	_	0	root	_	Gloss=amoindrir|Morf=amoindrir,petit,DEQU|SpaceAfter=No
+32	.	.	PUNCT	_	_	31	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:90
+# text = O bi bò danbe min tun bè yen fòlò, o danbe tè yen bilen.
+# status = WIP
+1	O	ò	PRON	dtm	_	3	nsubj	_	Gloss=ce
+2	bi	bì	AUX	n	_	3	aux	_	Gloss=IPFV.AFF
+3	bò	bò	VERB	v	_	0	root	_	Gloss=sortir
+4	danbe	danbe	NOUN	n	_	7	nsubj	_	Gloss=dignité
+5	min	mín	DET	prn	PronType=Rel	4	det:rel	_	Gloss=REL
+6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+7	bè	bè	VERB	cop	Polarity=Pos	12	acl	_	Gloss=être
+8	yen	yèn	ADV	adv/n	_	7	obl	_	Gloss=là-bas
+9	fòlò	fòlò	ADV	pp	_	7	obl	_	Gloss=autrefois|SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+11	o	ò	DET	prn	_	12	det	_	Gloss=ce
+12	danbe	danbe	NOUN	n	_	13	nsubj	_	Gloss=dignité
+13	tè	tè	VERB	cop	Polarity=Neg	3	parataxis	_	Gloss=COP.NEG
+14	yen	yèn	ADV	adv/n	_	13	obl	_	Gloss=là-bas
+15	bilen	bìlen	ADV	adv	_	13	obl	_	Gloss=encore|SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:91
+# text = O danbe barika dògòyara.
+# status = WIP
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	danbe	danbe	NOUN	n	_	3	nmod:poss	_	Gloss=dignité
+3	barika	barika	NOUN	n	_	4	nsubj	_	Gloss=bénédiction
+4	dògòyara	dògòyara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=amoindrir|Morf=amoindrir,petit,DEQU,PFV.INTR|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:92
+# text = Yèlèma min donna o cènimusoya cogoyaw la sa, e bè o yèlèma da mun kan?
+# status = WIP
+1	Yèlèma	Yèlèma	NOUN	n.prop	_	3	nsubj	_	Gloss=changement
+2	min	mín	DET	prn	PronType=Rel	1	det:rel	_	Gloss=REL
+3	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	12	acl	_	Gloss=entrer|Morf=entrer,PFV.INTR
+4	o	ò	DET	prn	_	6	det	_	Gloss=ce
+5	cènimusoya	cènimusoya	NOUN	n	_	6	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+6	cogoyaw	cogoyaw	NOUN	n	Number=Plur	3	obl	_	Gloss=manière|Morf=manière,manière,ABSTR,PL
+7	la	lá	ADP	pp	_	6	case	_	Gloss=à
+8	sa	sá	PART	prt	_	3	discourse	_	Gloss=enfin|SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+10	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	14	nsubj	_	Gloss=2SG.EMPH
+11	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=IPFV.AFF
+12	o	ò	PRON	prn	_	13	nmod:poss	_	Gloss=ce
+13	yèlèma	yèlèma	NOUN	n	_	14	obj	_	Gloss=changement
+14	da	dá	VERB	v	_	0	root	_	Gloss=poser
+15	mun	mùn	PRON	prn	_	14	obl	_	Gloss=quoi
+16	kan	kàn	ADP	pp	_	15	case	_	Gloss=sur|SpaceAfter=No
+17	?	?	PUNCT	_	_	14	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:93
+# text = O yèlèma, an bè o bèè da ka a fò, o tuma, danbe kelen min tun bè an kan, yèlèma donna kow la cogo min na, silamaya barika bonyèna, ayiwa, o danbe ninnu caman tununna.
+# status = WIP
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	yèlèma	yèlèma	NOUN	v	_	8	dislocated:obj	_	Gloss=changement|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Gloss=1PL
+5	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
+6	o	ò	PRON	prn	_	8	obj	_	Gloss=ce
+7	bèè	bèè	DET	dtm	_	6	det	_	Gloss=tout
+8	da	dá	VERB	v	_	0	root	_	Gloss=poser
+9	ka	ka	AUX	pm	_	20	mark	_	Gloss=INF
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	fixed	_	Gloss=3SG
+11	fò	fò	VERB	v	_	10	fixed	_	Gloss=dire|SpaceAfter=No
+12	,	,	PUNCT	_	_	20	punct	_	Gloss=,
+13	o	ò	DET	prn	_	14	det	_	Gloss=ce
+14	tuma	tùma	NOUN	n	_	20	obl	_	Gloss=moment|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+16	danbe	danbe	NOUN	n	_	20	nsubj	_	Gloss=dignité
+17	kelen	kélen	NUM	num	_	16	nummod	_	Gloss=un
+18	min	mín	DET	prn	PronType=Rel	16	det:rel	_	Gloss=REL
+19	tun	tùn	PART	prt	Tense=Past	20	aux	_	Gloss=PST
+20	bè	bè	VERB	cop	Polarity=Pos	39	acl	_	Gloss=être
+21	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	20	obl	_	Gloss=1PL
+22	kan	kàn	ADP	pp	_	21	case	_	Gloss=sur|SpaceAfter=No
+23	,	,	PUNCT	_	_	20	punct	_	Gloss=,
+24	yèlèma	yèlèma	NOUN	n	_	25	nsubj	_	Gloss=changement
+25	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	39	acl	_	Gloss=entrer|Morf=entrer,PFV.INTR
+26	kow	kow	NOUN	n	Number=Plur	25	obl	_	Gloss=affaire|Morf=affaire,PL
+27	la	lá	ADP	pp	_	26	case	_	Gloss=à
+28	cogo	cógo	NOUN	n	_	25	obl	_	Gloss=manière
+29	min	mín	DET	dtm	PronType=Rel	28	det:rel	_	Gloss=REL
+30	na	ná	ADP	pp	_	28	case	_	Gloss=à|SpaceAfter=No
+31	,	,	PUNCT	_	_	25	punct	_	Gloss=,
+32	silamaya	silamaya	NOUN	n	_	34	nsubj	_	Gloss=islam|Morf=islam,musulman,ABSTR
+33	barika	barika	NOUN	v	_	34	aux	_	Gloss=bénédiction
+34	bonyèna	bonyèna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	25	parataxis	_	Gloss=grossir-PFV.INTR|Morf=grossir-PFV.INTR,grossir,grand,DEQU,PFV.INTR|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	punct	_	Gloss=,
+36	ayiwa	áyiwa	INTJ	intj	_	42	discourse	_	Gloss=bon|SpaceAfter=No
+37	,	,	PUNCT	_	_	36	punct	_	Gloss=,
+38	o	ò	PRON	prn	_	39	det	_	Gloss=ce
+39	danbe	danbe	NOUN	n	_	42	nsubj	_	Gloss=dignité
+40	ninnu	ninnu	DET	dtm	Definite=Def|PronType=Dem	39	det	_	Gloss=DEM.PL|Morf=DEM.PL,DEM,PL2
+41	caman	cá.man	ADJ	adj	_	39	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+42	tununna	tununna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	_	_	_	Gloss=perdre-PFV.INTR|Morf=perdre-PFV.INTR,perdre,PFV.INTR|SpaceAfter=No
+43	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:94
+# text = O ye yèlèma don kow la.
+# status = WIP
+1	O	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	yèlèma	yèlèma	NOUN	v	_	4	obj	_	Gloss=changement
+4	don	dòn	VERB	v	_	0	root	_	Gloss=entrer
+5	kow	kow	NOUN	n	Number=Plur	4	obl	_	Gloss=affaire|Morf=affaire,PL
+6	la	lá	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:95
+# text = O ye yèlèma don a wale la.
+# status = WIP
+1	O	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	yèlèma	yèlèma	NOUN	n	_	4	obj	_	Gloss=changement
+4	don	dòn	VERB	v	_	0	root	_	Gloss=entrer
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	Gloss=3SG
+6	wale	wale	NOUN	n	_	4	obl	_	Gloss=acte
+7	la	lá	ADP	pp	_	6	case	_	Gloss=à|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:96
+# text = "Donc" danbew binni de ye yèlèma don kow la?
+# status = WIP
+1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
+2	Donc	Donc	PART	n.prop	_	9	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	punct	_	Gloss="
+4	danbew	danbew	NOUN	n	Number=Plur	5	nmod:poss	_	Gloss=dignité|Morf=dignité,PL
+5	binni	binni	NOUN	n	_	9	nsubj	_	Gloss=chute|Morf=chute,tomber,NMLZ
+6	de	dè	PART	prt	_	5	discourse	_	Gloss=FOC
+7	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	9	aux	_	Gloss=PFV.TR
+8	yèlèma	yèlèma	NOUN	v	_	9	obj	_	Gloss=changement
+9	don	dòn	VERB	v	_	0	root	_	Gloss=entrer
+10	kow	kow	NOUN	n	Number=Plur	9	obl	_	Gloss=affaire|Morf=affaire,PL
+11	la	lá	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
+12	?	?	PUNCT	_	_	9	punct	_	Gloss=?
+
+# sent_id = entretien_sida1994_03_21.dis.html:97
+# text = Danbew binni de ye yèlèma don kow la.
+# status = WIP
+1	Danbew	Danbew	NOUN	n	Number=Plur	2	nmod:poss	_	Gloss=dignité|Morf=dignité,PL
+2	binni	binni	NOUN	n	_	6	nsubj	_	Gloss=chute|Morf=chute,tomber,NMLZ
+3	de	dè	PART	prt	_	2	discourse	_	Gloss=FOC
+4	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR
+5	yèlèma	yèlèma	NOUN	v	_	6	obj	_	Gloss=changement
+6	don	dòn	VERB	v	_	0	root	_	Gloss=entrer
+7	kow	kow	NOUN	n	Number=Plur	6	obl	_	Gloss=affaire|Morf=affaire,PL
+8	la	lá	ADP	pp	_	7	case	_	Gloss=à|SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:98
+# text = "Mais" fèn wèrè ma kè ni cènimusoya cogo yèlèmana sisan.
+# status = WIP
+1	"	"	PUNCT	_	_	2	punct	_	Gloss="|SpaceAfter=No
+2	Mais	Mais	PART	n	_	7	discourse	_	Gloss=ETRG.FRA|SpaceAfter=No
+3	"	"	PUNCT	_	_	2	punct	_	Gloss="
+4	fèn	fèn	NOUN	n	_	7	nsubj	_	Gloss=chose
+5	wèrè	wèrè	DET	dtm	_	4	det	_	Gloss=autre
+6	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	7	aux	_	Gloss=PFV.NEG
+7	kè	kè	VERB	v	_	0	root	_	Gloss=faire
+8	ni	ní	SCONJ	conj/prep	_	11	mark	_	Gloss=si
+9	cènimusoya	cènimusoya	NOUN	n	_	10	nmod:poss	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR
+10	cogo	cógo	NOUN	n	_	11	nsubj	_	Gloss=manière
+11	yèlèmana	yèlèmana	VERB	v	_	7	advcl	_	Gloss=changer|Morf=changer,PFV.INTR
+12	sisan	sísan	NOUN	adv/n	_	11	obl	_	Gloss=maintenant|SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:99
+# text = Tinè minnu tun bè yenninò, cènimusoya, o ma bali, sabu nege de barika bonyèna bi.
+# status = WIP
+1	Tinè	Tinè	NOUN	n.prop	_	2	nmod:poss	_	Gloss=tabou
+2	minnu	minnu	DET	n	_	4	nsubj	_	Gloss=REL.PL2|Morf=REL.PL2,REL,PL2
+3	tun	tùn	PART	prt	Tense=Past	4	aux	_	Gloss=PST
+4	bè	bè	VERB	cop	Polarity=Pos	0	root	_	Gloss=être
+5	yen	yèn	NOUN	n	_	4	obl	_	Gloss=là-bas|SpaceAfter=No
+6	ni	ní	PRON	conj/prep	_	4	obl	_	Gloss=DEM|SpaceAfter=No
+7	nò	nò	ADP	n	_	6	case	_	Gloss=IN|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+9	cènimusoya	cènimusoya	NOUN	n	_	13	dislocated	_	Gloss=rapports.sexuels|Morf=rapports.sexuels,mâle,et,femme,ABSTR|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+11	o	ò	PRON	prn	_	13	nsubj	_	Gloss=ce
+12	ma	mà	AUX	pm	Aspect=Perf|Polarity=Neg	13	aux	_	Gloss=PFV.NEG
+13	bali	bali	VERB	v	_	4	parataxis	_	Gloss=empêcher|SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	Gloss=,
+15	sabu	sabu	SCONJ	n	_	19	mark	_	Gloss=parce.que
+16	nege	nege	NOUN	pers	Number=Sing|Person=1|PronType=Emp	19	nsubj	_	Gloss=désir
+17	de	dè	PART	prt	_	16	discourse	_	Gloss=FOC
+18	barika	barika	NOUN	n	_	19	obl	_	Gloss=bénédiction
+19	bonyèna	bonyèna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	13	parataxis	_	Gloss=grossir-PFV.INTR|Morf=grossir-PFV.INTR,grossir,grand,DEQU,PFV.INTR
+20	bi	bì	ADV	adv/n	_	19	obl	_	Gloss=aujourd'hui|SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = entretien_sida1994_03_21.dis.html:100
+# text = Den bè boloko dòròn, a bè muso ta, k'i to san tan ni duuru la.
+# status = WIP
+1	Den	dén	NOUN	n	_	3	nsubj	_	Gloss=enfant
+2	bè	bè	AUX	cop	_	3	aux	_	Gloss=IPFV.AFF
+3	boloko	boloko	VERB	n	_	0	root	_	Gloss=circoncire
+4	dòròn	dòròn	ADV	dtm	_	3	obl	_	Gloss=seulement|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+7	bè	bè	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
+8	muso	mùso	NOUN	n	_	9	obj	_	Gloss=femme
+9	ta	tà	VERB	v	_	3	parataxis	_	Gloss=prendre|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+11	k'	ka	AUX	_	_	13	aux	_	Gloss=INF|SpaceAfter=No
+12	i	í	PRON	pers	PronType=Prs	13	obj	_	Gloss=REFL|Reflexive=Yes
+13	to	tó	VERB	v	_	9	xcomp	_	Gloss=rester
+14	san	sán	NOUN	n	_	13	obl	_	Gloss=année
+15	tan	tán	NUM	v	_	14	det	_	Gloss=dix
+16	ni	ní	CCONJ	conj/prep	_	17	cc	_	Gloss=et
+17	duuru	duuru	NUM	n	_	15	conj	_	Gloss=cinq
+18	la	lá	ADP	pp	_	15	case	_	Gloss=à|SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:1
+# text = Juman nɔrɔla farakolo la
+# status = WIP
+1	Juman	Juman	PROPN	_	_	2	nsubj	_	Gloss=NOM.F
+2	nɔrɔla	nɔrɔla	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=coller|Morf=coller,PFV.INTR
+3	farakolo	farakolo	NOUN	n	_	2	obl	_	Gloss=roc|Morf=roc,pierre,os
+4	la	lá	ADP	pp	_	3	case	_	Gloss=à
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:2
+# text = “Jalakɔro” ye dugu ye, dugu dawulama.
+# status = WIP
+1	“	“	PUNCT	_	_	2	punct	_	Gloss=“|SpaceAfter=No
+2	Jalakɔro	Jalakɔro	PROPN	n.prop	_	4	nsubj	_	Gloss=TOP|SpaceAfter=No
+3	”	”	PUNCT	_	_	2	punct	_	Gloss=”
+4	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+5	dugu	dùgu	NOUN	n	_	4	obl	_	Gloss=terre
+6	ye	ye	ADP	pp	_	5	case	_	Gloss=PP|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+8	dugu	dùgu	NOUN	n	_	4	parataxis	_	Gloss=terre
+9	dawulama	dawulama	NOUN	n	_	8	appos	_	Gloss=célèbre|Morf=célèbre,charme,COM|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:3
+# text = “Jalakɔro” ye dugu ye, dugu belebele.
+# status = WIP
+1	“	“	PUNCT	_	_	2	punct	_	Gloss=“|SpaceAfter=No
+2	Jalakɔro	Jalakɔro	PROPN	n.prop	_	4	nsubj	_	Gloss=TOP|SpaceAfter=No
+3	”	”	PUNCT	_	_	2	punct	_	Gloss=”
+4	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+5	dugu	dùgu	NOUN	n	_	4	obl	_	Gloss=terre
+6	ye	yé	ADP	pp	_	5	case	_	Gloss=PP|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+8	dugu	dùgu	NOUN	n	_	4	parataxis	_	Gloss=terre
+9	belebele	belebele	ADJ	adj	_	8	amod	_	Gloss=gros|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:4
+# text = Kɔba dɔ tun bɛ Jalakɔrɔ dugu kɛɲɛka fɛ, min tɔgɔ ye “Tufin Kɔba”.
+# status = WIP
+1	Kɔba	_	NOUN	_	_	4	nsubj	_	Gloss=marigot|Morf=marigot,AUGM
+2	dɔ	_	DET	_	_	1	det	_	Gloss=certain
+3	tun	_	PART	_	_	4	aux	_	Gloss=PST
+4	bɛ	_	VERB	_	_	0	root	_	Gloss=être
+5	Jalakɔrɔ	_	PROPN	_	_	6	nmod:poss	_	Gloss=TOP
+6	dugu	_	NOUN	_	_	7	nmod:poss	_	Gloss=terre
+7	kɛɲɛka	_	NOUN	_	_	4	obl	_	Gloss=nord
+8	fɛ	_	ADP	_	_	7	case	_	Gloss=par|SpaceAfter=No
+9	,	_	PUNCT	_	_	4	punct	_	Gloss=,
+10	min	_	PRON	_	_	11	nmod:poss	_	Gloss=REL
+11	tɔgɔ	_	NOUN	_	_	12	nsubj	_	Gloss=nom
+12	ye	_	VERB	_	_	1	acl	_	Gloss=EQU|SpaceAfter=No
+13	“	_	PUNCT	_	_	14	punct	_	Gloss=“
+14	TufinKɔba	_	PROPN	_	_	12	obl	_	Gloss=TOP|SpaceAfter=No
+15	”	_	PUNCT	_	_	14	punct	_	Gloss=”|SpaceAfter=No
+16	.	_	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:5
+# text = Tufin Kɔba jibɔyɔrɔ ma dɔn mɔgɔ fɛ hali bi.
+# status = WIP
+1	TufinKɔba	_	PROPN	_	_	2	nmod:poss	_	Gloss=TOP
+2	jibɔyɔrɔ	_	NOUN	_	_	4	nsubj	_	Gloss=eau|Morf=eau,lieu.d'origine,sortie,lieu
+3	ma	ma	AUX	_	Aspect=Perf|Polarity=Neg	4	aux	_	Gloss=PFV.NEG
+4	dɔn	_	VERB	_	_	0	root	_	Gloss=connaître
+5	mɔgɔ	_	NOUN	_	_	4	obl	_	Gloss=homme
+6	fɛ	_	ADP	_	_	5	case	_	Gloss=par
+7	hali	_	PART	_	_	4	obl	_	Gloss=même
+8	bi	_	ADV	_	_	7	fixed	_	Gloss=aujourd'hui|SpaceAfter=No
+9	.	_	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:6
+# text = Kɔ in dugumala bɛ ye farakolo fɛɛnɛlen ye.
+# status = WIP
+1	Kɔ	_	NOUN	_	_	3	nmod:poss	_	Gloss=marigot
+2	in	_	DET	_	_	1	det	_	Gloss=DEF
+3	dugumala	_	NOUN	_	_	5	nsubj	_	Gloss=sol|Morf=sol,terre,COM,LOC
+4	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=tout
+5	ye	_	VERB	_	_	0	root	_	Gloss=EQU
+6	farakolo	_	NOUN	_	_	5	obl	_	Gloss=roc|Morf=roc,pierre,os
+7	fɛɛnɛlen	_	VERB	_	_	6	amod	_	Gloss=étendre|Morf=étendre,PTCP.RES
+8	ye	_	ADP	_	_	6	case	_	Gloss=PP|SpaceAfter=No
+9	.	_	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:7
+# text = A dankan bɛ ye o farakolo kelen ye.
+# status = WIP
+1	A	_	PRON	_	_	2	nmod:poss	_	Gloss=3SG
+2	dankan	_	NOUN	_	_	4	nsubj	_	Gloss=berge
+3	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=tout
+4	ye	_	VERB	_	_	0	root	_	Gloss=EQU
+5	o	_	DET	_	_	6	det	_	Gloss=ce
+6	farakolo	_	NOUN	_	_	4	obl	_	Gloss=roc|Morf=roc,pierre,os
+7	kelen	_	NUM	_	_	6	nummod	_	Gloss=un
+8	ye	_	ADP	_	_	6	case	_	Gloss=PP|SpaceAfter=No
+9	.	_	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:8
+# text = Tufin Kɔba badaa, tile m'a ji gosi sabu, a sanfɛla bɛɛ bililen do ni tu ye, k'a sɔrɔ ka lamini kooli ni o tu kelen ye: donda kelen, bɔda kelen.
+# status = WIP
+1	TufinKɔba	_	PROPN	_	_	8	dislocated:obj	_	Gloss=TOP
+2	badaa	_	ADV	_	_	8	obl	_	Gloss=toujours|SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+4	tile	_	NOUN	_	_	8	nsubj	_	Gloss=soleil
+5	m'	_	AUX	_	_	8	aux	_	Gloss=PFV.NEG|SpaceAfter=No
+6	a	_	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Gloss=3SG
+7	ji	_	NOUN	_	_	8	obj	_	Gloss=eau
+8	gosi	_	VERB	_	_	15	advcl	_	Gloss=battre
+9	sabu	_	SCONJ	_	_	8	mark	_	Gloss=parce.que|SpaceAfter=No
+10	,	_	PUNCT	_	_	8	punct	_	Gloss=,
+11	a	_	PRON	_	_	12	nmod:poss	_	Gloss=3SG
+12	sanfɛla	_	NOUN	_	_	15	nsubj	_	Gloss=le.haut|Morf=le.haut,par-dessus,ciel,par,LOC
+13	bɛɛ	_	AUX	_	_	12	det	_	Gloss=tout
+14	bililen	_	NOUN	_	_	12	amod	_	Gloss=recouvrir|Morf=recouvrir,PTCP.RES
+15	do	_	VERB	_	_	0	root	_	Gloss=ID
+16	ni	_	ADP	_	_	17	case	_	Gloss=et
+17	tu	_	NOUN	_	_	15	obl	_	Gloss=touffe
+18	ye	_	ADP	_	_	17	case	_	Gloss=PP|SpaceAfter=No
+19	,	_	PUNCT	_	_	15	punct	_	Gloss=,
+20	k'	ka	PART	_	_	25	mark	_	Gloss=INF|SpaceAfter=No
+21	a	_	PRON	_	_	20	fixed	_	Gloss=3SG
+22	sɔrɔ	_	VERB	_	_	21	fixed	_	Gloss=obtenir
+23	ka	ka	AUX	_	_	25	aux	_	Gloss=INF
+24	lamini	_	NOUN	_	_	25	obj	_	Gloss=alentours|Morf=alentours,CAUS,enrouler
+25	kooli	_	VERB	_	_	15	ccomp	_	Gloss=encercler
+26	ni	_	ADP	_	_	28	case	_	Gloss=et
+27	o	_	PRON	_	_	28	nmod:poss	_	Gloss=ce
+28	tu	_	NOUN	_	_	25	obl	_	Gloss=touffe
+29	kelen	_	NUM	_	_	28	nummod	_	Gloss=un
+30	ye	_	ADP	_	_	28	case	_	Gloss=PP|SpaceAfter=No
+31	:	:	PUNCT	_	_	28	punct	_	Gloss=:
+32	donda	_	VERB	_	_	25	parataxis	_	Gloss=entrée|Morf=entrée,entrer,bouche
+33	kelen	kélen	NUM	_	_	32	nummod	_	Gloss=un|SpaceAfter=No
+34	,	_	PUNCT	_	_	35	punct	_	Gloss=,
+35	bɔda	_	NOUN	_	_	32	conj	_	Gloss=issue|Morf=issue,sortir,bouche
+36	kelen	_	NUM	_	_	35	nummod	_	Gloss=un|SpaceAfter=No
+37	.	_	PUNCT	_	_	15	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:9
+# text = Jalakɔrɔ dugu kɔnɔ, jiri kɛnɛ tun tɛ tigɛ, tasuma tun tɛ don kungokolo la.
+# status = WIP
+1	Jalakɔrɔ	_	PROPN	_	_	9	obl	_	Gloss=TOP
+2	dugu	_	NOUN	_	_	1	appos	_	Gloss=terre
+3	kɔnɔ	_	ADP	_	_	1	case	_	Gloss=dans|SpaceAfter=No
+4	,	_	PUNCT	_	_	1	punct	_	Gloss=,
+5	jiri	_	NOUN	_	_	9	nsubj	_	Gloss=arbre
+6	kɛnɛ	_	ADJ	_	_	5	amod	_	Gloss=sain
+7	tun	tùn	AUX	_	Tense=Past	9	aux	_	Gloss=PST
+8	tɛ	tɛ	AUX	_	Aspect=Imp|Polarity=Neg	9	aux	_	Gloss=IPFV.NEG
+9	tigɛ	_	VERB	_	_	0	root	_	Gloss=couper|SpaceAfter=No
+10	,	_	PUNCT	_	_	9	punct	_	Gloss=,
+11	tasuma	_	NOUN	_	_	14	nsubj	_	Gloss=feu|Morf=feu,feu,odeur
+12	tun	tùn	AUX	_	Tense=Past	14	aux	_	Gloss=PST
+13	tɛ	tɛ	AUX	_	Aspect=Imp|Polarity=Neg	14	aux	_	Gloss=IPFV.NEG
+14	don	_	VERB	_	_	9	conj	_	Gloss=entrer
+15	kungokolo	_	NOUN	_	_	14	obl	_	Gloss=brousse.éloignée|Morf=brousse.éloignée,brousse,vide
+16	la	_	ADP	_	_	15	case	_	Gloss=à|SpaceAfter=No
+17	.	_	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:10
+# text = O de y'a to sanji tun bɛ na Jalakɔrɔ ka labɔli kɛ.
+# status = WIP
+1	O	_	PRON	_	_	9	mark	_	Gloss=ce
+2	de	_	PART	_	_	1	fixed	_	Gloss=FOC
+3	y'	ye	AUX	_	Aspect=Perf	2	fixed	_	Gloss=PFV.TR|SpaceAfter=No
+4	a	à	PRON	_	Number=Sing|Person=3|PronType=Prs	3	fixed	_	Gloss=3SG
+5	to	_	VERB	_	_	4	fixed	_	Gloss=rester
+6	sanji	_	NOUN	_	_	9	nsubj	_	Gloss=pluie|Morf=pluie,ciel,eau
+7	tun	tùn	PART	prt	Tense=Past	9	aux	_	Gloss=PST
+8	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
+9	na	_	VERB	_	_	0	root	_	Gloss=venir
+10	Jalakɔrɔ	_	PROPN	_	_	9	obl	_	Gloss=TOP
+11	ka	ka	AUX	_	_	13	aux	_	Gloss=INF
+12	labɔli	_	NOUN	_	_	13	obj	_	Gloss=faire.sortir|Morf=faire.sortir,CAUS,sortir,NMLZ
+13	kɛ	_	VERB	_	_	9	xcomp	_	Gloss=faire|SpaceAfter=No
+14	.	_	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:11
+# text = Ɲɔw, tigaw, sɔw, kabaw, wosow ni malow tun bɛ ɲan fɔ ka damantɛmɛ.
+# status = WIP
+1	Ɲɔw	_	NOUN	_	_	14	nsubj	_	Gloss=mil|Morf=mil,PL|SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	Gloss=,
+3	tigaw	tigaw	NOUN	_	_	1	conj	_	Gloss=arachide|Morf=arachide,PL|SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+5	sɔw	_	NOUN	_	_	3	conj	_	Gloss=haricot|Morf=haricot,PL|SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	Gloss=,
+7	kabaw	_	NOUN	_	_	5	conj	_	Gloss=maïs|Morf=maïs,PL|SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	Gloss=,
+9	wosow	_	NOUN	_	_	7	conj	_	Gloss=patate.douce|Morf=patate.douce,PL
+10	ni	_	CCONJ	_	_	11	cc	_	Gloss=et
+11	malow	_	NOUN	_	_	9	conj	_	Gloss=riz|Morf=riz,PL
+12	tun	tùn	AUX	prt	Tense=Past	14	aux	_	Gloss=PST
+13	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=IPFV.AFF
+14	ɲan	_	VERB	_	_	0	root	_	Gloss=réussir
+15	fɔ	_	SCONJ	_	_	17	mark	_	Gloss=jusqu'à
+16	ka	ka	AUX	_	_	17	aux	_	Gloss=INF
+17	damantɛmɛ	_	VERB	_	_	14	advcl	_	Gloss=exagérer|Morf=exagérer,limite,limite,ADR,passer|SpaceAfter=No
+18	.	_	PUNCT	_	_	14	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:12
+# text = Jalakɔrɔkaw tun tɛ kɔngɔ ni fantanya dɔn.
+# status = WIP
+1	Jalakɔrɔkaw	_	NOUN	_	_	7	nsubj	_	Gloss=TOP|Morf=TOP,GENT,PL
+2	tun	tùn	AUX	prt	Tense=Past	7	aux	_	Gloss=PST
+3	tɛ	tɛ	VERB	_	Polarity=Neg	7	aux	_	Gloss=IPFV.NEG
+4	kɔngɔ	_	NOUN	_	_	7	obj	_	Gloss=faim
+5	ni	_	CCONJ	_	_	6	cc	_	Gloss=et
+6	fantanya	_	NOUN	_	_	4	conj	_	Gloss=pauvreté|Morf=pauvreté,pauvre,force,PRIV,ABSTR
+7	dɔn	_	VERB	_	_	0	root	_	Gloss=connaître|SpaceAfter=No
+8	.	_	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:13
+# text = Jalakɔrɔ Tufin Kɔba in na yen, farakoloba dɔ tun bɛ ye, farakoloba cɛɲi, farakoloba dawulama, farakoloba nugumanba.
+# status = WIP
+1	Jalakɔrɔ	_	PROPN	_	_	10	obl	_	Gloss=TOP
+2	TufinKɔba	_	PROPN	_	_	1	appos	_	Gloss=TOP
+3	in	_	DET	_	_	2	det	_	Gloss=DEF
+4	na	_	ADP	_	_	1	case	_	Gloss=à
+5	yen	_	ADV	_	_	10	obl	_	Gloss=là-bas|SpaceAfter=No
+6	,	_	PUNCT	_	_	10	punct	_	Gloss=,
+7	farakoloba	_	NOUN	_	_	10	nsubj	_	Gloss=roc|Morf=roc,pierre,os,AUGM
+8	dɔ	_	DET	_	_	7	det	_	Gloss=certain
+9	tun	tùn	PART	_	Tense=Past	10	aux	_	Gloss=PST
+10	bɛ	_	VERB	_	_	0	root	_	Gloss=IPFV.AFF
+11	yen	_	ADV	_	_	10	obl	_	Gloss=voir|SpaceAfter=No
+12	,	_	PUNCT	_	_	10	punct	_	Gloss=,
+13	farakoloba	_	NOUN	_	_	10	parataxis	_	Gloss=roc|Morf=roc,pierre,os,AUGM
+14	cɛɲi	_	ADJ	_	_	13	amod	_	Gloss=beau|Morf=beau,aspect,bon|SpaceAfter=No
+15	,	_	PUNCT	_	_	13	punct	_	Gloss=,
+16	farakoloba	_	NOUN	_	_	13	parataxis	_	Gloss=roc|Morf=roc,pierre,os,AUGM
+17	dawulama	_	ADJ	_	_	16	amod	_	Gloss=célèbre|SpaceAfter=No
+18	,	_	PUNCT	_	_	16	punct	_	Gloss=,
+19	farakoloba	_	NOUN	_	_	16	parataxis	_	Gloss=roc|Morf=roc,pierre,os,AUGM
+20	nugumanba	_	ADJ	_	_	19	amod	_	Gloss=poli|Morf=poli,lisse,ADJ,AUGM|SpaceAfter=No
+21	.	_	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:14
+# text = Jalakɔrɔka bɛɛ, hali denmisɛnnin fitininw, tun b'a dɔn ko mɔgɔ si man kan ka sigi o fara in kan, sabu o ye jinɛmuso ɲagalen sigiyɔrɔ ye.
+# status = WIP
+1	Jalakɔrɔka	_	PROPN	_	_	11	dislocated:subj	_	Gloss=TOP|Morf=TOP,GENT
+2	bɛɛ	_	DET	_	_	1	det	_	Gloss=tout|SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	Gloss=,
+4	hali	_	PART	_	_	5	discourse	_	Gloss=même
+5	denmisɛnnin	_	NOUN	n	_	11	nsubj	_	Gloss=petit.enfant|Morf=petit.enfant,enfant,petit,DIM
+6	fitininw	_	ADJ	_	_	5	amod	_	Gloss=petit|Morf=petit,PL|SpaceAfter=No
+7	,	_	PUNCT	_	_	5	punct	_	Gloss=,
+8	tun	tùn	PART	_	Tense=Past	11	aux	_	Gloss=PST
+9	b'	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF|SpaceAfter=No
+10	a	_	PRON	_	_	11	obj	_	Gloss=3SG
+11	dɔn	_	VERB	_	_	0	root	_	Gloss=connaître
+12	ko	_	SCONJ	_	_	16	mark	_	Gloss=QUOT
+13	mɔgɔ	_	NOUN	_	_	16	nsubj	_	Gloss=homme
+14	si	_	DET	dtm	_	13	det	_	Gloss=aucun
+15	man	_	AUX	_	_	16	aux	_	Gloss=QUAL.NEG
+16	kan	_	VERB	_	_	11	ccomp	_	Gloss=égal
+17	ka	ka	AUX	_	_	18	aux	_	Gloss=INF
+18	sigi	sìgi	VERB	_	_	16	xcomp	_	Gloss=asseoir
+19	o	ò	DET	_	_	20	det	_	Gloss=ce
+20	fara	_	NOUN	_	_	18	obl	_	Gloss=pierre
+21	in	ìn	DET	_	Definite=Def	20	det	_	Gloss=DEF
+22	kan	kàn	ADP	pp	_	20	case	_	Gloss=sur|SpaceAfter=No
+23	,	_	PUNCT	_	_	18	punct	_	Gloss=,
+24	sabu	_	SCONJ	_	_	26	mark	_	Gloss=parce.que
+25	o	_	PRON	_	_	26	nsubj	_	Gloss=ce
+26	ye	ye	VERB	_	Aspect=Perf	16	advcl	_	Gloss=EQU
+27	jinɛmuso	_	NOUN	_	_	29	nmod:poss	_	Gloss=esprit|Morf=esprit,femme
+28	Ɲagalen	_	PROPN	_	_	27	appos	_	Gloss=NOM.F
+29	sigiyɔrɔ	_	NOUN	_	_	26	obl	_	Gloss=domicile|Morf=domicile,asseoir,lieu
+30	ye	_	ADP	_	_	29	case	_	Gloss=PP|SpaceAfter=No
+31	.	_	PUNCT	_	_	11	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:15
+# text = Jinɛmuso ɲagalen tun ye jinɛ ye, min bɛ Jalakɔrɔ kɔlɔsi.
+# status = WIP
+1	Jinɛmuso	_	PROPN	_	_	4	nsubj	_	Gloss=esprit|Morf=esprit,femme
+2	Ɲagalen	_	PROPN	_	_	1	appos	_	Gloss=NOM.F
+3	tun	tùn	AUX	_	Tense=Past	4	aux	_	Gloss=PST
+4	ye	_	VERB	_	_	0	root	_	Gloss=EQU
+5	jinɛ	_	NOUN	_	_	4	obl	_	Gloss=esprit
+6	ye	_	ADP	_	_	5	case	_	Gloss=PP|SpaceAfter=No
+7	,	_	PUNCT	_	_	4	punct	_	Gloss=,
+8	min	_	PRON	_	_	11	nsubj	_	Gloss=REL
+9	bɛ	bɛ	AUX	_	_	11	aux	_	Gloss=IPFV.AFF
+10	Jalakɔrɔ	_	PROPN	_	_	11	obj	_	Gloss=TOP
+11	kɔlɔsi	_	VERB	_	_	5	acl	_	Gloss=surveiller|SpaceAfter=No
+12	.	_	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:16
+# text = Ale de tun bɛ ji na, ka sɛnɛfɛnw ɲa.
+# status = WIP
+1	Ale	_	PRON	_	_	6	nsubj	_	Gloss=3SG.EMPH
+2	de	_	PART	_	_	1	discourse	_	Gloss=FOC
+3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
+4	bɛ	_	AUX	_	_	6	aux	_	Gloss=être
+5	ji	_	NOUN	_	_	6	obj	_	Gloss=eau
+6	na	_	VERB	_	_	0	root	_	Gloss=à|SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	Gloss=,
+8	ka	ka	AUX	_	_	10	aux	_	Gloss=INF
+9	sɛnɛfɛnw	_	NOUN	_	_	10	obj	_	Gloss=plante.cultivée|Morf=plante.cultivée,cultiver,chose,PL
+10	ɲa	_	VERB	_	_	6	xcomp	_	Gloss=réussir|SpaceAfter=No
+11	.	_	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:17
+# text = A tana tun ye ko saba ye: Jiri tigɛ, tasuma don ani a ka fara kan sigili.
+# status = WIP
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
+2	tana	tanan	NOUN	v	_	4	nsubj	_	Gloss=tabou
+3	tun	tùn	AUX	prt	Tense=Past	4	aux	_	Gloss=PST
+4	ye	yé	VERB	cop	_	0	root	_	Gloss=EQU
+5	ko	kó	NOUN	cop	_	4	obl	_	Gloss=affaire
+6	saba	sàba	NUM	num	_	5	nummod	_	Gloss=trois
+7	ye	yé	ADP	pp	_	5	case	_	Gloss=PP|SpaceAfter=No
+8	:	:	PUNCT	_	_	4	punct	_	Gloss=:
+9	Jiri	Jiri	NOUN	n	_	10	nmod:poss	_	Gloss=arbre
+10	tigɛ	tìgɛ	NOUN	_	_	4	ccomp	_	Gloss=couper|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+12	tasuma	tásuma	NOUN	n	_	13	nmod:poss	_	Gloss=feu|Morf=feu,feu,odeur
+13	don	dòn	NOUN	cop	_	10	conj	_	Gloss=entrer
+14	ani	àni	CCONJ	conj	_	19	cc	_	Gloss=ainsi.que
+15	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	Gloss=3SG
+16	ka	ká	ADP	conj	_	15	case	_	Gloss=POSS
+17	fara	fará	NOUN	n	_	19	nmod:poss	_	Gloss=pierre
+18	kan	kàn	ADP	pp	_	17	case	_	Gloss=sur
+19	sigili	sìgili	NOUN	v	_	13	conj	_	Gloss=action.de.s'asseoir|Morf=action.de.s'asseoir,asseoir,NMLZ|SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:18
+# text = Dugu dumanba denmisɛnnin tan, o ye don dɔ tomoo ye.
+# status = WIP
+1	Dugu	_	NOUN	_	_	8	dislocated:subj	_	Gloss=terre
+2	dumanba	_	ADJ	_	_	1	amod	_	Gloss=agréable|Morf=agréable,ADJ,AUGM
+3	denmisɛnnin	_	NOUN	n	_	1	amod	_	Gloss=petit.enfant|Morf=petit.enfant,enfant,petit,DIM
+4	tan	_	X	_	_	3	fixed	_	Gloss=ainsi|SpaceAfter=No
+5	,	_	PUNCT	_	_	1	punct	_	Gloss=,
+6	o	_	PRON	_	_	8	nsubj	_	Gloss=ce
+7	ye	ye	AUX	_	Aspect=Perf	8	aux	_	Gloss=EQU
+8	don	_	NOUN	_	_	0	root	_	Gloss=jour
+9	dɔ	_	DET	_	_	8	det	_	Gloss=certain
+10	tomoo	_	NOUN	_	_	8	obl	_	Gloss=ruines
+11	ye	_	ADP	_	_	10	case	_	Gloss=PP|SpaceAfter=No
+12	.	_	PUNCT	_	_	8	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:19
+# text = Jalakɔrɔ tun falen don cɛmisɛn ni npogotigi la.
+# status = WIP
+1	Jalakɔrɔ	_	NOUN	_	_	3	nsubj	_	Gloss=TOP
+2	tun	tùn	AUX	prt	Tense=Past	3	aux	_	Gloss=PST
+3	falen	_	VERB	_	_	0	root	_	Gloss=remplir|Morf=remplir,PTCP.RES
+4	don	_	AUX	_	_	3	aux	_	Gloss=ID
+5	cɛmisɛn	_	NOUN	_	_	3	obl	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,petit
+6	ni	_	CCONJ	_	_	7	cc	_	Gloss=et
+7	npogotigi	_	NOUN	_	_	5	conj	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître
+8	la	lá	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
+9	.	_	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:20
+# text = Su o su, kalojɛ la, u tun bɛ ɲanajɛ kɛ fɛrɛba la.
+# status = WIP
+1	Su	_	NOUN	_	_	12	obl	_	Gloss=nuit
+2	o	_	CCONJ	_	_	3	cc	_	Gloss=DISTR
+3	su	_	NOUN	_	_	1	conj	_	Gloss=nuit|SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+5	kalojɛ	_	NOUN	_	_	12	obl	_	Gloss=pleine.lune|Morf=pleine.lune,lune,blanc
+6	la	_	ADP	_	_	5	case	_	Gloss=à|SpaceAfter=No
+7	,	_	PUNCT	_	_	5	punct	_	Gloss=,
+8	u	_	PRON	_	_	12	nsubj	_	Gloss=3PL
+9	tun	_	AUX	_	Tense=Past	12	aux	_	Gloss=PST
+10	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
+11	ɲanajɛ	_	NOUN	_	_	12	obj	_	Gloss=réjouissance
+12	kɛ	_	VERB	_	_	0	root	_	Gloss=faire
+13	fɛrɛba	_	NOUN	_	_	12	obl	_	Gloss=place.publique|Morf=place.publique,AUGM
+14	la	_	ADP	_	_	13	case	_	Gloss=à|SpaceAfter=No
+15	.	_	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:21
+# text = Wula o wula, u tun bɛ tugun ɲɔgɔn kɔ ka t'u ko Tufin Kɔba la.
+# status = WIP
+1	Wula	_	NOUN	_	_	8	obl	_	Gloss=soir
+2	o	_	CCONJ	_	_	3	cc	_	Gloss=DISTR
+3	wula	_	NOUN	_	_	1	conj	_	Gloss=soir|SpaceAfter=No
+4	,	_	PUNCT	_	_	1	punct	_	Gloss=,
+5	u	_	PRON	_	_	8	nsubj	_	Gloss=3PL
+6	tun	tùn	AUX	_	Tense=Past	8	aux	_	Gloss=PST
+7	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
+8	tugun	_	VERB	_	_	0	root	_	Gloss=rabouter
+9	ɲɔgɔn	_	NOUN	_	_	8	obl	_	Gloss=RECP
+10	kɔ	_	ADP	_	_	9	case	_	Gloss=après
+11	ka	ka	AUX	_	_	12	aux	_	Gloss=INF
+12	t'	_	VERB	_	_	8	xcomp	_	Gloss=aller|SpaceAfter=No
+13	u	_	PRON	_	_	14	obj	_	Gloss=3PL
+14	ko	_	VERB	_	_	12	xcomp	_	Gloss=laver
+15	TufinKɔba	_	PROPN	_	_	14	obl	_	Gloss=TOP
+16	la	_	ADP	_	_	15	case	_	Gloss=à|SpaceAfter=No
+17	.	_	PUNCT	_	_	8	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:22
+# text = Jinɛmuso ɲagalen sigiyɔrɔ, mɔgɔ si tun tɛ se o man.
+# status = WIP
+1	Jinɛmuso	_	NOUN	_	_	3	nmod:poss	_	Gloss=esprit|Morf=esprit,femme
+2	ɲagalen	_	PROPN	_	_	1	appos	_	Gloss=NOM.F
+3	sigiyɔrɔ	_	NOUN	_	_	9	dislocated:obl	_	Gloss=domicile|Morf=domicile,asseoir,lieu|SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+5	mɔgɔ	_	NOUN	_	_	9	nsubj	_	Gloss=homme
+6	si	_	DET	_	_	5	det	_	Gloss=aucun
+7	tun	tùn	AUX	_	Tense=Past	9	aux	_	Gloss=PST
+8	tɛ	tɛ	AUX	_	Aspect=Imp|Polarity=Neg	9	aux	_	Gloss=IPFV.NEG
+9	se	_	VERB	_	_	0	root	_	Gloss=arriver
+10	o	_	PRON	_	_	9	obl	_	Gloss=ce
+11	man	_	ADP	_	_	10	case	_	Gloss=ADR|SpaceAfter=No
+12	.	_	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:23
+# text = Don dɔ su fɛ, k'u to fɛrɛ la, Jumanjɛ ni o ye npogotigi sarama ye, o kamalen y'i kanto :
+# status = WIP
+1	Don	_	NOUN	_	_	8	obl	_	Gloss=jour
+2	dɔ	_	DET	_	_	1	det	_	Gloss=certain
+3	su	_	NOUN	_	_	1	conj	_	Gloss=nuit
+4	fɛ	_	ADP	_	_	3	case	_	Gloss=par|SpaceAfter=No
+5	,	_	PUNCT	_	_	1	punct	_	Gloss=,
+6	k'	ka	PART	_	_	8	aux	_	Gloss=INF|SpaceAfter=No
+7	u	_	PRON	_	_	8	obj	_	Gloss=3PL
+8	to	_	VERB	_	_	24	xcomp	_	Gloss=rester
+9	fɛrɛ	_	NOUN	_	_	8	obl	_	Gloss=place.publique
+10	la	_	ADP	_	_	9	case	_	Gloss=à|SpaceAfter=No
+11	,	_	PUNCT	_	_	8	punct	_	Gloss=,
+12	Jumanjɛ	_	PROPN	_	_	15	dislocated:subj	_	Gloss=NOM.F
+13	ni	ni	SCONJ	_	_	15	mark	_	Gloss=si
+14	o	_	PRON	_	_	15	nsubj	_	Gloss=ce
+15	ye	ye	VERB	_	_	24	advcl	_	Gloss=EQU
+16	npogotigi	_	NOUN	_	_	15	obl	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître
+17	sarama	_	ADJ	_	_	16	amod	_	Gloss=charmant|Morf=charmant,charme,COM
+18	ye	_	ADP	_	_	16	case	_	Gloss=PP|SpaceAfter=No
+19	,	_	PUNCT	_	_	15	punct	_	Gloss=,
+20	o	_	PRON	_	_	21	nmod:poss	_	Gloss=ce
+21	kamalen	kamalen	NOUN	_	_	24	nsubj	_	Gloss=jeune.homme
+22	y'	ye	AUX	pm	Aspect=Perf	24	aux	_	Gloss=PFV.TR|SpaceAfter=No
+23	i	_	PRON	_	_	24	obj	_	Gloss=REFL|Reflexive=Yes
+24	kanto	_	VERB	_	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
+25	:	_	PUNCT	_	_	24	punct	_	Gloss=:
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:24
+# text = “- Juman, e bɛ ne fɛ kosɛbɛ wa ?
+# status = WIP
+1	“	_	PUNCT	_	_	3	punct	_	Gloss=“|SpaceAfter=No
+2	-	_	PUNCT	_	_	3	punct	_	Gloss=-
+3	Juman	_	PROPN	_	_	6	vocative	_	Gloss=NOM.F|SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+5	e	_	PRON	_	_	6	nsubj	_	Gloss=2SG.EMPH
+6	bɛ	bɛ	VERB	_	Aspect=Imp|Polarity=Pos	0	root	_	Gloss=être
+7	ne	_	PRON	_	Number=Sing|Person=1|PronType=Emp	6	obl	_	Gloss=1SG.EMPH
+8	fɛ	_	VERB	_	_	7	case	_	Gloss=par
+9	kosɛbɛ	_	ADV	_	_	6	advmod	_	Gloss=très.bien|Morf=très.bien,affaire,sérieux
+10	wa	_	PART	_	_	6	discourse	_	Gloss=Q
+11	?	_	PUNCT	_	_	6	punct	_	Gloss=?
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:25
+# text = - O ye kuma kura ye bi dɛ, n teri Fasiga, Jumanjɛ kan y'o ye.
+# status = WIP
+1	-	_	PUNCT	_	_	3	punct	_	Gloss=-
+2	O	ò	PRON	_	_	3	nsubj	_	Gloss=ce
+3	ye	ye	VERB	_	Aspect=Perf|Polarity=Pos|Valency=2	16	parataxis:obj	_	Gloss=EQU
+4	kuma	_	NOUN	_	_	3	obl	_	Gloss=parole
+5	kura	_	ADJ	_	_	4	amod	_	Gloss=nouveau
+6	ye	_	ADP	_	_	4	case	_	Gloss=PP
+7	bi	bì	NOUN	n	_	3	obl	_	Gloss=aujourd'hui
+8	dɛ	dɛ́	PART	_	_	3	discourse	_	Gloss=tiens|SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+10	n	ń	PRON	pers	PronType=Prs	11	nmod:poss	_	Gloss=1SG
+11	teri	_	NOUN	_	_	3	vocative	_	Gloss=ami
+12	Fasiga	Fasiga	PROPN	n.prop	_	11	appos	_	Gloss=NOM.M|SpaceAfter=No
+13	,	_	PUNCT	_	_	11	punct	_	Gloss=,
+14	Jumanjɛ	_	PRON	_	_	15	nmod:poss	_	Gloss=NOM.F
+15	kan	kàn	NOUN	pp	_	16	nsubj	_	Gloss=cou
+16	y'	ye	VERB	pm	Aspect=Perf|Polarity=Pos|Valency=2	0	root	_	Gloss=EQU|SpaceAfter=No
+17	o	ò	PRON	_	_	16	obl	_	Gloss=ce
+18	ye	_	ADP	_	_	17	case	_	Gloss=PP|SpaceAfter=No
+19	.	.	PUNCT	_	_	16	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:26
+# text = - Kuman kura tɛ.
+# status = WIP
+1	-	-	PUNCT	_	_	4	punct	_	Gloss=-
+2	Kuman	Kuman	PROPN	_	_	4	nsubj	_	Gloss=parole
+3	kura	kura	ADJ	_	_	2	amod	_	Gloss=nouveau
+4	tɛ	tɛ́	VERB	cop	_	0	root	_	Gloss=COP.NEG|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:27
+# text = Bi man ne ni e bila ɲɔgɔn bolo.
+# status = WIP
+1	Bi	bì	NOUN	n	_	6	nsubj	_	Gloss=aujourd'hui
+2	man	mán	AUX	v	_	6	aux	_	Gloss=PFV.NEG
+3	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	6	obj	_	Gloss=1SG.EMPH
+4	ni	ní	CCONJ	conj/prep	_	5	cc	_	Gloss=et
+5	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	3	conj	_	Gloss=2SG.EMPH
+6	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
+7	ɲɔgɔn	_	NOUN	n	_	6	obl	_	Gloss=RECP
+8	bolo	bólo	ADP	pp	_	7	case	_	Gloss=CNTRL|SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:28
+# text = Ni ne ko ka di e ye tuɲan la, sini wula fɛ, n' an taara Tufin Kɔba la, i k'i sigi ɲagalen ka faraba kan.
+# status = WIP
+1	Ni	Ni	SCONJ	conj	_	5	mark	_	Gloss=si
+2	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	3	nmod:poss	_	Gloss=1SG.EMPH
+3	ko	kó	NOUN	cop	_	5	nsubj	_	Gloss=affaire
+4	ka	ka	AUX	pm	_	5	aux	_	Gloss=QUAL.AFF
+5	di	dí	VERB	v	_	25	advcl	_	Gloss=agréable
+6	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	5	obl	_	Gloss=2SG.EMPH
+7	ye	ye	ADP	pp	_	6	case	_	Gloss=PP
+8	tu	tú	NOUN	prt	_	5	obl	_	Gloss=touffe|SpaceAfter=No
+9	ɲan	_	NOUN	_	_	8	fixed	_	Gloss=devant|Morf=devant,oeil,à
+10	la	lá	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
+11	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+12	sini	síni	NOUN	n	_	13	nmod:poss	_	Gloss=demain
+13	wula	_	NOUN	_	_	18	obl	_	Gloss=soir
+14	fɛ	_	ADP	pp	_	13	case	_	Gloss=par|SpaceAfter=No
+15	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+16	n'	n'	SCONJ	conj	_	18	mark	_	Gloss=si
+17	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	Gloss=1PL
+18	taara	taara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	25	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
+19	TufinKɔba	_	PROPN	n.prop	_	18	obl	_	Gloss=TOP
+20	la	lá	ADP	pp	_	19	case	_	Gloss=à
+21	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+22	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	25	nsubj	_	Gloss=2SG
+23	k'	ka	AUX	pm	_	25	aux	_	Gloss=SBJV|SpaceAfter=No
+24	i	í	PRON	pers	PronType=Prs	25	obj	_	Gloss=REFL|Reflexive=Yes
+25	sigi	sìgi	VERB	_	_	0	root	_	Gloss=s'asseoir
+26	ɲagalen	_	PROPN	ptcp	_	28	nmod:poss	_	Gloss=NOM.F
+27	ka	ka	ADP	pm	_	26	case	_	Gloss=POSS
+28	faraba	faraba	NOUN	_	_	25	obl	_	Gloss=pierre|Morf=pierre,AUGM
+29	kan	kàn	ADP	pp	_	28	case	_	Gloss=sur
+30	.	.	PUNCT	_	_	25	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:29
+# text = - Ɛɛ, n terinin, n'o kɛra, o tɛ Jalakɔrɔ ma hɛra ye dɛ!
+# status = WIP
+1	-	_	PUNCT	_	_	2	punct	_	Gloss=-
+2	Ɛɛ	_	INTJ	_	_	5	discourse	_	Gloss=pas.possible!|SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+4	n	ń	PRON	_	PronType=Prs	5	nmod:poss	_	Gloss=1SG
+5	terinin	_	NOUN	_	_	12	vocative	_	Gloss=ami|Morf=ami,DIM|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	n'	n'	SCONJ	conj	_	9	mark	_	Gloss=si|SpaceAfter=No
+8	o	_	PRON	_	_	9	nsubj	_	Gloss=ce
+9	kɛra	kɛra	VERB	_	Aspect=Perf|Polarity=Pos|Valency=1	12	advcl	_	Gloss=faire|Morf=faire,PFV.INTR|SpaceAfter=No
+10	,	_	PUNCT	_	_	9	punct	_	Gloss=,
+11	o	_	PRON	_	_	12	nsubj	_	Gloss=ce
+12	tɛ	tɛ	VERB	_	Aspect=Imp|Polarity=Neg	0	root	_	Gloss=COP.NEG
+13	Jalakɔrɔ	_	PROPN	_	_	15	nmod:poss	_	Gloss=TOP
+14	ma	ma	ADP	_	Aspect=Perf|Polarity=Neg	13	case	_	Gloss=PFV.NEG
+15	hɛra	_	NOUN	_	_	12	obl	_	Gloss=paix
+16	ye	_	ADP	_	_	15	case	_	Gloss=voir
+17	dɛ	_	PART	_	_	12	discourse	_	Gloss=certes|SpaceAfter=No
+18	!	_	PUNCT	_	_	12	punct	_	Gloss=!
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:30
+# text = - Hali n'o kɛra Jalakɔrɔ ma balawu ye, o bɛ kɛ ne ma nisɔnjaba ye.
+# status = WIP
+1	-	_	PUNCT	_	_	5	punct	_	Gloss=-
+2	Hali	_	PART	_	_	5	discourse	_	Gloss=même
+3	n'	_	SCONJ	_	_	5	mark	_	Gloss=si|SpaceAfter=No
+4	o	_	PRON	_	_	5	nsubj	_	Gloss=ce
+5	kɛra	_	VERB	_	_	0	root	_	Gloss=faire|Morf=faire,PFV.INTR
+6	Jalakɔrɔ	_	PROPN	_	_	5	obl	_	Gloss=TOP
+7	ma	_	ADP	_	_	6	case	_	Gloss=PFV.NEG
+8	balawu	_	NOUN	_	_	5	obl	_	Gloss=catastrophe
+9	ye	_	VERB	_	_	8	root	_	Gloss=voir|SpaceAfter=No
+10	,	_	PUNCT	_	_	5	punct	_	Gloss=,
+11	o	_	PRON	_	_	13	nsubj	_	Gloss=ce
+12	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.AFF
+13	kɛ	_	VERB	_	_	5	parataxis	_	Gloss=faire
+14	ne	_	PRON	_	_	13	obl	_	Gloss=1SG.EMPH
+15	ma	_	ADP	_	Aspect=Perf|Polarity=Neg	14	case	_	Gloss=ADR
+16	nisɔnjaba	_	NOUN	_	_	13	obl	_	Gloss=joie|Morf=joie,humeur,âme,coeur,bon.goût,agréable,DEQU,AUGM
+17	ye	_	ADP	_	_	16	case	_	Gloss=PP|SpaceAfter=No
+18	.	_	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:31
+# text = O la, ne bɛ n waso cɛmisɛnni tɔw la ko n terimuso sigira jinɛmuso ɲagalen sigiyɔrɔ la.
+# status = WIP
+1	O	_	PRON	_	_	7	obl	_	Gloss=ce
+2	la	_	ADP	_	_	1	case	_	Gloss=à|SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+4	ne	_	PRON	_	_	7	nsubj	_	Gloss=1SG.EMPH
+5	bɛ	bɛ	AUX	_	_	7	aux	_	Gloss=IPFV.AFF
+6	n	_	PRON	_	_	7	obj	_	Gloss=1SG
+7	waso	_	VERB	_	_	0	root	_	Gloss=se.vanter
+8	cɛmisɛnni	_	NOUN	_	_	9	nmod:poss	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,petit,DIM
+9	tɔw	_	NOUN	_	_	7	obl	_	Gloss=le.reste|Morf=le.reste,PL
+10	la	_	ADP	_	_	9	case	_	Gloss=à
+11	ko	_	PART	_	_	14	discourse	_	Gloss=QUOT
+12	n	_	PRON	_	_	13	nmod:poss	_	Gloss=1SG
+13	terimuso	_	NOUN	_	_	14	nsubj	_	Gloss=amie|Morf=amie,ami,féminin
+14	sigira	_	VERB	_	_	7	parataxis:obj	_	Gloss=asseoir|Morf=asseoir,PFV.INTR
+15	jinɛmuso	_	NOUN	_	_	17	nmod:poss	_	Gloss=esprit|Morf=esprit,femme
+16	ɲagalen	_	PROPN	_	_	15	appos	_	Gloss=NOM.F
+17	sigiyɔrɔ	_	NOUN	_	_	14	obl	_	Gloss=domicile|Morf=domicile,asseoir,lieu
+18	la	_	ADP	_	_	17	case	_	Gloss=à|SpaceAfter=No
+19	.	_	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:32
+# text = - Ɔhɔn!
+# status = WIP
+1	-	-	PUNCT	_	_	2	punct	_	Gloss=-
+2	Ɔhɔn	_	INTJ	_	_	0	root	_	Gloss=oui|SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:33
+# text = n'i ko ten, n bɛ o kɛ !
+# status = WIP
+1	n'	_	SCONJ	_	_	3	mark	_	Gloss=si|SpaceAfter=No
+2	i	_	PRON	_	PronType=Prs	3	obj	_	Gloss=2SG
+3	ko	_	VERB	_	_	9	advcl	_	Gloss=QUOT
+4	ten	_	ADV	_	_	3	discourse	_	Gloss=ainsi|SpaceAfter=No
+5	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+6	n	_	PRON	_	_	9	nsubj	_	Gloss=1SG
+7	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
+8	o	_	PRON	_	_	9	obj	_	Gloss=ce
+9	kɛ	_	VERB	_	_	0	root	_	Gloss=faire
+10	!	_	PUNCT	_	_	9	punct	_	Gloss=!
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:34
+# text = Su kora, dugu jɛra.
+# status = WIP
+1	Su	sú	NOUN	n	_	2	nsubj	_	Gloss=nuit
+2	kora	kora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=arriver|Morf=arriver,PFV.INTR|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	dugu	dùgu	NOUN	n	_	5	nsubj	_	Gloss=terre
+5	jɛra	jɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	2	conj	_	Gloss=blanchir|Morf=blanchir,PFV.INTR|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:35
+# text = Dugu jɛra, wula sera.
+# status = WIP
+1	Dugu	Dugu	NOUN	n	_	2	nsubj	_	Gloss=terre
+2	jɛra	jɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=blanchir|Morf=blanchir,PFV.INTR|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	wula	wula	NOUN	n	_	5	nsubj	_	Gloss=soir
+5	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	2	conj	_	Gloss=arriver|Morf=arriver,PFV.INTR|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:36
+# text = Wula sera, Tufin Kɔba la tagali sera.
+# status = WIP
+1	Wula	Wula	NOUN	n	_	2	nsubj	_	Gloss=soir
+2	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=arriver|Morf=arriver,PFV.INTR|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	TufinKɔba	Tufinkɔba	PROPN	n.prop	_	6	nmod:poss	_	Gloss=TOP
+5	la	lá	ADP	pp	_	4	case	_	Gloss=à
+6	tagali	tagali	NOUN	n	_	7	nsubj	_	Gloss=aller|Morf=aller,NMLZ
+7	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	2	conj	_	Gloss=arriver|Morf=arriver,PFV.INTR|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:37
+# text = Dugu cɛmisɛnw ni npogotigiw ye ɲɔgɔn nɔn minɛ, ka kɔ sɛgɛrɛ.
+# status = WIP
+1	Dugu	_	NOUN	_	_	2	nmod:poss	_	Gloss=terre
+2	cɛmisɛnw	_	NOUN	_	_	8	nsubj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,petit,PL
+3	ni	_	CCONJ	_	_	4	cc	_	Gloss=et
+4	npogotigiw	_	NOUN	_	_	2	conj	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître,PL
+5	ye	ye	AUX	_	_	8	aux	_	Gloss=PP
+6	ɲɔgɔn	_	PRON	_	_	7	nmod:poss	_	Gloss=RECP
+7	nɔn	_	NOUN	_	_	8	obj	_	Gloss=trace
+8	minɛ	_	VERB	_	_	0	root	_	Gloss=attraper|SpaceAfter=No
+9	,	_	PUNCT	_	_	8	punct	_	Gloss=,
+10	ka	ka	AUX	_	_	12	aux	_	Gloss=INF
+11	kɔ	_	NOUN	_	_	12	obj	_	Gloss=marigot
+12	sɛgɛrɛ	_	VERB	_	_	8	xcomp	_	Gloss=rejoindre|SpaceAfter=No
+13	.	_	PUNCT	_	_	8	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:38
+# text = U sera tumamin nan, u y'u waraka ka jigin kɔ la.
+# status = WIP
+1	U	_	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=3PL
+2	sera	sera	VERB	_	Aspect=Perf|Polarity=Pos|Valency=1	10	acl	_	Gloss=arriver|Morf=arriver,PFV.INTR
+3	tuma	tùma	NOUN	n	_	2	obl	_	Gloss=moment|SpaceAfter=No
+4	min	mín	DET	prn	PronType=Rel	3	det:rel	_	Gloss=REL
+5	na	nà	ADP	pp	_	3	case	_	Gloss=à|SpaceAfter=No
+6	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+7	u	_	PRON	_	Number=Plur|Person=3|PronType=Prs	10	nsubj	_	Gloss=3PL
+8	y'	ye	AUX	pm	Aspect=Perf	10	aux	_	Gloss=PFV.TR|SpaceAfter=No
+9	u	_	PRON	_	Number=Plur|Person=3|PronType=Prs	10	obj	_	Gloss=3PL
+10	waraka	_	VERB	_	_	0	root	_	Gloss=démonter
+11	ka	ka	AUX	_	_	12	aux	_	Gloss=INF
+12	jigin	_	VERB	_	_	10	xcomp	_	Gloss=descendre
+13	kɔ	_	NOUN	n	_	12	obl	_	Gloss=marigot
+14	la	_	ADP	_	_	13	case	_	Gloss=à|SpaceAfter=No
+15	.	_	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:39
+# text = Sɔɔni, Jumanjɛ tagara ɲagalen ka fara fanfɛ, k'i sigi o kan tɛgu.
+# status = WIP
+1	Sɔɔni	_	ADV	_	_	4	obl	_	Gloss=bientôt|SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	Gloss=,
+3	Jumanjɛ	_	NOUN	_	_	4	nsubj	_	Gloss=NOM.F
+4	tagara	tagara	VERB	_	_	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+5	ɲagalen	_	PROPN	_	_	7	nmod:poss	_	Gloss=NOM.F
+6	ka	ka	ADP	_	_	5	case	_	Gloss=POSS
+7	fara	_	NOUN	_	_	8	nmod:poss	_	Gloss=pierre
+8	fan	_	NOUN	_	_	4	obl	_	Gloss=côté|SpaceAfter=No
+9	fɛ	_	ADP	_	_	8	case	_	Gloss=par|SpaceAfter=No
+10	,	_	PUNCT	_	_	4	punct	_	Gloss=,
+11	k'	ka	AUX	_	_	13	aux	_	Gloss=INF|SpaceAfter=No
+12	i	í	PRON	_	_	13	obj	_	Gloss=REFL|Reflexive=Yes
+13	sigi	_	VERB	_	_	4	xcomp	_	Gloss=s'asseoir
+14	o	_	PRON	_	_	13	obl	_	Gloss=ce
+15	kan	kàn	ADP	pp	_	14	case	_	Gloss=sur
+16	tɛgu	_	ADV	_	_	13	advmod	_	Gloss=délicatement|SpaceAfter=No
+17	.	_	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:40
+# text = Jaman wɔyɔra ka don ɲɔgɔn na.
+# status = WIP
+1	Jaman	Jaman	NOUN	_	_	2	nmod:poss	_	Gloss=foule
+2	wɔyɔra	_	VERB	_	_	0	root	_	Gloss=piailler|Morf=piailler,PFV.INTR
+3	ka	ka	AUX	_	_	4	aux	_	Gloss=INF
+4	don	_	VERB	_	_	2	xcomp	_	Gloss=danser
+5	ɲɔgɔn	_	PRON	_	_	4	obl	_	Gloss=RECP
+6	na	ná	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
+7	.	_	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:41
+# text = O yɔrɔnin kelen, Tufin Kɔba ji yɛlɛmana ka kɛ iko joli kɛnɛ.
+# status = WIP
+1	O	_	DET	_	_	2	det	_	Gloss=ce
+2	yɔrɔnin	_	NOUN	_	_	7	obl	_	Gloss=petit.endroit
+3	kelen	_	NUM	_	_	2	nummod	_	Gloss=un|SpaceAfter=No
+4	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+5	TufinKɔba	_	PROPN	_	_	6	nmod:poss	_	Gloss=TOP
+6	ji	_	NOUN	_	_	7	nsubj	_	Gloss=eau
+7	yɛlɛmana	_	VERB	_	_	0	root	_	Gloss=changer|Morf=changer,PFV.INTR
+8	ka	ka	AUX	_	_	9	aux	_	Gloss=INF
+9	kɛ	_	VERB	_	_	7	xcomp	_	Gloss=faire
+10	iko	_	ADP	_	_	11	case	_	Gloss=comme
+11	joli	_	NOUN	_	_	9	obl	_	Gloss=sang
+12	kɛnɛ	_	ADJ	_	_	11	case	_	Gloss=sain|SpaceAfter=No
+13	.	_	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:42
+# text = Cɛmisɛnw ni npogotigiw bolila ka taga so.
+# status = WIP
+1	Cɛmisɛnw	_	NOUN	_	_	4	nsubj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,petit,PL
+2	ni	ni	CCONJ	_	_	3	cc	_	Gloss=et
+3	npogotigiw	npogotigiw	NOUN	n	Number=Plur	1	conj	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître,PL
+4	bolila	bolila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
+5	ka	ka	AUX	pm	_	6	aux	_	Gloss=INF
+6	taga	tága	VERB	v	_	4	xcomp	_	Gloss=aller
+7	so	sò	NOUN	n	_	6	obl	_	Gloss=maison|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:43
+# text = Jumanjɛ ma se ka wili, a nɔrɔlen tora farakolo la.
+# status = WIP
+1	Jumanjɛ	_	NOUN	_	_	3	nsubj	_	Gloss=NOM.F
+2	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	3	aux	_	Gloss=PFV.NEG
+3	se	_	VERB	_	_	0	root	_	Gloss=arriver
+4	ka	ka	AUX	_	_	5	aux	_	Gloss=INF
+5	wili	_	VERB	v	_	3	xcomp	_	Gloss=se.lever|SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+8	nɔrɔlen	nɔrɔlen	VERB	n	_	7	acl	_	Gloss=coller|Morf=coller,PTCP.RES
+9	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	3	parataxis	_	Gloss=rester
+10	farakolo	farakolo	NOUN	n	_	9	obl	_	Gloss=roc|Morf=roc,pierre,os
+11	la	lá	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:44
+# text = Jumanjɛ sigilen tora, a bɛka kasi.
+# status = WIP
+1	Jumanjɛ	_	NOUN	_	_	3	nsubj	_	Gloss=NOM.F
+2	sigilen	_	VERB	_	_	1	acl	_	Gloss=asseoir|Morf=asseoir,PTCP.RES
+3	tora	tora	VERB	_	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=rester|Morf=rester,PFV.INTR|SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+5	a	_	PRON	_	_	8	nsubj	_	Gloss=3SG
+6	bɛ	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=être|SpaceAfter=No
+7	ka	ka	AUX	pm	_	6	fixed	_	Gloss=INF
+8	kasi	_	VERB	_	_	3	parataxis	_	Gloss=pleurer|SpaceAfter=No
+9	.	_	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:45
+# text = A y'i to ka kunkanba dɔ mɛn a kɔ fɛ.
+# status = WIP
+1	A	_	PRON	_	_	4	nsubj	_	Gloss=3SG
+2	y'	ye	AUX	_	Aspect=Perf	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
+3	i	_	PRON	_	_	4	obj	_	Gloss=REFL|Reflexive=Yes
+4	to	_	VERB	_	_	0	root	_	Gloss=rester
+5	ka	ka	AUX	_	_	8	aux	_	Gloss=INF
+6	kunkanba	_	NOUN	_	_	8	obj	_	Gloss=bruit|Morf=bruit,tête,cou,AUGM
+7	dɔ	_	DET	_	_	6	det	_	Gloss=certain
+8	mɛn	_	VERB	_	_	4	xcomp	_	Gloss=entendre
+9	a	_	PRON	_	_	8	obl	_	Gloss=3SG
+10	kɔ	_	ADP	_	_	9	case	_	Gloss=dos
+11	fɛ	_	ADP	_	_	10	fixed	_	Gloss=par|SpaceAfter=No
+12	.	_	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:46
+# text = Yiiliba bɔra tu la, k'o fili a kan.
+# status = WIP
+1	Yiiliba	Yeelenba	NOUN	_	_	2	nsubj	_	Gloss=lumière|Morf=lumière,AUGM
+2	bɔra	_	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=sortir|Morf=sortir,PFV.INTR
+3	tu	tú	NOUN	adv	_	2	obl	_	Gloss=touffe
+4	la	lá	ADP	pp	_	3	case	_	Gloss=à|SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+6	k'	k'	AUX	cop	_	8	aux	_	Gloss=INF|SpaceAfter=No
+7	o	ò	PRON	prn	_	8	obj	_	Gloss=ce
+8	fili	fìli	VERB	v	_	2	xcomp	_	Gloss=jeter
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obl	_	Gloss=3SG
+10	kan	kàn	ADP	pp	_	9	case	_	Gloss=sur|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:47
+# text = Yiili tigɛra tuma min na, o kɔ kɛra burangosidibi ye.
+# status = WIP
+1	Yiili	yeelen	NOUN	_	_	2	nsubj	_	Gloss=lumière
+2	tigɛra	_	VERB	_	_	9	acl	_	Gloss=couper|Morf=couper,PFV.INTR
+3	tuma	tùma	NOUN	n	_	2	obl	_	Gloss=moment
+4	min	mín	DET	prn	PronType=Rel	3	det:rel	_	Gloss=REL
+5	na	ná	ADP	pp	_	3	case	_	Gloss=à|SpaceAfter=No
+6	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+7	o	_	PRON	_	_	8	nmod:poss	_	Gloss=ce
+8	kɔ	_	NOUN	_	_	9	nsubj	_	Gloss=marigot
+9	kɛra	_	VERB	_	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=faire|Morf=faire,PFV.INTR
+10	burangosidibi	_	NOUN	_	_	9	obl	_	Gloss=ténèbres.épaisses|Morf=ténèbres.épaisses,beau-parent,battre,obscurité
+11	ye	_	ADP	_	_	10	case	_	Gloss=PP|SpaceAfter=No
+12	.	_	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:48
+# text = Jumanjɛ siran nan, a bɛ yɛrɛyɛrɛ iko jiri fura bɛ sanfiyɛn bolo.
+# status = WIP
+1	Jumanjɛ	_	NOUN	_	_	2	nsubj	_	Gloss=NOM.F
+2	siranna	_	VERB	_	_	0	root	_	Gloss=craindre|Morf=craindre,PFV.INTR|SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+4	a	_	PRON	_	_	6	nsubj	_	Gloss=3SG
+5	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
+6	yɛrɛyɛrɛ	_	VERB	_	_	2	conj	_	Gloss=trembler
+7	iko	_	SCONJ	_	_	10	mark	_	Gloss=comme
+8	jiri	_	NOUN	_	_	9	nmod:poss	_	Gloss=arbre
+9	fura	_	NOUN	_	_	10	nsubj	_	Gloss=feuille
+10	bɛ	bɛ	VERB	_	_	6	advcl	_	Gloss=être
+11	sanfiyɛn	_	NOUN	_	_	10	obl	_	Gloss=bourrasque|Morf=bourrasque,ciel,vent
+12	bolo	_	ADP	_	_	11	case	_	Gloss=CNTRL|SpaceAfter=No
+13	.	_	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:49
+# text = A ɲɛnkiliw gannen tora iko jakuma-wara taw.
+# status = WIP
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
+2	ɲɛnkiliw	_	NOUN	n	Number=Plur	4	nsubj	_	Gloss=globe.occulaire|Morf=globe.occulaire,oeil,oeuf
+3	gannen	gannen	VERB	ptcp	Aspect=Perf|VerbForm=Part	2	acl	_	Gloss=sauter|Morf=sauter,PTCP.RES
+4	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=rester|Morf=rester,PFV.INTR
+5	iko	íko	ADP	conj	_	7	case	_	Gloss=comme
+6	jakuma-wara	jakuma-wara	NOUN	n	_	7	nmod:poss	_	Gloss=chat.ganté|Morf=chat.ganté,chat,fauve
+7	taw	taw	NOUN	v	Number=Plur	4	obl	_	Gloss=propriété|Morf=propriété,PL|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:50
+# text = A sɔnkun bɛka panpan iko kolokalan kan.
+# status = WIP
+1	A	_	PRON	_	_	2	nsubj	_	Gloss=3SG
+2	sɔnkun	_	NOUN	_	_	5	nsubj	_	Gloss=coeur|Morf=coeur,cœur,tête
+3	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=être|SpaceAfter=No
+4	ka	ka	AUX	_	_	3	fixed	_	Gloss=INF
+5	panpan	_	VERB	_	_	0	root	_	Gloss=sautiller|Morf=sautiller,sauter,INTENS
+6	iko	_	ADP	_	_	7	case	_	Gloss=comme
+7	kolokalan	_	NOUN	_	_	5	obl	_	Gloss=pilon|Morf=pilon,mortier,tige
+8	kan	_	ADP	_	_	7	case	_	Gloss=cou|SpaceAfter=No
+9	.	_	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:51
+# text = Kɔrɔfɔ in sera dugu cɛkɔrɔbaw tulo na tuma min na, olu ye sagajigi wɛlɛwɛlɛ minɛ, ka taga Tufin Kɔba danga na.
+# status = WIP
+1	Kɔrɔfɔ	_	NOUN	_	_	3	nsubj	_	Gloss=discussion|Morf=discussion,dessous,action.de.dire
+2	in	_	DET	_	_	1	det	_	Gloss=DEF
+3	sera	sera	VERB	_	Aspect=Perf|Polarity=Pos|Valency=1	16	acl	_	Gloss=arriver|Morf=arriver,PFV.INTR
+4	dugu	_	NOUN	_	_	5	nmod:poss	_	Gloss=terre
+5	cɛkɔrɔbaw	_	NOUN	_	_	6	nmod:poss	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM,PL
+6	tulo	_	NOUN	_	_	3	obl	_	Gloss=oreille
+7	na	ná	ADP	_	_	6	case	_	Gloss=à
+8	tuma	tùma	NOUN	n	_	3	obl	_	Gloss=moment
+9	min	mín	DET	prn	PronType=Rel	8	det:rel	_	Gloss=REL
+10	na	ná	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
+11	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+12	olu	_	PRON	_	_	16	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+13	ye	ye	AUX	_	Aspect=Perf	16	aux	_	Gloss=PFV.TR
+14	sagajigi	_	NOUN	_	_	16	obj	_	Gloss=bélier|Morf=bélier,ovin,mâle
+15	wɛlɛwɛlɛ	_	ADJ	_	_	14	amod	_	Gloss=très.blanc
+16	minɛ	_	VERB	_	_	0	root	_	Gloss=attraper|SpaceAfter=No
+17	,	_	PUNCT	_	_	16	punct	_	Gloss=,
+18	ka	ka	AUX	_	_	19	aux	_	Gloss=INF
+19	taga	_	VERB	_	_	16	xcomp	_	Gloss=aller
+20	TufinKɔba	_	PROPN	_	_	21	nmod:poss	_	Gloss=TOP
+21	danga	_	NOUN	_	_	19	obl	_	Gloss=campement
+22	na	_	ADP	_	_	21	case	_	Gloss=à|SpaceAfter=No
+23	.	_	PUNCT	_	_	16	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:52
+# text = Cɛkɔrɔba kelen ye sagajigi minɛ k'i kanto:
+# status = WIP
+1	Cɛkɔrɔba	_	NOUN	_	_	5	nsubj	_	Gloss=vieillard|Morf=vieillard,homme.assez.âgé,mâle,vieux,AUGM
+2	kelen	kélen	NUM	_	_	1	nummod	_	Gloss=un
+3	ye	ye	AUX	_	Aspect=Perf	5	aux	_	Gloss=PFV.TR
+4	sagajigi	_	NOUN	_	_	5	obj	_	Gloss=bélier|Morf=bélier,ovin,mâle
+5	minɛ	_	VERB	_	_	0	root	_	Gloss=attraper
+6	k'	ka	AUX	_	_	8	aux	_	Gloss=INF|SpaceAfter=No
+7	i	_	PRON	_	_	8	obj	_	Gloss=REFL|Reflexive=Yes
+8	kanto	_	VERB	_	_	5	xcomp	_	Gloss=s'adresser|Morf=s'adresser,cou,rester|SpaceAfter=No
+9	:	_	PUNCT	_	_	5	punct	_	Gloss=:
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:53
+# text = “Jinemuso ɲagalen, e ka minɛ, o ye anw ka minɛ ye.
+# status = WIP
+1	“	_	PUNCT	_	_	2	punct	_	Gloss=“|SpaceAfter=No
+2	Jinemuso	Jinemuso	PROPN	n.prop	_	10	vocative	_	Gloss=esprit|Morf=esprit,femme|SpaceAfter=No
+3	ɲagalen	_	PRON	_	Aspect=Perf|VerbForm=Part	2	appos	_	Gloss=NOM.F|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	7	nmod:poss	_	Gloss=2SG.EMPH
+6	ka	ka	ADP	_	_	5	case	_	Gloss=POSS
+7	minɛ	_	NOUN	_	_	10	dislocated:subj	_	Gloss=procédé|SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	Gloss=,
+9	o	_	PRON	_	_	10	nsubj	_	Gloss=ce
+10	ye	ye	VERB	_	Aspect=Perf|Polarity=Pos|Valency=2	0	root	_	Gloss=EQU
+11	anw	ánw	PRON	pers	Number=Plur|Person=2|PronType=Emp	13	nmod:poss	_	Gloss=1PL.EMPH
+12	ka	ka	ADP	_	_	11	case	_	Gloss=POSS
+13	minɛ	_	NOUN	_	_	10	obl	_	Gloss=procédé
+14	ye	_	ADP	_	_	13	case	_	Gloss=PP|SpaceAfter=No
+15	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:54
+# text = e ka bila, o ye anw ka bila ye.
+# status = WIP
+1	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
+2	ka	ka	ADP	pm	_	1	case	_	Gloss=POSS
+3	bila	bìla	NOUN	v	_	6	dislocated:subj	_	Gloss=abandon|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	o	ò	PRON	prn	_	6	nsubj	_	Gloss=ce
+6	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+7	anw	ánw	PRON	pers	Number=Plur|Person=2|PronType=Emp	9	nmod:poss	_	Gloss=1PL.EMPH
+8	ka	ka	ADP	pm	_	7	case	_	Gloss=POSS
+9	bila	bìla	NOUN	v	_	6	obl	_	Gloss=abandon
+10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP|SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:55
+# text = Den bɛ bi a tabaa bolo.
+# status = WIP
+1	Den	dén	NOUN	n	_	3	nsubj	_	Gloss=enfant
+2	bɛ	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.AFF
+3	bi	bin	VERB	_	_	0	root	_	Gloss=tomber
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=3SG
+5	tabaa	_	NOUN	_	_	3	obl	_	Gloss=prendre|Morf=prendre,AG.OCC
+6	bolo	_	ADP	_	_	5	case	_	Gloss=CNTRL|SpaceAfter=No
+7	.	_	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:56
+# text = Daga da jɛgɛnna, ŋ'a kɔnɔfɛn ma bɔn.
+# status = WIP
+1	Daga	Daga	NOUN	_	_	2	nmod:poss	_	Gloss=canari
+2	da	_	NOUN	_	_	3	nsubj	_	Gloss=bouche
+3	jɛgɛnna	_	VERB	_	_	0	root	_	Gloss=incliner|Morf=incliner,PFV.INTR|SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+5	ŋ'	_	CCONJ	_	_	9	cc	_	Gloss=mais|SpaceAfter=No
+6	a	_	PRON	_	_	7	nmod:poss	_	Gloss=3SG
+7	kɔnɔfɛn	_	NOUN	_	_	9	nsubj	_	Gloss=ventre|Morf=ventre,chose
+8	ma	ma	AUX	_	Aspect=Perf|Polarity=Neg	9	aux	_	Gloss=PFV.NEG
+9	bɔn	_	VERB	_	_	3	conj	_	Gloss=répandre|SpaceAfter=No
+10	.	_	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:57
+# text = anw donna e gasi la.
+# status = WIP
+1	anw	ánw	PRON	pers	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Gloss=1PL.EMPH
+2	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=entrer|Morf=entrer,PFV.INTR
+3	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	4	nmod:poss	_	Gloss=2SG.EMPH
+4	gasi	kàsi	NOUN	_	_	2	obl	_	Gloss=tort
+5	la	lá	ADP	pp	_	4	case	_	Gloss=à|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:58
+# text = i tɛka min kɛ fɔlɔ, i kanan o kɛ tugun.
+# status = WIP
+1	i	_	PRON	_	_	4	nsubj	_	Gloss=2SG
+2	tɛka	_	AUX	_	_	4	aux	_	Gloss=INFR.NEG
+3	min	_	PRON	_	_	4	obj	_	Gloss=REL
+4	kɛ	_	VERB	_	_	9	acl	_	Gloss=faire
+5	fɔlɔ	_	ADV	_	_	4	obl	_	Gloss=autrefois|SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	Gloss=,
+7	i	_	PRON	_	_	10	nsubj	_	Gloss=2SG
+8	kanan	_	AUX	_	_	10	aux	_	Gloss=PROH
+9	o	_	PRON	_	_	10	obj	_	Gloss=ce
+10	kɛ	_	VERB	_	_	0	root	_	Gloss=faire
+11	tugun	_	ADV	_	_	10	obl	_	Gloss=encore|SpaceAfter=No
+12	.	_	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:59
+# text = i mana kɛ ka min kɛ, i bolo segin i kɔ.
+# status = WIP
+1	i	_	PRON	_	_	3	nsubj	_	Gloss=2SG
+2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	3	aux	_	Gloss=COND.AFF
+3	kɛ	_	VERB	_	_	10	acl	_	Gloss=faire
+4	ka	ka	AUX	_	_	6	aux	_	Gloss=INF
+5	min	_	PRON	_	_	6	obj	_	Gloss=REL
+6	kɛ	_	VERB	_	_	3	xcomp	_	Gloss=faire|SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	Gloss=,
+8	i	_	PRON	_	_	9	nmod:poss	_	Gloss=2SG
+9	bolo	_	NOUN	n	_	10	obj	_	Gloss=bras
+10	segin	_	VERB	_	_	0	root	_	Gloss=revenir
+11	i	_	PRON	_	_	10	obl	_	Gloss=2SG
+12	kɔ	_	ADP	_	_	11	case	_	Gloss=après|SpaceAfter=No
+13	.	_	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:60
+# text = i sɔn sagajigi filɛ.
+# status = WIP
+1	i	_	PRON	_	_	2	nmod:poss	_	Gloss=2SG
+2	sɔnsagajigi	_	NOUN	_	_	3	obj	_	Gloss=gratifier|Morf=gratifier,bélier,ovin,mâle
+3	filɛ	_	VERB	_	_	0	root	_	Gloss=regarder|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:61
+# text = Cɛkɔrɔba y'o fɔ ka sagajigi bila yɔrɔ min na, sagajigi tagamana ka don ji la, ka tunun tugu-tege.
+# status = WIP
+1	Cɛkɔrɔba	_	NOUN	_	_	4	nsubj	_	Gloss=vieillard|Morf=vieillard,homme.assez.âgé,mâle,vieux,AUGM
+2	y'	ye	AUX	_	Aspect=Perf	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
+3	o	_	PRON	_	_	4	obj	_	Gloss=ce
+4	fɔ	_	VERB	_	_	13	acl	_	Gloss=dire
+5	ka	ka	AUX	_	_	7	aux	_	Gloss=INF
+6	sagajigi	_	NOUN	_	_	7	obj	_	Gloss=bélier|Morf=bélier,ovin,mâle
+7	bila	_	VERB	_	_	4	xcomp	_	Gloss=mettre
+8	yɔrɔ	_	NOUN	_	_	4	obl	_	Gloss=lieu
+9	min	_	DET	_	PronType=Rel	8	det	_	Gloss=REL
+10	na	_	ADP	_	_	8	case	_	Gloss=à|SpaceAfter=No
+11	,	_	PUNCT	_	_	4	punct	_	Gloss=,
+12	sagajigi	_	NOUN	_	_	13	nsubj	_	Gloss=bélier|Morf=bélier,ovin,mâle
+13	tagamana	_	VERB	_	_	0	root	_	Gloss=marcher|Morf=marcher,PFV.INTR
+14	ka	ka	AUX	_	_	15	aux	_	Gloss=INF
+15	don	_	VERB	_	_	13	xcomp	_	Gloss=entrer
+16	ji	_	NOUN	_	_	15	obl	_	Gloss=eau
+17	la	_	ADP	_	_	16	case	_	Gloss=à|SpaceAfter=No
+18	,	_	PUNCT	_	_	13	punct	_	Gloss=,
+19	ka	ka	AUX	_	_	20	aux	_	Gloss=INF
+20	tunun	_	VERB	_	_	13	xcomp	_	Gloss=perdre
+21	tugu-tege	_	ADV	_	_	20	obl	_	Gloss=en.faisant.exprès.de.trébucher|SpaceAfter=No
+22	.	_	PUNCT	_	_	13	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:62
+# text = Kabini o kɛra, ji jɛyara a nɔnkɔrɔla.
+# status = WIP
+1	Kabini	Kabini	SCONJ	_	_	3	mark	_	Gloss=depuis|Morf=depuis,depuis,si
+2	o	_	PRON	_	_	3	nsubj	_	Gloss=ce
+3	kɛra	_	VERB	_	Aspect=Perf|Polarity=Pos|Valency=1	6	advcl	_	Gloss=faire|Morf=faire,PFV.INTR|SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	Gloss=,
+5	ji	_	NOUN	_	_	6	nsubj	_	Gloss=eau
+6	jɛyara	_	VERB	_	_	0	root	_	Gloss=blanchir|Morf=blanchir,blanc,DEQU,PFV.INTR
+7	a	_	PRON	_	_	8	nmod:poss	_	Gloss=3SG
+8	nɔn	_	NOUN	_	_	6	obl	_	Gloss=trace|SpaceAfter=No
+9	kɔrɔ	_	ADJ	_	_	8	amod	_	Gloss=vieux|SpaceAfter=No
+10	la	_	ADP	_	_	8	case	_	Gloss=à|SpaceAfter=No
+11	.	_	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:63
+# text = Jumanjɛ wilila k'a jɔ, kumakanba bɔra tu ɲɔkɔnɔn fɛ [ko]:
+# status = WIP
+1	Jumanjɛ	_	NOUN	_	_	2	nsubj	_	Gloss=NOM.F
+2	wilila	_	VERB	_	_	0	root	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+3	k'	ka	AUX	_	_	5	aux	_	Gloss=INF|SpaceAfter=No
+4	a	_	PRON	_	_	5	obj	_	Gloss=3SG
+5	jɔ	_	VERB	_	_	2	xcomp	_	Gloss=dresser|SpaceAfter=No
+6	,	_	PUNCT	_	_	2	punct	_	Gloss=,
+7	kumakanba	_	NOUN	_	_	8	nsubj	_	Gloss=son.de.la.voix|Morf=son.de.la.voix,parole,cou,AUGM
+8	bɔra	_	VERB	_	_	2	conj	_	Gloss=sortir|Morf=sortir,PFV.INTR
+9	tu	_	NOUN	_	_	10	nmod:poss	_	Gloss=touffe
+10	ɲɔkɔnɔn	_	NOUN	_	_	8	obl	_	Gloss=fond.d'une.pièce|Morf=fond.d'une.pièce,oeil,ventre
+11	fɛ	_	ADP	_	_	10	case	_	Gloss=par
+12	[	_	PUNCT	_	_	13	punct	_	Gloss=[|SpaceAfter=No
+13	ko	_	PART	_	_	8	discourse	_	Gloss=QUOT|SpaceAfter=No
+14	]	_	PUNCT	_	_	13	punct	_	Gloss=]|SpaceAfter=No
+15	:	_	PUNCT	_	_	2	punct	_	Gloss=:
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:64
+# text = “- Ne yafara aw ma.
+# status = WIP
+1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|SpaceAfter=No
+2	-	-	PUNCT	_	_	4	punct	_	Gloss=-
+3	Ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
+4	yafara	yafara	VERB	v	_	0	root	_	Gloss=pardonner|Morf=pardonner,PFV.INTR
+5	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	4	obl	_	Gloss=2PL.EMPH
+6	ma	mà	ADP	pp	_	5	case	_	Gloss=ADR|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:65
+# text = Jumanjɛ nɔn tɛ.
+# status = WIP
+1	Jumanjɛ	_	NOUN	_	_	2	nmod:poss	_	Gloss=NOM.F
+2	nɔn	_	NOUN	_	_	3	nsubj	_	Gloss=trace
+3	tɛ	_	VERB	_	_	0	root	_	Gloss=COP.NEG|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:66
+# text = A terikɛ nɔn don. ”
+# status = WIP
+1	A	_	PRON	_	_	2	nmod:poss	_	Gloss=3SG
+2	terikɛ	_	NOUN	_	_	3	nmod:poss	_	Gloss=ami|Morf=ami,ami,mâle
+3	nɔn	_	NOUN	_	_	4	nsubj	_	Gloss=trace
+4	don	_	VERB	_	_	0	root	_	Gloss=ID|SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	_	Gloss=.
+6	”	_	PUNCT	_	_	4	punct	_	Gloss=”
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:67
+# text = Teriya ye kɔrɔlen ye.
+# status = WIP
+1	Teriya	Teriya	PROPN	n.prop	_	2	nsubj	_	Gloss=amitié|Morf=amitié,ami,ABSTR
+2	ye	ye	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+3	kɔrɔlen	kɔrɔ̀lɔn	NOUN	n	_	2	obl	_	Gloss=vieilli|Morf=vieilli,vieillir,PTCP.RES
+4	ye	yé	ADP	pp	_	3	case	_	Gloss=PP|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:68
+# text = N'i teri ye sira jugu don i kɔrɔ don o don, a ye teriya dabila o don.
+# status = WIP
+1	N'	N'	SCONJ	conj	_	7	mark	_	Gloss=si|SpaceAfter=No
+2	i	í	PRON	pers	PronType=Prs	3	nmod:poss	_	Gloss=2SG
+3	teri	_	NOUN	_	_	7	nsubj	_	Gloss=ami
+4	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
+5	sira	síra	NOUN	n	_	7	obj	_	Gloss=chemin
+6	jugu	_	ADJ	n	_	5	amod	_	Gloss=méchant
+7	don	dòn	VERB	v	_	17	advcl	_	Gloss=entrer
+8	i	_	PRON	_	PronType=Prs	7	obl	_	Gloss=2SG
+9	kɔrɔ	_	NOUN	n	_	8	case	_	Gloss=sous
+10	don	_	NOUN	_	_	7	obl	_	Gloss=jour
+11	o	ò	CONJ	prn	_	12	cc	_	Gloss=DISTR
+12	don	dòn	NOUN	_	_	10	conj	_	Gloss=jour|SpaceAfter=No
+13	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Gloss=2PL
+15	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	17	aux	_	Gloss=IMP
+16	teriya	_	NOUN	_	_	17	obj	_	Gloss=amitié|Morf=amitié,ami,ABSTR
+17	dabila	_	VERB	_	_	0	root	_	Gloss=cesser|Morf=cesser,bouche,mettre
+18	o	ò	DET	prn	_	19	det	_	Gloss=ce
+19	don	dòn	NOUN	cop	_	17	obl	_	Gloss=jour|SpaceAfter=No
+20	.	.	PUNCT	_	_	17	punct	_	Gloss=.
+
+# sent_id = diarra-juman_norola-ELAN.dis.html:69
+# text = Bamananw ko : “Ko kɔrɔbɔla, o si tɛ bɛrɛ ye. ”
+# status = WIP
+1	Bamananw	_	NOUN	_	_	2	nsubj	_	Gloss=bambara|Morf=bambara,PL
+2	ko	_	VERB	_	_	0	root	_	Gloss=QUOT
+3	:	_	PUNCT	_	_	2	punct	_	Gloss=:
+4	“	_	PUNCT	_	_	10	punct	_	Gloss=“|SpaceAfter=No
+5	Ko	_	NOUN	_	_	10	dislocated:subj	_	Gloss=affaire
+6	kɔrɔbɔla	_	NOUN	_	_	5	amod	_	Gloss=celui.qui.teste|Morf=celui.qui.teste,essayer,dessous,sortir,AG.PRM|SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	Gloss=,
+8	o	_	PRON	_	_	9	nmod:poss	_	Gloss=ce
+9	si	_	NOUN	_	_	10	nsubj	_	Gloss=aucun
+10	tɛ	tɛ	VERB	_	Aspect=Imp|Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
+11	bɛrɛ	_	NOUN	_	_	10	obl	_	Gloss=beaucoup
+12	ye	_	ADP	_	_	11	case	_	Gloss=PP|SpaceAfter=No
+13	.	_	PUNCT	_	_	10	punct	_	Gloss=.
+14	”	_	PUNCT	_	_	10	punct	_	Gloss=”
+
