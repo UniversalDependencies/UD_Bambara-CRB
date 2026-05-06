@@ -1,7 +1,70 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 5 17:01:41 2026 +0200
+Evaluating the following revision of UD_Bambara-CRB:
+commit 6d9ece3762deee9b05bb12da41af50d122215ff9
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 12:05:32 2026 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'bm_crb'
+Language code (from CoNLL-U file name) = 'bm'
+Found the following data files: bm_crb-ud-test.conllu
+Size: counted 13823 of 13823 words (nodes).
+Size: min(0, log((N/1000)**2)) = 5.25266774296444.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.8.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 4057 out of 13823 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 30 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Genres: found 2 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang bm --max-err=10 UD_Bambara-CRB/bm_crb-ud-test.conllu
+[Line 25 Sent ko.1]: [L3 WARNING pron-det-without-prontype] The word 'o' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 32 Sent ko.1]: [L3 WARNING pron-det-without-prontype] The word 'o' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 40 Sent ko.2]: [L3 WARNING pron-det-without-prontype] The word 'A' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 60 Sent ko.3]: [L3 WARNING pron-det-without-prontype] The word 'A' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 63 Sent ko.3]: [L3 WARNING pron-det-without-prontype] The word 'u' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 72 Sent ko.3]: [L3 WARNING pron-det-without-prontype] The word 'in' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 79 Sent ko.4]: [L3 WARNING pron-det-without-prontype] The word 'O' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 88 Sent ko.5]: [L3 WARNING pron-det-without-prontype] The word 'An' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 90 Sent ko.5]: [L3 WARNING pron-det-without-prontype] The word 'a' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 107 Sent ko.6]: [L3 WARNING pron-det-without-prontype] The word 'A' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 148 Sent ko.7]: [L3 WARNING fixed-without-extpos] Fixed expression 'bɛ ka' does not have the 'ExtPos' feature
+[Line 317 Sent ko.16]: [L3 WARNING fixed-without-extpos] Fixed expression 'bɛ k'' does not have the 'ExtPos' feature
+[Line 400 Sent ko.19]: [L3 WARNING fixed-without-extpos] Fixed expression 'bɛ k'' does not have the 'ExtPos' feature
+[Line 2453 Sent meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:41]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'tilegan') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2925 Sent meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:75]: [L3 SYNTAX leaf-det] 'det' not expected to have children (14:o:det --> 12:kè:acl)
+[Line 5181 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:2]: [L3 WARNING fixed-without-extpos] Fixed expression 'bè na' does not have the 'ExtPos' feature
+[Line 5281 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:9]: [L3 WARNING fixed-without-extpos] Fixed expression 'bè kan ka' does not have the 'ExtPos' feature
+[Line 5458 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:20]: [L3 WARNING fixed-without-extpos] Fixed expression 'bè kan ka' does not have the 'ExtPos' feature
+[Line 5570 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:28]: [L3 WARNING fixed-without-extpos] Fixed expression 'bè kan ka' does not have the 'ExtPos' feature
+[Line 5683 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:38]: [L3 WARNING fixed-without-extpos] Fixed expression 'bè kan ka' does not have the 'ExtPos' feature
+[Line 5836 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:49]: [L3 WARNING fixed-without-extpos] Fixed expression 'bè kan ka' does not have the 'ExtPos' feature
+[Line 6016 Sent meyer_gorog-contes_bambara_07denmuso_fila.dis.html:62]: [L3 WARNING fixed-without-extpos] Fixed expression 'bè kan ka' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 9293 Sent meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:113]: [L3 SYNTAX too-many-objects] Multiple direct objects [7, 9] ('kònònin', 'muso') under the predicate 'sòrò'.
+[Line 9837 Sent meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:33]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'subagamuso') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 10516 Sent meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:76]: [L3 SYNTAX obl-should-be-nmod] The parent (node [22] 'sungurun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 16558 Sent meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:52]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 3] ('sosobarafa', 'ti') under the predicate 'filè'.
+Warnings: 652
+SYNTAX errors: 6
+*** FAILED *** with 6 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.24) = 0.0266666666666667
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.380200769340111) = 0.140815099755597
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
+(weight=0.111111111111111) * (score{udeprels}=0.648648648648649) = 0.0720720720720721
+(TOTAL score=0.449633722299709) * (availability=1) * (validity=0.01) = 0.00449633722299709
+STARS = 0
+UD_Bambara-CRB	0.00449633722299709	0
