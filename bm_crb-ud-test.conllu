@@ -2450,7 +2450,7 @@
 2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
 3	tilegan	tìlegan	NOUN	n	_	7	obl	_	Gloss=grand.soleil|Morf=grand.soleil,soleil,chaud
 4	fè	fɛ̀	ADP	pp	_	3	case	_	Gloss=par
-5	tuguni	túguni	ADV	adv	_	3	obl	_	Gloss=encore|Morf=encore,et
+5	tuguni	túguni	ADV	adv	_	3	advmod	_	Gloss=encore|Morf=encore,et
 6	Bilali	Bilali	PROPN	n.prop	_	7	nsubj	_	Gloss=NOM.M
 7	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 8	ni	ni	ADP	conj	_	11	case	_	Gloss=et
@@ -9834,7 +9834,7 @@
 7	don	dòn	VERB	v	_	3	parataxis:obj	_	Gloss=entrer
 8	subagamuso	subagamuso	NOUN	n	_	7	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
 9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=vers
-10	yen	yèn	ADV	adv/n	_	8	obl	_	Gloss=là-bas|SpaceAfter=No
+10	yen	yèn	ADV	adv/n	_	8	advmod	_	Gloss=là-bas|SpaceAfter=No
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 12	subagamuso	subagamuso	NOUN	n	_	16	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
 13	fana	fána	PART	prt	_	16	discourse	_	Gloss=aussi
@@ -10513,7 +10513,7 @@
 21	ka	ká	ADP	conj	_	20	case	_	Gloss=POSS
 22	sungurun	súngurun	NOUN	n	_	17	obl	_	Gloss=jeune.fille
 23	nyumannin	ɲumannin	ADJ	adj	_	22	amod	_	Gloss=bon|Morf=bon,DIM
-24	ye	yé	ADP	pp	_	22	obl	_	Gloss=PP|SpaceAfter=No
+24	ye	yé	ADP	pp	_	22	nmod	_	Gloss=PP|SpaceAfter=No
 25	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:77
